@@ -1,0 +1,9 @@
+#after_actions,
+#banner,
+.sidebar,
+.request-footer__action-bar-container,
+#footer,
+.request-header__action-bar__actions  .action-bar__follow,
+#left_column > .outgoing ~ .outgoing {
+    display: none;
+}

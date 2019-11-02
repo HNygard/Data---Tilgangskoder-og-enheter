@@ -1,0 +1,18 @@
+Halden kommune hadde fysisk arkiv fram til og med 29.6.2008. Fram til
+denne dato hadde kommunen elektronisk registrering i ForumWinSak 97 – et
+system etter NOARK3-standarden.
+
+Leverandør Ergo Group.
+
+ 
+
+Fra og med 30.6.2008 ble sak-/arkivsystemet ephorte system med
+NOARK4-standard tatt i bruk – leverandør Ergo Group AS.
+
+ 
+
+I forbindelse med at vi gikk over til ephorte ble det satt skapt
+periodeskille i arkivet.
+
+Dokumenter registrert før skarpt periodeskille er søkbare, som historiske
+baser.

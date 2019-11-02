@@ -1,0 +1,42 @@
+Enhetskode,Enhet,Adresse,,,,,,Postnr,,Poststed,,Tlf,Epost
+FK,Fet kommune,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+RÅD,Rådmannskontoret,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+GARB,Garderåsen barnehage,Postboks 100,,,,,,1901,,Fetsund,,63884346,xxxxxxxxxx@xxx.xxxxxxx.xx
+GARS,Garderåsen skole,Postboks 100,,,,,,1901,,Fetsund,,63887110,xxxxxxxxxx@xxx.xxxxxxx.xx
+HELS,Helsetjenesten,Postboks 100,,,,,,1901,,Fetsund,,63887780,xxxxxxxxxx@xxx.xxxxxxx.xx
+HJEM,Hjemmetjenesten,Postboks 100,,,,,,1901,,Fetsund,,63887540,xxxxxxxxxx@xxx.xxxxxxx.xx
+HOVS,Hovinhøgda skole,Postboks 100,,,,,,1901,,Fetsund,,63882770,xxxxxxxxxx@xxx.xxxxxxx.xx
+KOMTEK,Kommunalteknikk,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+KULT,Kulturenheten,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+FRI,Fet Frivilligsentral,,,,,,,,,,,,
+KULTSK,Kulturskolen,,,,,,,,,,,,
+NERB,Nerdrum barnehage,Postboks 100,,,,,,1901,,Fetsund,,63881416,xxxxxxxxxx@xxx.xxxxxxx.xx
+PERS,Personal- og organisasjonsavdelingen,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+PÅLS,Pålsetunet Bo- og Servicesenter,Postboks 100,,,,,,1901,,Fetsund,,63887500,xxxxxxxxxx@xxx.xxxxxxx.xx
+RIDS,Riddersand skole,Postboks 100,,,,,,1901,,Fetsund,,63887400,xxxxxxxxxx@xxx.xxxxxxx.xx
+SAMF,Samfunn og næring,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+GEO,Geodata,,,,,,,,,,,,
+BYGG,Byggesak,,,,,,,,,,,,
+SERV,Servicetorget,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+SOS,Sosialtjenesten,Postboks 100,,,,,,1901,,Fetsund,,63886201,xxxxxxxxxx@xxx.xxxxxxx.xx
+ØKO,Økonomiavdelingen,Potboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+ØSTB,Østersund barnehage,Postboks 100,,,,,,1901,,Fetsund,,63886300,xxxxxxxxxx@xxx.xxxxxxx.xx
+ØUS,Østersund ungdomsskole,Postboks 100,,,,,,1901,,Fetsund,,63887450,xxxxxxxxxx@xxx.xxxxxxx.xx
+DALS,Dalen skole,Postboks 100,,,,,,1901,,Fetsund,,63888200,xxxxxxxxxx@xxx.xxxxxxx.xx
+NYG,Nygård Barnehage,,,,,,,,,,,,
+RAMB,Ramstadskogen barnehage,,,,,,,,,,,,
+PAVI,Paviljongen barnehage,,,,,,,,,,,,
+NAV,NAV Fet,,,,,,,,,,,,
+B.RÅD,Barnehagefaglig rådgiver,,,,,,,,,,,,
+PPT,PPT,,,,,,,,,,,,
+TIEN,Tienbråten barnehage,,,,,,,,,,,,
+IKT,Kommunikasjon og IKT-utvikling,,,,,,,,,,,,
+TILDEL,Tildelingskontoret,,,,,,,,,,,,
+BARN,Barneverntjenesten,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+RESS,Interkommunalt Ressursteam,,,,,,,,,,,,
+EIEN,Eiendomsenheten,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+FUNK,Tjenesten for funksjonshemmede,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+ORD,Ordføreren,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+FORM,Formannskapskontoret,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+REV,Revisjon,Postboks 100,,,,,,1901,,Fetsund,,63886100,xxxxxxxxxx@xxx.xxxxxxx.xx
+KIRKE,Kirken,Postboks 100,,,,,,1901,,Fetsund,,63886100,
