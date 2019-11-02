@@ -1,1 +1,21 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+A,Harstad Havn - ansatt,22.12.2015,
+DS,Disiplinærsaker (sikret sone),05.02.2015,
+E,Barn og elever,01.01.2010,
+ES,Barn og elever (sikret sone),20.01.2015,
+FS,Fortrolige saker SDT/PER (sikret sone),01.01.2019,
+I,Innfordringer,01.01.2014,
+IS,Innfordringer (sikret sone),21.05.2019,
+MU,Offentlig innkalling og møteprotokoll,04.09.2002,
+OS,Sykefravær - ansatte (sikret sone),19.09.2019,
+P,Ansattsaker,01.02.2005,
+PS,Ansattsaker (Sikret sone),20.01.2015,
+S,Skattesaker,01.11.2013,
+SI,Begrenset etter lov om sikkerhetstjeneste,04.09.2002,04.03.2013
+SS,Skattesaker (sikret sone),12.04.2019,
+T,Spesialpedagogiske saker,04.09.2002,05.02.2015
+TS,TT-kort (sikret sone),28.11.2018,
+U,Unntatt offentligheten,04.09.2002,
+US,Unntatt offentligheten (sikret sone),20.01.2015,
+XX,Midlertidig sperret,01.02.2005,
+Å,Fordelingssak,12.06.2018,12.06.2018

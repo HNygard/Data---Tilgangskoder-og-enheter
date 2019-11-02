@@ -1,1 +1,124 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt,Nedlagt
+,,Harstad kommune,02.01.2004
+[Ufordelt],Ufordelt/sendt tilbake til arkiv,Ufordelt/sendt tilbake til arkiv,
+HK,Harstad kommune,,
+RÅD,Rådmannen,Harstad kommune,
+KEM,Kemnerenheten,Rådmannen,
+PER,Personal- og organisasjonsenheten,Rådmannen,
+REG,Regnskapsenheten,Rådmannen,
+FAG,Fagstab,Rådmannen,
+SEK,Ordføreren,Rådmannen,
+KOM,Kommunalsjef,Rådmannen,
+FLY,Flyktningetjenesten,Kommunalsjef,01.01.2008
+KUF,Kultur- og fritidstjenesten,Kommunalsjef,03.03.2006
+ØYRIKETOPP,Øyriket oppvekstsenter,Kommunalsjef,
+AUB,Aurora barnehage,Kommunalsjef,01.08.2005
+BAB,Barnely barnehage,Kommunalsjef,08.09.2008
+BBA,Bergsåsen barnehager,Kommunalsjef,14.08.2017
+BEA,Breivik barnehage,Kommunalsjef,01.08.2005
+HBA,Hagebyen barnehage,Kommunalsjef,01.08.2005
+KAB,Kaarbøjordet barnehage,Kommunalsjef,01.08.2005
+MEB,Medkila barnehage,Kommunalsjef,01.08.2005
+SBA,Seljestad barnehage,Kommunalsjef,01.08.2005
+SLB,Sletta barnehage,Kommunalsjef,01.08.2005
+GBH,Gangsåstoppen barnehager,Kommunalsjef,
+SOB,Sørbygda barnehage,Kommunalsjef,01.08.2005
+ALS,Alvestad skole,Kommunalsjef,01.08.2010
+AUS,Aun skole,Kommunalsjef,01.01.2006
+BES,Bergseng skole,Kommunalsjef,
+ERS,Ervik skole,Kommunalsjef,01.08.2012
+FAS,Fauskevåg skole,Kommunalsjef,01.08.2005
+GAS,Gausvik Oppvekstsenter,Kommunalsjef,01.08.2012
+HAS,Hagebyen skole,Kommunalsjef,
+HAB,Harstad barneskole,Kommunalsjef,14.02.2006
+HAU,Harstad ungdomsskole,Kommunalsjef,01.01.2006
+KBS,Kanebogen skole,Kommunalsjef,
+KAS,Kasfjord skole,Kommunalsjef,14.12.2005
+KIS,Kila skole,Kommunalsjef,
+LUS,Lundenes skole/Finnvika barnehage,Kommunalsjef,20.05.2011
+MES,Medkila skole,Kommunalsjef,
+SEB,Seljestad barneskole,Kommunalsjef,
+SEU,Seljestad ungdomsskole,Kommunalsjef,
+STS,Stangnes barneskole,Kommunalsjef,01.08.2008
+SSK,Sørvik skole,Kommunalsjef,
+VOS,Harstad voksenopplæring,Kommunalsjef,
+HMT,Helse- og miljøtjenesten,Kommunalsjef,25.03.2009
+BUT,Barneverntjenesten,Kommunalsjef,
+SOS,Sosialtjenesten,Kommunalsjef,01.01.2008
+SLS,Slottet sykehjem,Kommunalsjef,01.02.2009
+HSY,Harstad sykehjem,Kommunalsjef,01.02.2009
+HJN,Hjemmetjenesten nord,Kommunalsjef,01.02.2009
+HJS,Hjemmetjenesten sentrum,Kommunalsjef,25.03.2009
+HSØ,Hjemmetjenesten sør,Kommunalsjef,25.03.2009
+KAN,Kanebogen boenheter,Kommunalsjef,21.02.2009
+OLS,Olavsgården sykehjem,Kommunalsjef,25.03.2009
+PSY,Psykiatritjenesten,Kommunalsjef,25.03.2009
+KSS,Kveldsol sykehjem og servicesenter,Kommunalsjef,21.02.2009
+SAS,Sama sykehjem,Kommunalsjef,25.03.2009
+SSY,Stangnes sykehjem,Kommunalsjef,25.03.2009
+BIB,Harstad bibliotek,Kommunalsjef,
+KUL,Kulturenheten,Kommunalsjef,
+HSK,Harstad skole,Kommunalsjef,
+NSK,Nordbygda skoler,Kommunalsjef,14.10.2008
+HIB,Hinnstein barnehager,Kommunalsjef,12.07.2017
+HEB,Heggen barnehager,Kommunalsjef,
+NBH,Nordhusan barnehager,Kommunalsjef,08.09.2008
+17.08BYB,Byggeklossen Barnehage,Kommunalsjef,17.08.2017
+FBA,Froskedammen barnehager,Kommunalsjef,14.01.2008
+NAV,NAV Harstad,Kommunalsjef,
+KE,Koordinerende enhet,Kommunalsjef,
+FKB,Fargeklatten barnehage,Kommunalsjef,
+HÅB,Harstadåsen barnehager,Kommunalsjef,16.08.2017
+NORD,Omsorg Nord,Kommunalsjef,06.04.2018
+STN,Omsorg Stangnes,Kommunalsjef,
+SØR,Omsorg Sør,Kommunalsjef,
+HELSE,Helsehuset,Kommunalsjef,06.04.2018
+SENT,Omsorg Sentrum,Kommunalsjef,02.05.2018
+GRY,Grytøy oppvekstsenter,Kommunalsjef,29.08.2019
+STA,Stangnes skole,Kommunalsjef,
+ØYA,Omsorg Øysamfunn,Kommunalsjef,05.04.2018
+BJOPPV,Bjarkøy Oppvekstsenter,Kommunalsjef,29.08.2019
+PPT,Pedagogisk-psykologisk tjeneste,Kommunalsjef,
+SHUS,Sørhusan barnehager,Kommunalsjef,
+NHUS,Nordhusan barnehager,Kommunalsjef,
+HELOMS,Enhet for heldøgns omsorg,Kommunalsjef,
+BERG2HO,Bergsodden sykehjem demens,Enhet for heldøgns omsorg,
+OLAVHO,Olavsgården bosenter,Enhet for heldøgns omsorg,
+BERGHO,Bergseng bosenter,Enhet for heldøgns omsorg,
+ØYRIKETHO,"Øyriket - Bjarkøy og Grytøy, helse og omsorg",Enhet for heldøgns omsorg,
+KVELDHO,Kveldsol sykehjem,Enhet for heldøgns omsorg,
+STANGHO,Stangnes sykehjem,Enhet for heldøgns omsorg,
+SLOTTHO,Slottet sykehjem,Enhet for heldøgns omsorg,
+BERG1HO,Bergsodden sykehjem somatikk,Enhet for heldøgns omsorg,
+HJEMMET,Enhet for hjemmetjenester,Kommunalsjef,
+PSYKH,Psykiatri,Enhet for hjemmetjenester,
+KANEH,Kanebogen,Enhet for hjemmetjenester,
+SØRH,Sør,Enhet for hjemmetjenester,
+SENTNATTH,Sentrum og nattjeneste,Enhet for hjemmetjenester,
+NORDH,Nord,Enhet for hjemmetjenester,
+BOOPP,Enhet for bo og oppfølging,Kommunalsjef,
+STANGBO,Stangnes bo og rehabilitering,Enhet for bo og oppfølging,
+DAGAVLBO,Dagtilbud og avlastning,Enhet for bo og oppfølging,
+KNORRBO,Knorrebakken boenheter,Enhet for bo og oppfølging,
+SENTSØRBO,Bo og omsorg sentrum/sør,Enhet for bo og oppfølging,
+ELVEBO,Elveveien,Enhet for bo og oppfølging,
+NORDBO,Bo og omsorg Nord,Enhet for bo og oppfølging,
+HELSEM,Enhet for helse og mestring,Kommunalsjef,
+ADMHELSE,Administrasjon og støtte,Enhet for helse og mestring,
+SOSHELSE,Sosialmedisinsk avdeling,Enhet for helse og mestring,
+FYSERGHELSE,Fysioterapi / ergoterapi / hjemmebasert rehabilitering,Enhet for helse og mestring,
+REHABHELSE,Korttids- og rehabiliteringsavdelingen,Enhet for helse og mestring,
+AKTHELSE,Aktivitetssentrene,Enhet for helse og mestring,
+HSHELSE,Helsestasjon og skolehelsetjenesten,Enhet for helse og mestring,
+FOLKEHELSE,Folkehelse,Enhet for helse og mestring,
+LEGEVAKT,Legevakt,Enhet for helse og mestring,
+LEGE,Legetjeneste,Enhet for helse og mestring,
+SDT,Service- og dokumenttjenesten,Rådmannen,
+ABY,Areal- og byggesakstjenesten,Rådmannen,
+BRB,Brann- og redningstjenesten,Rådmannen,
+STR,Sør-Troms Regionråd,Rådmannen,
+BYG,Bygg- og eiendomstjenesten,Rådmannen,
+HH,Harstad Havn KF,Rådmannen,
+ØT,Økonomitjenesten,Rådmannen,
+IUA,Sør-Troms IUA,Rådmannen,
+DRU,Drift- og utbyggingstjenesten,Rådmannen,
