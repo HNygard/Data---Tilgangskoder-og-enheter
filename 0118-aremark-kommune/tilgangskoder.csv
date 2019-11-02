@@ -1,1 +1,38 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+AS,Ansettelsessaker,1/1/2017,
+B,Barnehagesak,3/10/2017,
+E,Elevsak,3/10/2017,
+F,Fortrolig etter beskyttelsesinstruksen,,
+H,Hemmelig etter sikkerhetsloven,,
+K,Konfidensielt etter sikkerhetsloven,,
+KL,Klientsaker,1/1/2017,
+MU,Møtebehandling,1/1/2017,
+P,Personalsaker,1/1/2017,
+S,Skattesak,5/22/2018,
+SF,Strengt fortrolig etter beskyttelsesinstruksen,,
+U,Unntatt offentlighet,1/1/2017,
+XX,Midlertidig sperret,1/1/2017,
+11,Unntatt etter offentlighetsloven § 11,,1/1/2017
+13,Opplysningar som er underlagde teieplikt,,1/1/2017
+14,Dokument utarbeidde for eiga saksførebuing (organinterne dokument),,1/1/2017
+15,Dokument innhenta utanfrå for den interne saksførebuinga,,1/1/2017
+18,Unntak for rettsaksdokument,,1/1/2017
+23,Unntak av omsyn til det offentlege sin forhandlingsposisjon m.m.,,1/1/2017
+24,"Unntak for kontroll- og reguleringstiltak, dokument om lovbrot m.m.",,1/1/2017
+25,Unntak for tilsetjingssaker m.m.,,1/1/2017
+26,Unntak for eksamenssvar og karekterar m.m.,,1/1/2017
+27,Forskriftsheimel,,1/1/2017
+5,Unntatt etter offentlighetsloven § 5,,1/1/2017
+5A,Unntatt etter offentlighetsloven § 5a,,1/1/2017
+6,Unntatt etter offentlighetsloven § 6,,1/1/2017
+B,Begrenset etter sikkerhetsloven,,1/1/2017
+E,Opplysningar som er underlagde teieplikt,,1/1/2017
+F,Fortrolig etter beskyttelsesinstruksen,,1/1/2017
+H,Hemmelig etter sikkerhetsloven,,1/1/2017
+K,Konfidensielt etter sikkerhetsloven,,1/1/2017
+KL,Klientsaker,,1/1/2017
+MU,Møte og Utvalg,1/1/2002,1/1/2017
+P,Personalsaker,,1/1/2017
+SF,Strengt fortrolig etter beskyttelsesinstruksen,,1/1/2017
+x5,Utsett innsyn,,1/1/2017
+XX,Midlertidig sperret,,1/1/2017

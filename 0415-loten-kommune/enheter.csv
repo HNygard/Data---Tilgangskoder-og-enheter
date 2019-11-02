@@ -1,1 +1,234 @@
-Enhetskode;Enhet
+Underlagt-ID,Underlagt,Underlagt2,Enhet,Enhetskode,Fradato,Tildato
+ADM,Administrasjonsseksjonen,ADM,Administrasjonsseksjonen,ADM,10.01.2008 00:00:00,31.12.2017 00:00:00
+ADM,Administrasjonsseksjonen,ADM,Administrasjon,ADM.ADM,10.01.2008 00:00:00,
+ADM,Administrasjonsseksjonen,SAK,Saksbehandler,ADM.SAK,10.01.2008 00:00:00,
+BRA,"Boliger, rehabilitering og aktivisering",BRA,"Boliger, rehabilitering og aktivisering",BRA,10.01.2008 00:00:00,
+BRA,"Boliger, rehabilitering og aktivisering",ADM,Administrsjon,BRA.ADM,10.01.2008 00:00:00,
+BRA,"Boliger, rehabilitering og aktivisering",SAK,Saksbehandler,BRA.SAK,10.01.2008 00:00:00,
+,,BUF,"Barn, ungdom og familietjenesten",BUF,29.01.2003 00:00:00,31.12.2006 00:00:00
+BUF,"Barn, ungdom og familietjenesten",ANS,Ansettelsesråd,BUF.ANS,29.01.2003 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",ATG,Arbeidstreningsgruppa,BUF.ATG,01.07.2005 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",BUFADM,"Barn, ungdom og familietjenesten",BUF.BUFADM,29.01.2003 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",BV,Barnevernet,BUF.BV,29.01.2003 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",FLYKT,Flyktningetjenesten,BUF.FLYKT,01.07.2005 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",FYS,Fysioterapien,BUF.FYS,29.01.2003 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",HS,Helsestasjonen,BUF.HS,29.01.2003 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",PPT,Pedagogisk psykologisk tjenestekontor,BUF.PPT,29.01.2003 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",SENT,Sentralen,BUF.SENT,03.02.2005 00:00:00,
+BUF,"Barn, ungdom og familietjenesten",SOSTJ,Sosialtjenesten,BUF.SOSTJ,29.01.2003 00:00:00,
+BV,Barneverntjenesten,BV,Barneverntjenesten,BV,10.01.2008 00:00:00,
+BVA,Bygg- og vedlikeholdsseksjonen,BVA,Bygg- og vedlikeholdsseksjonen,BVA,10.01.2008 00:00:00,31.12.2017 00:00:00
+BVA,Bygg- og vedlikeholdsseksjonen,ADM,Administrasjon,BVA.ADM,10.01.2008 00:00:00,06.03.2018 00:00:00
+BV,Barneverntjenesten,ADM,Administrasjon,BV.ADM,10.01.2008 00:00:00,
+BVA,Bygg- og vedlikeholdsseksjonen,SAK,Saksbehandler,BVA.SAK,10.01.2008 00:00:00,06.03.2018 00:00:00
+BV,Barneverntjenesten,SAK,Saksbehandler,BV.SAK,10.01.2008 00:00:00,
+BYGG,Eiendom,BYGG,Eiendom,BYGG,06.03.2018 00:00:00,
+BYGG,Eiendom,ADM,Administrasjon,BYGG.ADM,06.03.2018 00:00:00,
+BYGG,Eiendom,BVA,Bygg- og vedlikeholdsseksjonen,BYGG.BVA,06.03.2018 00:00:00,
+BYGG,Eiendom,ADM,Administrasjon,BYGG.BVA.ADM,06.03.2018 00:00:00,
+BYGG,Eiendom,SAK,Saksbehandler,BYGG.BVA.SAK,06.03.2018 00:00:00,
+BYGG,Eiendom,SAK,Saksbehandler,BYGG.SAK,06.03.2018 00:00:00,
+ESK,Eiendomsskattekontoret,ESK,Eiendomsskattekontoret,ESK,27.11.2008 00:00:00,
+FLT,Flyktningetjenesten,FLT,Flyktningetjenesten,FLT,10.01.2008 00:00:00,15.08.2012 00:00:00
+FLT,Flyktningetjenesten,ADM,Administrasjon,FLT.ADM,10.01.2008 00:00:00,
+FLT,Flyktningetjenesten,SAK,Saksbehandler,FLT.SAK,10.01.2008 00:00:00,
+HFA,Helse- og familietjenesten,HFA,Helse- og familietjenesten,HFA,10.01.2008 00:00:00,
+HFA,Helse- og familietjenesten,ADM,Administrasjon,HFA.ADM,10.01.2008 00:00:00,
+HFA,Helse- og familietjenesten,SAK,Saksbehandler,HFA.SAK,10.01.2008 00:00:00,
+HO,Hjemmebasert omsorg,HO,Hjemmebasert omsorg,HO,10.01.2008 00:00:00,
+HO,Hjemmebasert omsorg,ADM,Administrasjon,HO.ADM,10.01.2008 00:00:00,
+HO,Hjemmebasert omsorg,SAK,Saksbehandler,HO.SAK,10.01.2008 00:00:00,
+,,HRO,"Helse, rehabilitering og omsorg",HRO,30.12.2003 00:00:00,31.12.2007 00:00:00
+HRO,"Helse, rehabilitering og omsorg",ANS,Ansettelsråd,HRO.ANS,30.12.2003 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",HO,Hjemmebasert omsorg,HRO.HO,30.12.2003 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",HROADM,"Helse, rehabilitering og omsorg",HRO.HROADM,30.12.2003 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",KJØ,Kjøkken,HRO.KJØ,01.07.2005 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",LAO,Løten Arbeids- og opplæringssenter,HRO.LAO,30.12.2003 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",LH,Løten Helsetun,HRO.LH,30.12.2003 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",REH,Rehabilitering,HRO.REH,01.07.2005 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",REN,Renhold,HRO.REN,01.07.2005 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",SYA,Sykeavdelingen,HRO.SYA,01.07.2005 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",SYH,Sykehusvn. 2-12,HRO.SYH,01.07.2005 00:00:00,
+HRO,"Helse, rehabilitering og omsorg",TFF,Tjenesten for funksjonshemmede,HRO.TFF,30.12.2003 00:00:00,
+,,HSB,"Helse-, sosial- og tiltak for barn og unge",HSB,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",ANS,Ansettelseråd,HSB.ANS,27.04.2001 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",ATG,Arbeidstreningsgruppa,HSB.ATG,31.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",BV,Barnevernet,HSB.BV,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",FYS,Fysioterapien,HSB.FYS,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",HS,Helsestasjonen,HSB.HS,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",HSBADM,"Helse, sosial- og barnetjenesten",HSB.HSBADM,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",KOM,Kommunelegen,HSB.KOM,08.01.2001 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",LEG,Legesenteret,HSB.LEG,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",PPT,Pedagogisk psykologisk tjenestekontor,HSB.PPT,30.12.1998 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",SOSTJ,Sosialtjenesten,HSB.SOSTJ,02.01.2001 00:00:00,31.07.2005 00:00:00
+HSB,"Helse-, sosial- og tiltak for barn og unge",TA,Tiltak og attføring,HSB.TA,30.12.1998 00:00:00,31.07.2005 00:00:00
+JOB,Jønsrud barnehage,JOB,Jønsrud barnehage,JOB,10.01.2008 00:00:00,
+JOB,Jønsrud barnehage,ADM,Administrasjon,JOB.ADM,10.01.2008 00:00:00,
+JOB,Jønsrud barnehage,SAK,Saksbehandler,JOB.SAK,10.01.2008 00:00:00,
+,Jønsrud skole,JOS,Jønsrud skole,JOS,11.11.1996 00:00:00,
+JOS,Jønsrud skole,ADM,Administrasjon,JOS.ADM,10.01.2008 00:00:00,
+JOS,Jønsrud skole,ANS,Ansettelsesråd,JOS.ANS,11.05.2001 00:00:00,
+JOS,Jønsrud skole,BHG,Jønsrud barnehage,JOS.BHG,11.11.1996 00:00:00,
+JOS,Jønsrud skole,JOSADM,Jønsrud oppvekstsenter,JOS.JOSADM,15.01.1997 00:00:00,
+JOS,Jønsrud skole,JSK,Jønsrud skole,JOS.JSK,11.11.1996 00:00:00,
+JOS,Jønsrud skole,SAK,Saksbehandler,JOS.SAK,10.01.2008 00:00:00,
+JOS,Jønsrud skole,SFOJ,Jønsrudklubben,JOS.SFOJ,15.01.1997 00:00:00,
+,,KIS,"Kultur, informasjon og service",KIS,08.10.2002 00:00:00,31.12.2017 00:00:00
+KIS,"Kultur, informasjon og service",ADM,Administrasjon,KIS.ADM,10.01.2008 00:00:00,06.03.2018 00:00:00
+KIS,"Kultur, informasjon og service",ANS,Ansettelsesråd for KIS,KIS.ANS,08.10.2002 00:00:00,06.03.2018 00:00:00
+KIS,"Kultur, informasjon og service",BOL,Bolig,KIS.BOL,10.01.2008 00:00:00,31.12.2008 00:00:00
+KIS,"Kultur, informasjon og service",BUK,Barne og unges kommunestyre,KIS.BUK,08.10.2002 00:00:00,06.03.2018 00:00:00
+KIS,"Kultur, informasjon og service",KISADM,"Kultur, informasjon og service",KIS.KISADM,08.10.2002 00:00:00,31.12.2008 00:00:00
+KIS,"Kultur, informasjon og service",KU,Kultur,KIS.KU,08.10.2002 00:00:00,31.12.2008 00:00:00
+KIS,"Kultur, informasjon og service",LFB,Løten folkebibliotek,KIS.LFB,08.10.2002 00:00:00,31.12.2008 00:00:00
+KIS,"Kultur, informasjon og service",LOSK,Løten offentlige servicekontor,KIS.LOSK,10.05.2004 00:00:00,31.12.2008 00:00:00
+KIS,"Kultur, informasjon og service",SAK,Saksbehandler,KIS.SAK,10.01.2008 00:00:00,06.03.2018 00:00:00
+KK,Kultur og kommunikasjon,KK,Kultur og kommunikasjon,KK,04.01.2018 00:00:00,
+KK,Kultur og kommunikasjon,ADM,Administrasjon,KK.ADM,04.01.2018 00:00:00,
+KK,Kultur og kommunikasjon,KIS,"Kultur, informasjon og service",KK.KIS,06.03.2018 00:00:00,
+KK,Kultur og kommunikasjon,ADM,Administrasjon,KK.KIS.ADM,06.03.2018 00:00:00,
+KK,Kultur og kommunikasjon,ANS,Ansettelsesråd for KIS,KK.KIS.ANS,06.03.2018 00:00:00,
+KK,Kultur og kommunikasjon,BUK,Barne og unges kommunestyre,KK.KIS.BUK,06.03.2018 00:00:00,
+KK,Kultur og kommunikasjon,SAK,Saksbehandler,KK.KIS.SAK,06.03.2018 00:00:00,
+KK,Kultur og kommunikasjon,SAK,Saksbehandler,KK.SAK,04.01.2018 00:00:00,
+KSV,Kommunalsjef velferd,KSV,Kommunalsjef velferd,KSV,02.01.2019 00:00:00,
+KSV,Kommunalsjef velferd,ADM,Administrasjon,KSV.ADM,02.01.2019 00:00:00,
+KSV,Kommunalsjef velferd,SAK,Saksbehandler,KSV.SAK,02.01.2019 00:00:00,
+KVA,Kvalifisering,KVA,Kvalifisering,KVA,31.01.2011 00:00:00,
+KVA,Kvalifisering,ADM,Administrasjon,KVA.ADM,31.01.2011 00:00:00,
+KVA,Kvalifisering,SAK,Saksbehandler,KVA.SAK,31.01.2011 00:00:00,
+LH,Løten Helsetun,LH,Løten Helsetun,LH,10.01.2008 00:00:00,
+LH,Løten Helsetun,ADM,Administrasjon,LH.ADM,10.01.2008 00:00:00,
+LH,Løten Helsetun,SAK,Saksbehandler,LH.SAK,10.01.2008 00:00:00,
+LK,Løten kommune,LK,Løten kommune,LK,10.01.2008 00:00:00,
+LK,Løten kommune,HMH,Helseadministrasjon-miljørettet helsevern,LK.HMH,10.01.2008 00:00:00,31.12.2013 00:00:00
+LK,Løten kommune,HSA,Helseadministrasjon,LK.HSA,10.01.2008 00:00:00,
+LKO,Løten kommune,LKO,Løten kommune,LKO,03.10.2008 00:00:00,
+LK,Løten kommune,OF,Ordføreren,LK.OF,10.01.2008 00:00:00,
+LK,Løten kommune,PLA,Planadministrasjon,LK.PLA,10.01.2008 00:00:00,
+LK,Løten kommune,PS,Politisk sekretariat,LK.PS,10.01.2008 00:00:00,
+LK,Løten kommune,RK,Rådmannen,LK.RK,10.01.2008 00:00:00,
+LK,Løten kommune,SKA,Skoleadministrasjon,LK.SKA,10.01.2008 00:00:00,
+LK,Løten kommune,SKAP,Skoleadministrasjon - PPT,LK.SKAP,10.01.2008 00:00:00,
+LK,Løten kommune,STAB,Stabsadministrasjon,LK.STAB,10.01.2008 00:00:00,
+LOB,Lund barnehage,LOB,Lund barnehage,LOB,10.01.2008 00:00:00,
+LOB,Lund barnehage,ADM,Administrasjon,LOB.ADM,10.01.2008 00:00:00,
+LOB,Lund barnehage,SAK,Saksbehandler,LOB.SAK,10.01.2008 00:00:00,
+LOG,Logoped,LOG,Logoped,LOG,11.01.2016 00:00:00,
+,Lund skole,LOS,Lund skole,LOS,11.11.1996 00:00:00,
+LOS,Lund skole,ADM,Administrasjon,LOS.ADM,10.01.2008 00:00:00,
+LOS,Lund skole,ANS,Ansettelsesråd,LOS.ANS,13.06.2001 00:00:00,
+LOS,Lund skole,BHGL,Barnehage,LOS.BHGL,15.01.1997 00:00:00,
+LOS,Lund skole,LOSADM,Lund oppvekstsenter,LOS.LOSADM,15.01.1997 00:00:00,
+LOS,Lund skole,LSK,Lund skole,LOS.LSK,11.11.1996 00:00:00,
+LOS,Lund skole,SAK,Saksbehandler,LOS.SAK,10.01.2008 00:00:00,
+LOS,Lund skole,SFOL,Lundsenteret,LOS.SFOL,15.01.1997 00:00:00,
+,,LUS,Løten ungdomsskole,LUS,11.11.1996 00:00:00,
+LUS,Løten ungdomsskole,ADM,Administrasjon,LUS.ADM,10.01.2008 00:00:00,
+LUS,Løten ungdomsskole,ANS,Ansettelsesråd,LUS.ANS,04.07.2001 00:00:00,
+LUS,Løten ungdomsskole,LFB,Løten Folkebibliotek,LUS.LFB,03.02.2005 00:00:00,31.12.2015 00:00:00
+LUS,Løten ungdomsskole,LUSADM,Løten ungdomsskole,LUS.LUSADM,15.01.1997 00:00:00,
+LUS,Løten ungdomsskole,SAK,Saksbehandler,LUS.SAK,10.01.2008 00:00:00,
+MH,Miljørettet helsevern,MH,Miljørettet helsevern,MH,13.03.2015 00:00:00,
+NAV,NAV Løten,NAV,NAV Løten,NAV,28.06.2007 00:00:00,
+,,OF,Ordføreren,OF,11.11.1996 00:00:00,
+OF,Ordføreren,ANS,Ansettelsesråd,OF.ANS,02.04.2002 00:00:00,
+OF,Ordføreren,OFADM,Ordføreren,OF.OFADM,15.01.1997 00:00:00,
+OF,Ordføreren,PS,Politisk sekretariat,OF.PS,11.11.1996 00:00:00,
+,,OSK,Løten offentlige servicekontor,OSK,11.11.1996 00:00:00,31.07.2005 00:00:00
+OSK,Løten offentlige servicekontor,OSKADM,Løten offentlige servicekontor,OSK.OSKADM,15.01.1997 00:00:00,31.07.2005 00:00:00
+PEL,Personal og lønn,PEL,Personal og lønn,PEL,06.03.2018 00:00:00,
+PEL,Personal og lønn,ADM,Administrasjon,PEL.ADM,06.03.2018 00:00:00,
+PEL,Personal og lønn,SAK,Saksbehandler,PEL.SAK,06.03.2018 00:00:00,
+,,PK,Plan- og Kulturstaben,PK,30.12.1998 00:00:00,31.07.2005 00:00:00
+PK,Plan- og Kulturstaben,ANS,Ansettelsesråd Plan og Kultur,PK.ANS,04.02.2000 00:00:00,31.07.2005 00:00:00
+PK,Plan- og Kulturstaben,BO,Bygg og oppmåling,PK.BO,31.12.1998 00:00:00,31.07.2005 00:00:00
+PK,Plan- og Kulturstaben,BUK,Barne og unges kommunestyre,PK.BUK,19.11.2001 00:00:00,31.07.2005 00:00:00
+PK,Plan- og Kulturstaben,KU,Kultur,PK.KU,30.12.1998 00:00:00,31.07.2005 00:00:00
+PK,Plan- og Kulturstaben,LFB,Løten folkebibliotek,PK.LFB,30.12.1998 00:00:00,31.07.2005 00:00:00
+PK,Plan- og Kulturstaben,PKADM,Plan- og kulturadministrasjonen,PK.PKADM,30.12.1998 00:00:00,13.12.2005 00:00:00
+PK,Plan- og Kulturstaben,PLM,"Plan, landbruk og miljø",PK.PLM,30.12.1998 00:00:00,31.07.2005 00:00:00
+,,PO,Personal- og organisasjonsavdelingen,PO,11.11.1996 00:00:00,31.07.2005 00:00:00
+PO,Personal- og organisasjonsavdelingen,ANS,Ansettelsesråd PO-stab,PO.ANS,04.02.2000 00:00:00,31.07.2005 00:00:00
+PO,Personal- og organisasjonsavdelingen,EDB,EDB og organisasjon,PO.EDB,31.12.1998 00:00:00,31.07.2005 00:00:00
+PO,Personal- og organisasjonsavdelingen,LØNN,Lønningskontoret,PO.LØNN,31.12.1998 00:00:00,31.07.2005 00:00:00
+PO,Personal- og organisasjonsavdelingen,OPV,Oppvekst,PO.OPV,11.11.1996 00:00:00,31.07.2005 00:00:00
+PO,Personal- og organisasjonsavdelingen,PAT,Post- og arkivtjenesten,PO.PAT,11.11.1996 00:00:00,31.07.2005 00:00:00
+PO,Personal- og organisasjonsavdelingen,POADM,Personal- og organisasjonsavdelingen,PO.POADM,15.01.1997 00:00:00,31.07.2005 00:00:00
+,,PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",PRO,02.09.2002 00:00:00,31.07.2005 00:00:00
+PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",ANS,Ansettelsesråd,PRO.ANS,02.09.2002 00:00:00,31.07.2005 00:00:00
+PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",HO,Hjemmebasert omsorg,PRO.HO,02.09.2002 00:00:00,31.07.2005 00:00:00
+PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",LAO,Løten Arbeids- og opplæringssenter,PRO.LAO,02.09.2002 00:00:00,31.07.2005 00:00:00
+PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",LH,Løten Helsetun,PRO.LH,02.09.2002 00:00:00,31.07.2005 00:00:00
+PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",PROADM,"Virk.område Pleie, rehabilitering og omsorg",PRO.PROADM,02.09.2002 00:00:00,31.07.2005 00:00:00
+PRO,"Virksomhetsområdet Pleie, rehabilitering og omsorg",TFF,Tjenesten for funksjonshemmede,PRO.TFF,02.09.2002 00:00:00,31.07.2005 00:00:00
+RA,Renhold,RA,Renhold,RA,10.01.2008 00:00:00,
+RB,Ryli barnehage,RB,Ryli barnehage,RB,10.01.2008 00:00:00,
+RB,Ryli barnehage,ADM,Administrasjon,RB.ADM,10.01.2008 00:00:00,
+RB,Ryli barnehage,SAK,Saksbehandler,RB.SAK,10.01.2008 00:00:00,
+RES,Regnskap og skatt,RES,Regnskap og skatt,RES,06.03.2018 00:00:00,
+RES,Regnskap og skatt,ADM,Administrasjon,RES.ADM,06.03.2018 00:00:00,
+RES,Regnskap og skatt,SAK,Saksbehandler,RES.SAK,06.03.2018 00:00:00,
+,,RK,Rådmannen,RK,11.11.1996 00:00:00,
+RK,Rådmannen,RKADM,Rådmannen,RK.RKADM,15.01.1997 00:00:00,
+SB,Skøienhagan barnehage,SB,Skøienhagan barnehage,SB,10.01.2008 00:00:00,
+SB,Skøienhagan barnehage,ADM,Administrasjon,SB.ADM,10.01.2008 00:00:00,
+SB,Skøienhagan barnehage,SAK,Saksbehandler,SB.SAK,10.01.2008 00:00:00,
+SK,Skatteavdelingen,SK,Skatteavdelingen,SK,10.01.2008 00:00:00,31.12.2008 00:00:00
+SKF,Skolefaglig avdeling,SKF,Skolefaglig avdeling,SKF,15.09.2010 00:00:00,
+,,STAB,Stab,STAB,21.10.2003 00:00:00,31.12.2007 00:00:00
+STAB,Stab,ADMAVD,Administrasjonsavdelingen,STAB.ADMAVD,02.08.2005 00:00:00,
+STAB,Stab,ANS,Ansettelsesråd,STAB.ANS,06.01.2005 00:00:00,
+STABEN,Løten kommune,STABEN,Løten kommune,STABEN,16.01.2014 00:00:00,
+STAB,Stab,OMPL,Omplasseringsråd,STAB.OMPL,30.12.2004 00:00:00,
+STAB,Stab,OPV,Oppvekst,STAB.OPV,06.01.2005 00:00:00,31.07.2005 00:00:00
+STAB,Stab,POAVD,Personal- og organisasjonsavdelingen,STAB.POAVD,10.01.2005 00:00:00,31.07.2005 00:00:00
+STAB,Stab,SKATT,Skatteoppkrever,STAB.SKATT,29.06.2005 00:00:00,31.07.2005 00:00:00
+STAB,Stab,STABADM,Stab adm,STAB.STABADM,21.10.2003 00:00:00,
+STAB,Stab,ØKOAVD,Økonomiadminiavdelingen,STAB.ØKOAVD,06.01.2005 00:00:00,
+TD,Teknisk drift,TD,Teknisk drift,TD,10.01.2008 00:00:00,
+TD,Teknisk drift,SAK,Saksbehandler,TD.SAK,10.01.2008 00:00:00,
+,,TDU,Teknisk drift og utvikling,TDU,08.10.2002 00:00:00,31.12.2007 00:00:00
+TDU,Teknisk drift og utvikling,ANS,Ansettelsesråd TDU,TDU.ANS,08.10.2002 00:00:00,
+TDU,Teknisk drift og utvikling,BO,Byggesak og oppmåling,TDU.BO,08.10.2002 00:00:00,
+TDU,"Teknisk, drift og utvikling",BYG,Byggavdeling,TDU.BYG,23.10.2002 00:00:00,
+TDU,Teknisk drift og utvikling,PLM,"Plan, landbruk og miljø",TDU.PLM,08.10.2002 00:00:00,
+TDU,Teknisk drift og utvikling,TDUADM,Administrasjon TDU,TDU.TDUADM,08.10.2002 00:00:00,
+TDU,Teknisk drift og utvikling,VVA,"Vei, vann og avløp",TDU.VVA,08.10.2002 00:00:00,
+TF,Teknisk forvaltning ,TF,Teknisk forvaltning ,TF,10.01.2008 00:00:00,
+TF,Teknisk forvaltning ,ADM,Administrasjon,TF.ADM,10.01.2008 00:00:00,
+TF,Teknisk forvaltning ,BO,Byggesak og oppmåling,TF.BO,10.01.2008 00:00:00,
+TF,Teknisk forvaltning ,PLM,"Plan, landbruk og miljø",TF.PLM,10.01.2008 00:00:00,
+UNG,Ungdom,UNG,Ungdom,UNG,04.01.2018 00:00:00,
+UNG,Ungdom,BUK,Barne- og unges kommunestyre,UNG.BUK,04.01.2018 00:00:00,
+UNG,Ungdom,HUS,Ungdommens hus,UNG.HUS,04.01.2018 00:00:00,
+UNG,Ungdom,KON,Ungdomskontakten,UNG.KON,04.01.2018 00:00:00,
+UNG,Ungdom,SLT,SLT kordinator,UNG.SLT,04.01.2018 00:00:00,
+,Økonomiseksjonen,ØKO,Økonomiseksjonen,ØKO,30.12.1998 00:00:00,31.12.2017 00:00:00
+ØKO,Økonomiseksjonen,ADM,Administrasjon,ØKO.ADM,10.01.2008 00:00:00,
+ØKO,Økonomiseksjonen,ANS,Ansettelsesråd,ØKO.ANS,27.06.2001 00:00:00,31.07.2005 00:00:00
+ØKO,Økonomiseksjonen,OPV,Oppvekst,ØKO.OPV,18.06.2003 00:00:00,13.12.2005 00:00:00
+ØKO,Økonomiseksjonen,SAK,Saksbehandler,ØKO.SAK,10.01.2008 00:00:00,
+ØKO,Økonomiseksjonen,SKATT,Skatteoppkreveren,ØKO.SKATT,06.11.2003 00:00:00,13.12.2005 00:00:00
+ØKO,Økonomiseksjonen,ØKO,Økonomiavdelingen,ØKO.ØKO,10.01.2008 00:00:00,
+ØKO,Økonomiseksjonen,ØKOADM,Økonomiadministrasjonen,ØKO.ØKOADM,30.12.1998 00:00:00,31.07.2005 00:00:00
+,Østvang skole,ØOS,Østvang skole,ØOS,11.11.1996 00:00:00,
+ØOS,Østvang skole,ADM,Administrasjon,ØOS.ADM,10.01.2008 00:00:00,
+ØOS,Østvang skole,ANS,Ansettelsesråd,ØOS.ANS,04.07.2001 00:00:00,
+ØOS,Østvang skole,BHG,Barnehage,ØOS.BHG,11.11.1996 00:00:00,
+ØOS,Østvang skole,FSTAVD,Forsterket avdelingen,ØOS.FSTAVD,10.01.2008 00:00:00,
+ØOS,Østvang skole,SAK,Saksbehandler,ØOS.SAK,10.01.2008 00:00:00,
+ØOS,Østvang skole,SFOS,Søsterboligen,ØOS.SFOS,15.01.1997 00:00:00,
+ØOS,Østvang skole,ØOSADM,Østvang oppvekstsenter,ØOS.ØOSADM,15.01.1997 00:00:00,31.12.2007 00:00:00
+ØOS,Østvang skole,ØSK,Østvang skole,ØOS.ØSK,11.11.1996 00:00:00,
+ÅOB,Ådalsbruk barnehage,ÅOB,Ådalsbruk barnehage,ÅOB,10.01.2008 00:00:00,
+ÅOB,Ådalsbruk barnehage,ADM,Administrasjon,ÅOB.ADM,10.01.2008 00:00:00,
+ÅOB,Ådalsbruk barnehage,SAK,Saksbehandler,ÅOB.SAK,10.01.2008 00:00:00,
+,Ådalsbruk skole,ÅOS,Ådalsbruk skole,ÅOS,11.11.1996 00:00:00,
+ÅOS,Ådalsbruk skole,ADM,Administrasjon,ÅOS.ADM,10.01.2008 00:00:00,
+ÅOS,Ådalsbruk skole,ANS,Ansettelsesråd,ÅOS.ANS,04.07.2001 00:00:00,
+ÅOS,Ådalsbruk skole,BHG/SFO,Ådalsbruk barnehage/skolefritid,ÅOS.BHG/SFO,07.11.2003 00:00:00,
+ÅOS,Ådalsbruk skole,SAK,Saksbehandler,ÅOS.SAK,10.01.2008 00:00:00,
+ÅOS,Ådalsbruk skole,SFOT,Tregården,ÅOS.SFOT,15.01.1997 00:00:00,
+ÅOS,Ådalsbruk skole,ÅOSADM,Ådalsbruk oppvekstsenter,ÅOS.ÅOSADM,15.01.1997 00:00:00,
+ÅOS,Ådalsbruk skole,ÅSK,Ådalsbruk skole,ÅOS.ÅSK,11.11.1996 00:00:00,

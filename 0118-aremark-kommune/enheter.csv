@@ -1,1 +1,31 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt,Nedlagt,Notat
+[Ufordelt],Ufordelt/sendt tilbake til arkiv,Ufordelt/sendt tilbake til arkiv,,
+AK,Aremark kommune,,,
+HEBA,Helse og barnevern,Rådmann,,
+NAV,Nav Aremark,Rådmann,,
+OPKU,Oppvekst og kultur,Rådmann,,
+PERS,Personal og organisasjon,Rådmann,,
+PLOM,Pleie og omsorg,Rådmann,,
+RAD,Rådmann,Aremark kommune,,
+STAB,Stab og fellesfunksjoner,Rådmann,,
+TEKN,Plan - miljø og teknisk,Rådmann,,
+[Ufordelt],Ufordelt/sendt tilbake til arkiv,Ufordelt/sendt tilbake til arkiv,,Gammel base
+ADMI,ÅADMINISTRASJON,Aremark kommune,,Gammel base
+AREMARK,Aremark kommune,,,Gammel base
+NAV,NAV,Aremark kommune,,Gammel base
+ORD,ORDFØREREN,Aremark kommune,,Gammel base
+ORG ØK,ORGANISASJONS- OG ØKONOMISTABEN,Aremark kommune,,Gammel base
+RÅDM,RÅDMANN,Aremark kommune,,Gammel base
+SUSTAB,ÅSAMFUNNSUTVIKLINGSSTABEN,Aremark kommune,,Gammel base
+TESTAVD,Testavdeling,Aremark kommune,,Gammel base
+TESTAVD.TESTSEK,Testseksjon,Testavdeling,,Gammel base
+VBARN,VIRKSOMHET BARNEHAGE,Aremark kommune,,Gammel base
+VBH,VIRKSOMHET BARNEVERN OG HELSE,Aremark kommune,,Gammel base
+VHB,ÅVIRKSOMHET HELSE OG BARNEVERN,Aremark kommune,,Gammel base
+VHSB,ÅVIRKSOMHET HELSE SOSIAL BARNEV,Aremark kommune,,Gammel base
+VKUL,VIRKSOMHET KULTUR,Aremark kommune,,Gammel base
+VPMT,VIRKSOMHET PLAN MILJØ OG TEKNIKK,Aremark kommune,,Gammel base
+VPO,VIRKSOMHET PLEIE OG OMSORG,Aremark kommune,,Gammel base
+VSKOLE,VIRKSOMHET UNDERVISNING OG SFO,Aremark kommune,,Gammel base
+VTKN,ÅVIRKSOMHET TEKNISK DRIFT,Aremark kommune,,Gammel base
+VTPM,ÅVIRKSOMHET TEKNISK PLAN OG MILJØ,Aremark kommune,,Gammel base

@@ -1,1 +1,15 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Status,System
+ANSKAFF,Anskaffelser,,,Aktiv,WebSak
+BARN,Barnearkiv,,,Aktiv,WebSak
+BOLIG,Startlån,,,Aktiv,WebSak
+BYGG,Byggesaksarkiv,,,Aktiv,WebSak
+ELEV,Elevarkiv,,,Aktiv,WebSak
+OPPMÅLING,Oppmålingsarkiv,,,Aktiv,WebSak
+PERS,Personalarkiv,,,Aktiv,WebSak
+PLAN,Planarkiv,,,Aktiv,WebSak
+SAK 2014,Saksarkiv 2014,,,Aktiv,WebSak
+SKATT,Skatt,,,Aktiv,WebSak
+ANS,Ansettelsessak,,,Inaktiv,ESA
+BYG,Byggesak,,,Inaktiv,ESA
+MOT,Utvalgsmøter,,,Inaktiv,ESA
+STD,Standard sak,,,Inaktiv,ESA

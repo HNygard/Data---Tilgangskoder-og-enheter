@@ -1,1 +1,33 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Status,System
+RÅD,Hobøl kommune,Aktiv,WebSak
+BAR,Barnevern,Aktiv,WebSak
+BBH,Bekkeblomen barnehage,Aktiv,WebSak
+HEL,Forebyggende enhet,Aktiv,WebSak
+KSK,Knapstad barne- og ungdomsskole,Aktiv,WebSak
+LEG,Kommuneoverlegen,Aktiv,WebSak
+KUL,Kultur,Aktiv,WebSak
+ØKO,Personal og økonomi,Aktiv,WebSak
+FOR,Forvaltningskontoret,Aktiv,WebSak
+PLO,Pleie og omsorg,Aktiv,WebSak
+RBH,Ringvoll barnehage,Aktiv,WebSak
+RSK,Ringvoll skole,Aktiv,WebSak
+SER,Servicetorget,Aktiv,WebSak
+SBH,Symrelunden barnehage,Aktiv,WebSak
+BYG,Teknisk forvaltning,Aktiv,WebSak
+TEK,Tekniske tjenester,Aktiv,WebSak
+FUN,Tjenester for funksjonshemmede,Aktiv,WebSak
+TSK,Tomter skole,Aktiv,WebSak
+PM,Postmottak - journalenhet,Inaktiv,ESA
+FAM,Familiens hus,Inaktiv,ESA
+FUN,Funksjonshemmede-området,Inaktiv,ESA
+HEL,Helsetjenester,Inaktiv,ESA
+HUS,Hobøl ungdomsskole,Inaktiv,ESA
+KBU,Knapstad barne- og ungdomsskole,Inaktiv,ESA
+KNA,Knapstad skole,Inaktiv,ESA
+KUL,Kultur,Inaktiv,ESA
+PLO,"Pleie, omsorg og rehabilitering",Inaktiv,ESA
+ROO,Ringvoll oppvekstområde,Inaktiv,ESA
+SEN,Sentraladministrasjonen,Inaktiv,ESA
+SOS,Sosiale tjenester,Inaktiv,ESA
+TEK,Tekniske tjenester,Inaktiv,ESA
+TOO,Tomter oppvekstområde,Inaktiv,ESA

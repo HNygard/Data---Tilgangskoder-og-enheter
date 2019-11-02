@@ -1,0 +1,12 @@
+Vedlagt ligger et excel-skjema med oversikt over tilgangskoder og enheter både for vårt nåværende system,
+og det systemet vi brukte i perioden 2008 og frem til vi byttet i 2014.
+
+Videre spør du hvilket sak- og arkivsystem som har blitt benyttet av kommunen siden 01.01.2008. I 1995
+tok Hobøl kommune i bruk IBMs Kontor2000 sak- og arkivsystem, og hoveddelen av kommunen ble koblet
+sammen i nettverk. Man anskaffet samtidig IMBs utvalgsmodul og gjennomførte fullført saksbehandling.
+IMB K2000 ble på et tidspunkt utskilt fra IBM og gikk over til å bli EDB Sak- og arkivsystem (ESA). EDB Sak-
+og arkivsystem ble værende i Hobøl kommune til vi 20.10.2014 gikk over til Acos WebSak.
+
+Til slutt i mailen ber du om status på tidligere register. EDB Sak- og arkivsystem er ikke aktivt per i dag, men
+vi har mulighet til oppslag tilbake til 2005 via en historisk base i Acos WebSak. Eldre enn 2005 må finnes
+frem i kommunens papirarkiv.
