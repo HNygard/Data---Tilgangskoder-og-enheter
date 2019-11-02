@@ -1,1 +1,15 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+BS,Byggesak,,
+DS,Delingsak,,
+EP,Elektronisk post,,
+ES,Enkel sak,,
+FL,Flyktning,,
+KL,Klagesak,,
+KM,Klientmappe,,
+M,Møtedokumenter,,
+PE,Personalsak,,
+PS,Plansaker,,
+RS,Reguleringssaker,,
+SL,Startlån,,
+TS,Tilsynssak - byggesak,,
+VA,Vann- og avløp,,

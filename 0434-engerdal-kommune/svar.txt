@@ -1,0 +1,2 @@
+Engerdal kommune bruker ePhorte som saksbehandlersystem. Det er levert av
+evry, og har blitt brukt siden 2004.

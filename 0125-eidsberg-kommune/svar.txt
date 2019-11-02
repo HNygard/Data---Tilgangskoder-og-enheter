@@ -1,0 +1,4 @@
+Eidsberg kommune har siden mai 2014 benyttet Acos som saks- og arkivsystem, før dette hadde vi
+EDB Sak og arkiv.
+Se vedlegg for forspurte dokumenter, vi mangler administrative enheter fra 2002-2014. Dette har
+ikke kommet over i konverteringen. Det er sendt et avvik på dette til vår leverandør.

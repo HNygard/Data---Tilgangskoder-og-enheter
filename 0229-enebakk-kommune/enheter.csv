@@ -1,1 +1,69 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt,Nedlagt
+EK,Enebakk kommune,,
+HOS,Helse- og omsorgsavdelingen,Enebakk kommune,
+HOS-BAV,Barneverntjenesten,Helse- og omsorgsavdelingen,1/1/2018
+HOS-ESY,Enebakk sykehjem,Helse- og omsorgsavdelingen,1/1/2009
+HOS-FOR,Forpleiningsenheten,Helse- og omsorgsavdelingen,
+HOS-GAU,Gaupeveien bokollektiv,Helse- og omsorgsavdelingen,
+HOS-HJM,Hjemmetjenesten,Helse- og omsorgsavdelingen,10/7/2019
+HOS-HST,Helse barn og unge,Helse- og omsorgsavdelingen,
+HOS-IGN,Ignagard sykehjem,Helse- og omsorgsavdelingen,1/1/2009
+HOS-NAV,Enebakk NAV-kontor,Helse- og omsorgsavdelingen,
+HOS-NYL,Nylende bokollektiv,Helse- og omsorgsavdelingen,
+HOS-PLO,Pleie- og omsorgstjenesten,Helse- og omsorgsavdelingen,8/31/2005
+HOS-PSY,Enhet for psykisk helsearbeid og rus,Helse- og omsorgsavdelingen,
+HOS-REF,Enhet for ReHabilitering og Forvaltning,Helse- og omsorgsavdelingen,3/31/2012
+HOS-REH,Re-/habiliteringstjenesten,Helse- og omsorgsavdelingen,
+HOS-RHA,Rehabilitering,Helse- og omsorgsavdelingen,8/31/2005
+HOS-SHT,Sykehjem og hjemmetjeneste,Helse- og omsorgsavdelingen,
+HOS-SOS,Sosialtjenesten,Helse- og omsorgsavdelingen,3/19/2009
+HOS-STA,Helse- og omsorgsavdelingen,Helse- og omsorgsavdelingen,
+HOS-SYK,Enebakk sykehjem,Helse- og omsorgsavdelingen,10/7/2019
+HOS-TIL,Tiltaksenheten,Helse- og omsorgsavdelingen,6/1/2010
+HOS-TILR,Enhet for tilrettelagte tjenester,Helse- og omsorgsavdelingen,
+HTV,Hovedtillitsvalgte,Enebakk kommune,
+HVO,Hovedverneombud,Enebakk kommune,
+KOS,"Kultur, oppvekst og skoleavdelingen",Enebakk kommune,
+KOS-BAV,Barneverntjenesten,"Kultur, oppvekst og skoleavdelingen",
+KOS-BIB,Biblioteket - avd. er flyttet inn i KOS-KUL - kulturavdelingen,"Kultur, oppvekst og skoleavdelingen",10/1/2013
+KOS-EUS,Enebakk ungdomsskole,"Kultur, oppvekst og skoleavdelingen",7/31/2018
+KOS-FLB,Flateby barnehage,"Kultur, oppvekst og skoleavdelingen",
+KOS-FLY,Flyktningetjenesten,"Kultur, oppvekst og skoleavdelingen",
+KOS-HAS,Hauglia skole,"Kultur, oppvekst og skoleavdelingen",
+KOS-KBUS,Kirkebygden barne- og ungdomsskole,"Kultur, oppvekst og skoleavdelingen",
+KOS-KIB,Kirkebygden barnehage,"Kultur, oppvekst og skoleavdelingen",
+KOS-KIS,Kirkebygden skole,"Kultur, oppvekst og skoleavdelingen",7/31/2018
+KOS-KST,Kulturskolen - flyttet inn under KOS-KUL,"Kultur, oppvekst og skoleavdelingen",10/1/2013
+KOS-KUL,"Kultur, integrering og forebygging","Kultur, oppvekst og skoleavdelingen",
+KOS-MUS,Mjær ungdomsskole,"Kultur, oppvekst og skoleavdelingen",
+KOS-PPT,PP-tjenesten,"Kultur, oppvekst og skoleavdelingen",
+KOS-STA,"Kultur, oppvekst og skoleavdelingen","Kultur, oppvekst og skoleavdelingen",
+KOS-STS,Stranden skole,"Kultur, oppvekst og skoleavdelingen",
+KOS-YEB,Ytre Enebakk barnehage,"Kultur, oppvekst og skoleavdelingen",
+KOS-YES,Ytre Enebakk skole,"Kultur, oppvekst og skoleavdelingen",
+SEN,Sentraladministrasjonen,Enebakk kommune,
+SEN-IFT,Interne fellestjenester,Sentraladministrasjonen,9/1/2018
+SEN-IKT,IKT-seksjonen,Sentraladministrasjonen,1/1/2015
+SEN-KDP,"Kommunikasjon, dokumentasjon og personal",Sentraladministrasjonen,
+SEN-ORD,Ordfører,Sentraladministrasjonen,
+SEN-PER,Personalkontoret,Sentraladministrasjonen,9/1/2018
+SEN-RÅD,Rådmannskontoret,Sentraladministrasjonen,1/1/2015
+SEN-SER,Servicetorget,Sentraladministrasjonen,9/1/2018
+SEN-SKA,Skatteinnkreveren,Sentraladministrasjonen,1/1/2007
+SEN-TEST,Testavdeling,Sentraladministrasjonen,
+SEN-ØKO,Økonomikontoret,Sentraladministrasjonen,
+TEM,Teknisk avdeling,Enebakk kommune,12/31/2014
+TEM-BPO,"Bygg, plan og oppmåling",Teknisk avdeling,7/1/2007
+TEM-DRI,Driftsseksjonen,Teknisk avdeling,7/1/2007
+TEM-DRIFT,Drift,Teknisk avdeling,2/1/2013
+TEM-EIE,Eiendomsavdelingen,Teknisk avdeling,7/1/2016
+TEM-KOM,Kommunalteknikk,Teknisk avdeling,6/20/2011
+TEM-NAB,"Natur, areal og byggesak",Teknisk avdeling,2/1/2013
+TEM-NAT,Naturforvaltning,Teknisk avdeling,7/1/2007
+TEM-STA,Tekniske avdelinger,Teknisk avdeling,7/1/2016
+TES,TEKNIKK OG SAMFUNN,Enebakk kommune,
+TES-DRIFT,TEKNIKK OG SAMFUNN - Driftsenheten,TEKNIKK OG SAMFUNN,
+TES-EKT,TEKNIKK OG SAMFUNN - Eiendomsforvaltning & kommunalteknikk,TEKNIKK OG SAMFUNN,
+TES-NAB,"TEKNIKK OG SAMFUNN - Natur, geodata og byggesak",TEKNIKK OG SAMFUNN,
+TES-REN,TEKNIKK OG SAMFUNN - Renhold,TEKNIKK OG SAMFUNN,
+TES-STA,TEKNIKK OG SAMFUNN - Stab,TEKNIKK OG SAMFUNN,

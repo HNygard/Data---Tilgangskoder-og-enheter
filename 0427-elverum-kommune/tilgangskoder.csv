@@ -1,1 +1,15 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,ID
+E,Elevsaker,1
+IS,Intern skjerming,10
+F,Oppdragsavtaler funksjonshemmede,11
+IT,"Ikke publisert, personopplysningsloven § 8",12
+SP,Spes. ped.,13
+FL,Flyktningetjenesten,14
+HR,Personalstabens dokumenter,15
+SA,Bedrifters tekn innretninger,16
+ES,Unntatt offentlighet,17
+PS,Unntatt offentlighet,18
+P,Personalsaker,3
+S,Unntatt for offentlighet (for skattesaker),4
+U,Unntatt offentlighet,5
+XX,Midlertidig sperret,6

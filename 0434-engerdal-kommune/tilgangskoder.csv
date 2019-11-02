@@ -1,1 +1,12 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+A,Ansettelser,05.10.2007,
+BA,Barnehagesaker,15.12.2003,
+E,Elevsaker,15.12.2003,
+H,Hemmelig,14.06.2007,
+K,Konfidensielt,01.01.2004,
+MU,Møtedokumenter unntatt offentlighet,15.12.2003,
+P,Personalsaker,01.01.2004,
+S,Skattesaker,15.12.2003,
+SF,Strengt fortrolig etter beskyttelsesinstruksen,01.01.2004,
+U,Unntatt offentlighet,15.12.2003,
+XX,Midlertidig sperret,15.12.2003,
