@@ -1,1 +1,17 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+AF,Forskningsavvik,,
+AI,Anskaffelse innkjøp,,
+AR,Under arbeid - midlertidig tilgangskode,,
+FO,Forskningssaker,,
+OF,Unntatt etter offenteglova ved UiO,,
+OS,Studentombud,,
+PD,Disiplinærsaker personal,,
+PO,Personers økonomiske forhold,,
+PR,Rettssaker,,
+PV,Personalsaker,,
+SD,Disiplinærsaker studenter,,
+ST,Student tilrettelegging (gis alltid for nivå UiO),,
+SV,Studentsaker generelt,,
+US,Unntatt etter offentleglova ved SO,,
+VA,Varsling ansatte,,
+VS,Varsling studenter,,

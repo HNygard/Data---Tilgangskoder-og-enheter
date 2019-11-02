@@ -1,1 +1,14 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+A ,Ansettelse ,01.10.2007 ,
+B ,Begrenset etter sikkerhetsloven ,01.01.2004 ,
+DS ,Disiplinærsak ,23.04.2019 ,
+PS ,Personsensitiv ,04.10.2019 ,
+F ,Fortrolig etter beskyttelsesinstruksen ,01.01.2004 ,
+K ,Konfidensielt etter sikkerhetsloven ,01.01.2004 ,
+P ,Personalsaker ,01.01.2004 ,
+XX ,Svar inn ,01.01.2004 ,
+BA ,Barnehagearkiv ,11.12.2003 ,
+E ,Elevsak ,11.12.2003 ,
+MU ,Offentlig innkalling / protokoll for møtesekretærer ,11.12.2003 ,
+S ,Skattesaker ,11.12.2003 ,
+U ,Unntatt offentlighet ,11.12.2003 ,

@@ -1,1 +1,57 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Opprettet ,Nedlagt 
+ÅK ,Åmot kommune ,01.01.2000,
+RÅD ,Rådmannen ,12.12.2003,
+KUL ,Kultur ,01.02.2008,
+INS ,Informasjon og service ,01.02.2008,
+NAV ,NAV Åmot ,01.01.2009,
+RSK ,Rena sentrum barnehage ,01.08.2009,31.08.2012 
+RHF ,Ressurssenter for helse og forebygging ,01.01.2011,
+BIR ,Birkebeineren barnehage ,01.09.2012,
+HV ,Sektor for helse og velferd ,18.07.2013,
+HVFB ,Sektor for helse og velferd / Forebygging og behandling ,18.07.2013,17.01.2018 
+HVDE ,Enhet for Demens og velferdstjenester ,18.07.2013,
+HVHJ ,Enhet for Helse og velferdstjenester i hjemmet ,18.07.2013,
+HVIR ,Sektor for helse og velferd / Integrering og re- / habilitering ,18.07.2013,17.01.2018 
+HVSH ,Enhet for Spesialiserte helse og velferdstjenester ,17.01.2018,
+OP ,Sektor for oppvekst ,18.07.2013,
+OPÅU ,Sektor for oppvekst / Åmot ungdomsskole ,18.07.2013,
+OPRS ,Sektor for oppvekst / Rena skole ,18.07.2013,
+OPOD ,Sektor for oppvekst / Osen og Deset oppvekstsentre ,18.07.2013,
+OPTB ,Sektor for oppvekst / Trollhaugen barnehage ,18.07.2013,
+OPSB ,Sektor for oppvekst / Skyssveien barnehage ,18.07.2013,
+OPBB ,Sektor for oppvekst / Birkebeineren barnehage ,18.07.2013,
+SA ,Sektor for samfunnsutvikling ,18.07.2013,
+SAKU ,Sektor for samfunnsutvikling / Kultur ,18.07.2013,
+SALA ,Sektor for samfunnsutvikling / Landbruk ,18.07.2013,
+SABR ,Sektor for samfunnsutvikling / Brann og redning ,18.07.2013,
+SATD ,Sektor for samfunnsutvikling / Teknisk drift ,18.07.2013,
+SAPB ,"Sektor for samfunnsutvikling / Plan, byggesak og geodata ",18.07.2013,
+SANA ,Sektor for samfunnsutvikling / NAV ,21.07.2017,
+ARÅ ,Assisterende rådmann ,12.12.2003,
+ÅMO ,Åmot ungdomsskole ,12.12.2003,
+OSE ,Osen oppvekstsenter ,12.12.2003,
+SKY ,Skyssveien barnehage ,12.12.2003,
+TRO ,Trollhaugen barnehage ,12.12.2003,
+IST ,Institusjonstjenesten ,12.12.2003,
+HJT ,Hjemmetjenesten ,12.12.2003,
+KOM ,Kommunal eiendom ,12.12.2003,21.02.2006 
+PLN ,Plan landbruk og næring ,12.12.2003,21.02.2006 
+KOT ,Kommunalteknikk ,12.12.2003,21.02.2006 
+DES ,Deset oppvekstsenter ,12.12.2003,
+KIS ,Kultur informasjon og service ,12.12.2003,01.02.2008 
+OMS ,Omstillingsprogrammet ,12.12.2003,
+PRO ,Prosjektkontoret ,12.12.2003,21.02.2006 
+REV ,Revisjon ,06.05.2004,
+KONT ,Kontrollutvalget i Åmot ,21.02.2005,01.01.2006 
+KON ,Sekretariat for kontrollutvalgene i Sør-Østerdal ,21.02.2005,
+TEK ,Tekniske tjenester ,21.02.2006,
+RÅS ,Rådmannens stab ,12.12.2003,
+ØKO ,Økonomistaben ,12.12.2003,
+PER ,Personalstaben ,12.12.2003,
+RHS ,Ressurssenter for helse og sosiale tjenester ,12.12.2003,01.01.2011 
+REN ,Rena skole ,12.12.2003,
+ST ,Stab / støtte ,21.07.2014,
+STIT ,Stab - støtte / Interne tjenester ,21.07.2014,
+CI ,Controller / innkjøp ,21.07.2014,
+CIØK ,Controller - innkjøp / Økonomi ,23.07.2014,
+ORD ,Ordfører ,12.12.2003,

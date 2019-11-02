@@ -1,1 +1,513 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt ,Nedlagt 
+,,Universitetet i Oslo ,02.01.2004 
+[Ufordelt] ,Ufordelt/sendt tilbake til arkiv ,Ufordelt/sendt tilbake til arkiv ,
+31.12.2013EA DRIFT3 ,Driftsseksjonen ,Eiendomsavdelingen ,31.12.2013 
+31.12.2013EA3 ,Eiendomsavdelingen ,Sentraladministrasjonen ,31.12.2013 
+31.12.2013KHM KONS ,Konserveringseksjonen ,Kulturhistorisk museum ,31.12.2013 
+31.12.2013KHM UPS3 ,Utstillings- og publikumsseksjonen ,Kulturhistorisk museum ,31.12.2013 
+31.12.2013KHM3 ,Kulturhistorisk museum ,Universitetet i Oslo ,31.12.2013 
+31.12.2013ØPA REGN ,Regnskapsseksjonen ,Økonomi- og planavdelingen ,31.12.2013 
+ADS ,Avdeling for administrativ støtte ,UiO:Ledelsen og støtteenheter ,
+ADS SAF ,Seksjon for applikasjonsforvaltning ,Avdeling for administrativ støtte ,
+ADS SFESD ,Seksjon for forvaltning av elektronisk saksbehandling og dokumentasjon ,Avdeling for administrativ støtte ,
+ADS SI ,Seksjon for innkjøp ,Avdeling for administrativ støtte ,
+ADS SL ,Seksjon for lønn ,Avdeling for administrativ støtte ,
+ADS SPP ,Seksjon for prosjekt/prosessforbedring ,Avdeling for administrativ støtte ,
+ADS SR ,Seksjon for regnskap ,Avdeling for administrativ støtte ,
+AF2 ,Avdeling for fagstøtte ,UiO:Ledelsen og støtteenheter ,31.12.2018 
+AF2 SB ,Seksjon for sentralbord ,Avdeling for fagstøtte ,31.12.2018 
+AF2 SFFU ,Seksjon for forvaltning av forskning og utdanning ,Avdeling for fagstøtte ,31.12.2018 
+AF2 SFUI ,"Seksjon for forsknings-, utdanningsstøtte og internasjonalisering ",Avdeling for fagstøtte ,31.12.2018 
+AF2 SKS ,Seksjon for kommunikasjon og studentinformasjon ,Avdeling for fagstøtte ,31.12.2018 
+AF2 SOT ,Seksjon for opptak og tilrettelegging ,Avdeling for fagstøtte ,31.12.2018 
+AF2 SSA ,Seksjon for samfunnskontakt og arrangementer ,Avdeling for fagstøtte ,31.12.2018 
+AF2 SSD ,Seksjon for studieadministrative datasystemer ,Avdeling for fagstøtte ,31.12.2018 
+AP ,Avdeling for personalstøtte ,UiO:Ledelsen og støtteenheter ,
+AP ISMO ,International Staff Mobility Office ,Avdeling for personalstøtte ,
+APOLLON ,Apollon ,Sentraladministrasjonen ,31.12.2012 
+BIOTEK ,Bioteknologisenteret i Oslo ,Universitetet i Oslo ,31.12.2011 
+BIOTEK ADM ,Bioteknologisenteret - Administrasjon ,Bioteknologisenteret i Oslo ,01.01.2008 
+BIOTEK LED ,Bioteknologisenteret Leder ,Bioteknologisenteret i Oslo ,01.01.2008 
+CERES ,Nasjonalt senter for felles systemer og tjenester for forskning og stu ,Universitetet i Oslo ,31.12.2017 
+CERES ALFA ,Gruppe Alfa ,Seksjon for systemutvikling ,31.12.2017 
+CERES ASK ,Seksjon for kompetansevurdering ,Nasjonalt senter for felles systemer og tjenester for forskning og stu ,31.12.2017 
+CERES DELTA ,Gruppe Delta ,Seksjon for systemutvikling ,31.12.2017 
+CERES DVH ,Gruppe for datavarehus ,Seksjon for systemforvaltning ,31.12.2017 
+CERES FSGAUSRUST ,"Gruppe for FS, GAUS og RUST ",Seksjon for systemforvaltning ,31.12.2017 
+CERES OMEGA ,Gruppe Omega ,Seksjon for systemutvikling ,31.12.2017 
+CERES SFT ,Seksjon for forskningstjenester ,Nasjonalt senter for felles systemer og tjenester for forskning og stu ,31.12.2017 
+CERES SONVB ,Gruppe for opptak og NVB ,Seksjon for systemforvaltning ,31.12.2017 
+CERES SSF ,Seksjon for systemforvaltning ,Nasjonalt senter for felles systemer og tjenester for forskning og stu ,31.12.2017 
+CERES SST ,Seksjon for stab og støtte ,Nasjonalt senter for felles systemer og tjenester for forskning og stu ,31.12.2017 
+CERES SSU ,Seksjon for systemutvikling ,Nasjonalt senter for felles systemer og tjenester for forskning og stu ,31.12.2017 
+CERES STABADMIN ,Gruppe for administrativ støtte ,Seksjon for stab og støtte ,31.12.2017 
+CRISTIN ,Current Research Information System In Norway ,Universitetet i Oslo ,31.12.2016 
+CRISTIN3 ,Current Research Information System In Norway ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+DRIFT ARRSTØTTE ,Gruppe for arrangementsstøtte ,Seksjon for fellestjenester ,
+DRIFT BUD ,Budsentralen ,Seksjon for fellestjenester ,
+DRIFT BYGNING ,Seksjon for bygningsdrift ,Underavdeling for drift og vedlikehold ,
+DRIFT FELLESTJ ,Seksjon for fellestjenester ,Underavdeling for drift og vedlikehold ,
+DRIFT GAUSTAD ,Driftsområde Gaustad ,Seksjon for bygningsdrift ,
+DRIFT NEDRE ,Driftsområde Nedre Blindern ,Seksjon for bygningsdrift ,
+DRIFT PARK ,Parkseksjonen ,Underavdeling for drift og vedlikehold ,
+DRIFT RENHOLD ,Renholdsseksjonen ,Underavdeling for drift og vedlikehold ,
+DRIFT RENHOLD1 ,Renholdsgruppe 1 ,Renholdsseksjonen ,
+DRIFT RENHOLD2 ,Renholdsgruppe 2 ,Renholdsseksjonen ,
+DRIFT RENHOLD3 ,Renholdsgruppe 3 ,Renholdsseksjonen ,
+DRIFT RENHOLD4 ,Renholdsgruppe 4 ,Renholdsseksjonen ,
+DRIFT RENHOLD5 ,Renholdsgruppe 5 ,Renholdsseksjonen ,
+DRIFT REPRO ,Reprosentralen ,Seksjon for fellestjenester ,
+DRIFT SENTRUM ,Driftsområde Sentrum ,Seksjon for bygningsdrift ,
+DRIFT SERVICE ,Servicetorget Eiendom ,Seksjon for fellestjenester ,
+DRIFT VAKT ,Vakt- og alarmsentralen ,Seksjon for fellestjenester ,
+DRIFT VEDLIKEH ,Seksjon for bygningsteknikk ,Underavdeling for drift og vedlikehold ,
+DRIFT ØVRE ,Driftsområde Øvre Blindern ,Seksjon for bygningsdrift ,
+EA ,Eiendomsavdelingen ,UiO:Ledelsen og støtteenheter ,
+EA ADM ,Administrasjon og stab ,Eiendomsavdelingen ,31.12.2013 
+EA BUD ,Budsentralen ,Driftsseksjonen ,31.12.2013 
+EA DRIFT ,Underavdeling for drift og vedlikehold ,Eiendomsavdelingen ,
+EA FORVALTN ,Forvaltningsseksjonen ,Underavdeling for plan og prosjekt ,31.12.2016 
+EA FORVALTNING ,Forvaltningsseksjonen ,Underavdeling for stab ,
+EA GAUSTAD ,Område Gaustad ,Driftsseksjonen ,31.12.2013 
+EA INNKJØP ,Innkjøp ,Underavdeling for stab ,
+EA IT ,IT ,Underavdeling for stab ,31.12.2016 
+EA NEDRE ,Område Nedre Blindern ,Driftsseksjonen ,31.12.2013 
+EA NORDRE ,Område Nordre Blindern ,Driftsseksjonen ,01.07.2009 
+EA PARK ,Parkanlegget ,Driftsseksjonen ,31.12.2013 
+EA PERSONAL ,Personal ,Underavdeling for stab ,
+EA PLAN ,Underavdeling for plan og utredning ,Eiendomsavdelingen ,
+EA PLAN 2 ,Plan- og utredningsseksjonen ,Underavdeling for plan og prosjekt ,31.12.2016 
+EA PLANPRO ,Underavdeling for plan og prosjekt ,Eiendomsavdelingen ,31.12.2016 
+EA PLE ,Plan- og eiendomsseksjonen ,Eiendomsavdelingen ,31.12.2013 
+EA PROSJEKT ,Underavdeling for prosjekt ,Eiendomsavdelingen ,
+EA PROSJEKT 2 ,Prosjektseksjonen ,Underavdeling for plan og prosjekt ,31.12.2016 
+EA RENHOLD ,Renhold ,Driftsseksjonen ,31.12.2013 
+EA REPRO ,Reprosentralen ,Driftsseksjonen ,31.12.2013 
+EA SENTRUM ,Område Sentrum / Tøyen ,Driftsseksjonen ,31.12.2013 
+EA STAB ,Underavdeling for stab ,Eiendomsavdelingen ,
+EA TEK ,Teknisk seksjon ,Eiendomsavdelingen ,31.12.2013 
+EA VAKTALARM ,Vakt- og alarmsentralen ,Driftsseksjonen ,31.12.2013 
+EA VESTRE ,Område vestre Blindern ,Driftsseksjonen ,31.12.2013 
+EA ØKONOMI ,Økonomi ,Underavdeling for stab ,
+EA ØSTRE ,Område østre Blindern ,Driftsseksjonen ,31.12.2013 
+EBHT ,Enhet for bedriftshelsetjeneste ,UiO:Ledelsen og støtteenheter ,
+EHMS ,"Enhet for helse, miljø og sikkerhet ",UiO:Ledelsen og støtteenheter ,
+EIA ,Enhet for intern administrasjon ,UiO:Ledelsen og støtteenheter ,
+EIA GO ,Gruppe for økonomidrift ,Enhet for intern administrasjon ,
+EIR ,Enhet for intern revisjon ,UiO:Ledelsen og støtteenheter ,
+EIR3 ,Enhet for intern revisjon ,Sentraladministrasjonen ,31.12.2013 
+EL ,Enhet for lederstøtte ,UiO:Ledelsen og støtteenheter ,
+EL GKM ,Gruppe for kommunikasjon og mediestøtte ,Enhet for lederstøtte ,01.05.2019 
+EL GVO ,Gruppe for virksomhets- og økonomistyring ,Enhet for lederstøtte ,
+EMBIO ,"Enhet for molekylærbiologi, bioteknologi og bioinformatikk ",Universitetet i Oslo ,
+FA ,Forskningsadministrativ avdeling ,Sentraladministrasjonen ,31.01.2013 
+FADM ,Avdeling for forskningsadministrasjon ,UiO:Ledelsen og støtteenheter ,
+FADM FFO ,Forskningsforvaltning ,Avdeling for forskningsadministrasjon ,
+FADM FST ,Seksjon for forskningsstøtte ,Avdeling for forskningsadministrasjon ,
+FFU ,Forum for universitetshistorie ,Universitetet i Oslo ,
+FS ,Samarbeidstiltaket - FS ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+HF ,Det humanistiske fakultet ,Universitetet i Oslo ,
+HF CSMN ,Centre for the Study of Mind in Nature. Ikke tatt i bruk ,"Institutt for filosofi, idé- og kunsthistorie og klassiske språk ",30.09.2009 
+HF EDD ,Enhet for digital dokumentasjon. Ikke tatt i bruk ,Det humanistiske fakultet ,04.06.2009 
+HF FAKSEKR ,Fakultetssekretariatet ,Det humanistiske fakultet ,
+HF FORSKNING ,Forskningsseksjonen ,Fakultetssekretariatet ,
+HF HIS ,Henrik Ibsens skrifter ,Senter for Ibsen-studier ,01.01.2010 
+HF HPA ,"HR, personal og arkiv ",Fakultetssekretariatet ,
+HF IAKH ,"Institutt for arkeologi, konservering og historie ",Det humanistiske fakultet ,
+HF IFIKK ,"Institutt for filosofi, idé- og kunsthistorie og klassiske språk ",Det humanistiske fakultet ,
+HF IKOS ,Institutt for kulturstudier og orientalske språk ,Det humanistiske fakultet ,
+HF ILN ,Institutt for lingvistiske og nordiske studier ,Det humanistiske fakultet ,
+HF ILOS ,"Institutt for litteratur, områdestudier og europeiske språk ",Det humanistiske fakultet ,
+HF IMK ,Institutt for medier og kommunikasjon ,Det humanistiske fakultet ,
+HF IMV ,Institutt for musikkvitenskap ,Det humanistiske fakultet ,
+HF IT ,IT-seksjonen ,Fakultetssekretariatet ,
+HF KIN ,Kinastudier ,Institutt for kulturstudier og orientalske språk ,
+HF KOMMSEK ,HFs kommunikasjonsseksjon ,Fakultetssekretariatet ,
+HF MULTILING ,Senter for flerspråklighet ,Institutt for lingvistiske og nordiske studier ,
+HF NIR ,Det norske institutt i Roma ,Det humanistiske fakultet ,
+HF NISP ,Det norske universitetssenter i St.Petersburg ,Fakultetssekretariatet ,
+HF NO 2014 ,Norsk Ordbok 2014 ,Institutt for lingvistiske og nordiske studier ,
+HF NORDIC ,UiO:Nordic ,Fakultetssekretariatet ,
+HF RELVIT ,Religionsvitenskap ,Institutt for kulturstudier og orientalske språk ,
+HF RITMO ,"Senter for tverrfaglig forskning på rytme, tid og bevegelse (IMV) ",Institutt for musikkvitenskap ,
+HF SIBS ,Senter for Ibsen-studier ,Institutt for lingvistiske og nordiske studier ,
+HF SIS ,Senter for Ibsen-studier ,Det humanistiske fakultet ,01.01.2010 
+HF STUD ,Studieseksjonen ,Fakultetssekretariatet ,
+HF ØKONOMI ,Økonomiseksjonen ,Fakultetssekretariatet ,
+IBV CANCELL ,Senter for kreftcelle-reprogrammering ,Institutt for biovitenskap ,
+IBV CEES ,Senter for økologisk og evolusjonær syntese ,Institutt for biovitenskap ,
+ILOS DNN ,Discourses of the Nation and the National ,"Institutt for litteratur, områdestudier og europeiske språk ",
+INFO ,Kommunikasjonsavdelingen ,Sentraladministrasjonen ,31.12.2013 
+ISS ,Den internasjonale sommerskole ,Universitetet i Oslo ,
+JU ,Det juridiske fakultet ,Universitetet i Oslo ,
+JU ADM ,Administrasjonsseksjonen ,Fakultetssekretariatet ,
+JU AFI ,Avdeling for forvaltningsinformatikk. Ikke tatt i bruk ,Institutt for privatrett ,31.12.2007 
+JU EKS ,Eksamensseksjonen ,Økonomiseksjonen ,
+JU IKR ,Institutt for kriminologi og rettssosiologi ,Det juridiske fakultet ,
+JU INFO ,Seksjon for informasjon og systemdrift ,Økonomiseksjonen ,
+JU IOR ,Institutt for offentlig rett ,Det juridiske fakultet ,
+JU IPR ,Institutt for privatrett ,Det juridiske fakultet ,
+JU IRI ,Inst. for rettsinformatikk. Ikke tatt i bruk ,Det juridiske fakultet ,31.12.2007 
+JU IRS ,Inst. for retssosiologi. Ikke tatt i bruk ,Det juridiske fakultet ,31.12.2007 
+JU IT ,IT-seksjonen ,Fakultetssekretariatet ,
+JU NIS ,Nordisk institutt for sjørett ,Det juridiske fakultet ,
+JU SEK ,Fakultetssekretariatet ,Det juridiske fakultet ,
+JU SER ,Senter for europarett ,Nordisk institutt for sjørett ,20.12.2012 
+JU SMR ,Norsk senter for menneskerettigheter ,Det juridiske fakultet ,
+JU SRI ,Senter for rettsinformatikk ,Institutt for privatrett ,
+JU STUD ,Studieseksjonen ,Det juridiske fakultet ,
+JU TRYKK ,"Juridisk fakultet, Hustrykkeriet. Ikke tatt i bruk ",Fakultetssekretariatet ,25.09.2009 
+JU ØKON ,Økonomiseksjonen ,Fakultetssekretariatet ,
+KHM ,Kulturhistorisk museum ,Universitetet i Oslo ,
+KHM ADM ,Administrasjonen ,Kulturhistorisk museum ,31.12.2013 
+KHM ARKS ,Arkeologisk seksjon ,Kulturhistorisk museum ,31.12.2013 
+KHM AS ,Arkeologisk seksjon ,Kulturhistorisk museum ,
+KHM BJØR ,Nytt museum Bjørvika ,Administrasjonen ,31.12.2013 
+KHM DOKU ,Dokumentasjonsseksjonen ,Kulturhistorisk museum ,31.12.2013 
+KHM ETNO ,Etnografisk seksjon ,Kulturhistorisk museum ,31.12.2013 
+KHM FORN ,Fornminneseksjonen ,Kulturhistorisk museum ,31.12.2013 
+KHM FORRETNINGSDRIFT ,Avdeling for forretningsdrift ,Utstillings- og publikumsseksjonen ,
+KHM FOTO ,Foto ,Kulturhistorisk museum ,
+KHM INFO ,Informasjon og markedsføring. Ikke tatt i bruk ,Kulturhistorisk museum ,31.12.2007 
+KHM ISE ,Isegran. Ikke tatt i bruk ,Kulturhistorisk museum ,31.12.2007 
+KHM IT ,"KHM, IT ",Administrasjonen ,31.12.2013 
+KHM MUV ,Avdeling for Museum for universitets- og vitenskapshistorie ,"Seksjon for etnografi, numismatikk, antikken og universitetsvitenskap ",
+KHM REVI ,REVITA ,Kulturhistorisk museum ,31.12.2013 
+KHM SAS ,Seksjon for administrative støttetjenester ,Kulturhistorisk museum ,
+KHM SENKU ,"Seksjon for etnografi, numismatikk, antikken og universitetsvitenskap ",Kulturhistorisk museum ,
+KHM SF ,Seksjon for samlingsforvaltning ,Kulturhistorisk museum ,
+KHM STAB ,Direktørens stab ,Kulturhistorisk museum ,
+KHM UPS ,Utstillings- og publikumsseksjonen ,Kulturhistorisk museum ,
+KOMMUNIKASJON ,Avdeling for kommunikasjon og samfunnskontakt ,UiO:Ledelsen og støtteenheter ,
+KOMMUNIKASJON SK ,Seksjon for kommunikasjon ,Avdeling for kommunikasjon og samfunnskontakt ,
+KOMMUNIKASJON SS ,Seksjon for samfunnskontakt ,Avdeling for kommunikasjon og samfunnskontakt ,
+LOS ,UiO:Ledelsen og støtteenheter ,Universitetet i Oslo ,
+MED ,Det medisinske fakultet ,Universitetet i Oslo ,
+MED ADM ,Administrative fellestjenester ,Seksjon for ledelse ,
+MED ADMFORSK ,Seksjon for forskningsadministrasjon ,Det medisinske fakultet ,01.09.2014 
+MED AHUSADM ,Administrasjonen Campus Ahus ,Institutt for klinisk medisin ,
+MED AHUSADM 2 ,Administrasjonen Campus Ahus ,Institutt for klinisk medisin ,01.06.2016 
+MED AHUSKHP ,Klinikk for helsetjenesteforskning og psykiatri ,Institutt for klinisk medisin ,
+MED AHUSKIL ,Klinikk for indremedisin og laboratoriefag ,Institutt for klinisk medisin ,
+MED AHUSKKF ,Klinikk for kirurgiske fag ,Institutt for klinisk medisin ,
+MED AKU ,Akuttklinikken ,Institutt for klinisk medisin ,
+MED AKU 2 ,Akuttklinikken ,Institutt for klinisk medisin ,01.06.2016 
+MED BAR ,Barne- og ungdomsklinikken ,Institutt for klinisk medisin ,
+MED BIO ,Bioteknologisenteret i Oslo ,Det medisinske fakultet ,31.12.2016 
+MED CIR ,Senter for immunregulering ,Institutt for klinisk medisin ,
+MED FORSK ,Forskningsadministrasjon ,Seksjon for ledelse ,
+MED HELSAM ,Institutt for helse og samfunn ,Det medisinske fakultet ,
+MED HHA ,"Klinikk for hode, hals og rekonstruktiv kirurgi ",Institutt for klinisk medisin ,
+MED HLK ,"Hjerte-, lunge- og karklinikken ",Institutt for klinisk medisin ,
+MED HR ,Seksjon for HR Det medisinske fakultet ,Det medisinske fakultet ,
+MED HUS ,Helsevitenskapelig utdanningssenter ,Seksjon for ledelse ,
+MED IMB ,Institutt for medisinske basalfag ,Det medisinske fakultet ,
+MED IMBSTUD ,Enhet for studiestøtte ,Institutt for medisinske basalfag ,31.12.2018 
+MED IS ,Internasjonal seksjon ,Det medisinske fakultet ,01.09.2014 
+MED KIT ,"Klinikk for kirurgi, inflammasjonsmedisin og transplantasjon ",Institutt for klinisk medisin ,
+MED KKN ,Klinikk for kirurgi og nevrofag ,Institutt for klinisk medisin ,01.06.2016 
+MED KKT ,"Klinikk for kreft, kirurgi og transplantasjon ",Institutt for klinisk medisin ,01.06.2016 
+MED KLINMED ,Institutt for klinisk medisin ,Det medisinske fakultet ,
+MED KLINMEDHR ,Personalseksjonen Klinmed ,Institutt for klinisk medisin ,
+MED KLINMEDKUL ,"Seksjon for kommunikasjon, undervisning og ledelsesstøtte ",Institutt for klinisk medisin ,
+MED KLINMEDØK ,Økonomiseksjonen Klinmed ,Institutt for klinisk medisin ,
+MED KLM ,Klinikk for laboratoriemedisin ,Institutt for klinisk medisin ,
+MED KRE ,Kreftklinikken ,Institutt for klinisk medisin ,
+MED KRN ,Klinikk for radiologi og nukleærmedisin ,Institutt for klinisk medisin ,
+MED KVB ,Kvinne- og barneklinikken ,Institutt for klinisk medisin ,01.06.2016 
+MED KVI ,Kvinneklinikken ,Institutt for klinisk medisin ,
+MED LED ,Seksjon for ledelse ,Det medisinske fakultet ,
+MED MDK ,Medisinsk klinikk ,Institutt for klinisk medisin ,
+MED MEDØKO ,Økonomiseksjonen ,Seksjon for ledelse ,
+MED NCMM ,Norsk senter for molekylærmedisin ,Det medisinske fakultet ,
+MED NVR ,Nevroklinikken ,Institutt for klinisk medisin ,
+MED OPK ,Ortopedisk klinikk ,Institutt for klinisk medisin ,
+MED PERS ,Personalseksjonen ,Det medisinske fakultet ,01.09.2014 
+MED PHA ,Klinikk for psykisk helse og avhengighet ,Institutt for klinisk medisin ,
+MED PRE ,Prehospital klinikk ,Institutt for klinisk medisin ,
+MED REKSØRØST ,Regionale komiteer for medisinsk og helsefaglig forskningsetikk s-ø ,Seksjon for ledelse ,
+MED REKSØRØST 3 ,Regionale komiteer for medisinsk og helsefaglig forskningsetikk s-ø ,Seksjon for ledelse ,31.12.2015 
+MED STUD ,Studieseksjonen ,Seksjon for ledelse ,
+MED ØK ,Seksjon for økonomi ,Det medisinske fakultet ,01.09.2014 
+MF ,Det medisinske fakultet ,Universitetet i Oslo ,20.01.2011 
+MF ADM ,Fakultetssekretariatet ,Det medisinske fakultet ,20.01.2011 
+MF ADM AHU ,Universitetsadministrasjonen Ahus ,Fakultetsdivisjon Ahus ,20.01.2011 
+MF ADM AUS ,"Fakultetsdivisjon AUS, Administrasjonen ",Fakultetsdivisjon Aker universitetssykehus ,20.01.2011 
+MF ADM DNR ,Universitetsadministrasjonen DNR ,Fakultetsdivisjonen Det norske radiumhospital ,20.01.2011 
+MF ADM IPS ,"Administrasjonen, Inst. for psykiatri ",Det medisinske fakultet ,31.12.2007 
+MF ADM UUS ,"Fakultetsdivisjon UUS, Administrasjonen ",Fakultetsdivisjon UUS ,20.01.2011 
+MF AHUS ,Fakultetsdivisjon Ahus ,Det medisinske fakultet ,20.01.2011 
+MF ARK U ,Delarkiv Ullevål ,Det medisinske fakultet ,31.12.2007 
+MF ARKIV ,Delarkiv MF ,Det medisinske fakultet ,20.01.2011 
+MF AUS ,Fakultetsdivisjon Aker universitetssykehus ,Det medisinske fakultet ,20.01.2011 
+MF DNR ,Fakultetsdivisjonen Det norske radiumhospital ,Det medisinske fakultet ,20.01.2011 
+MF DOKT ,Doktorgradsseksjonen ,Det medisinske fakultet ,20.01.2011 
+MF HELSAM ,Institutt for helse og samfunn ,Det medisinske fakultet ,01.01.2010 
+MF HELSE ,Institutt for helseledelse og -økonomi ,Det medisinske fakultet ,20.01.2011 
+MF IAS ,Institutt for allmenn- og samfunnsmedisin ,Det medisinske fakultet ,20.01.2011 
+MF IAS ADM ,Administrasjonen ,Institutt for allmenn- og samfunnsmedisin ,20.01.2011 
+MF IMB ,Institutt for medisinske basalfag ,Det medisinske fakultet ,20.01.2011 
+MF IMB FOR ,"IMB, Forskerlinjen ",Institutt for medisinske basalfag ,20.01.2011 
+MF IMB SEK ,Sekretariatet ,Institutt for medisinske basalfag ,28.10.2009 
+MF IPS ,Institutt for psykiatri ,Det medisinske fakultet ,20.01.2011 
+MF ISH ,Institutt for sykepleievitenskap og helsefag ,Det medisinske fakultet ,20.01.2011 
+MF PERS ,Personalseksjonen ,Det medisinske fakultet ,20.01.2011 
+MF REGSØR ,Forskningsetisk Region sør ,Det medisinske fakultet ,31.12.2007 
+MF REGØST ,"Forskningsetisk komite, Helseregion øst ",Det medisinske fakultet ,31.12.2007 
+MF REK SØ ,REK Sør-Øst ,Det medisinske fakultet ,20.01.2011 
+MF REK SØA ,REK Sør Avd. A ,Det medisinske fakultet ,31.12.2008 
+MF REK SØB ,REK Sør Avd.B ,Det medisinske fakultet ,31.12.2008 
+MF REK ØST ,REK Øst B ,Det medisinske fakultet ,31.12.2008 
+MF RH ,Fakultetsdivisjon Rikshospitalet ,Det medisinske fakultet ,20.01.2011 
+MF RMI ,Rettsmedisinsk institutt ,Det medisinske fakultet ,20.01.2011 
+MF SI ,Seksjon for internasjonalisering ,Det medisinske fakultet ,20.01.2011 
+MF STUD ,Studieseksjonen ,Det medisinske fakultet ,20.01.2011 
+MF UADM ,Universitetsadministrasjonen RH/Dnr ,Fakultetsdivisjon Rikshospitalet ,20.01.2011 
+MF UTL ,Sekretariatet for utenlandsmedisinere ,Det medisinske fakultet ,20.01.2011 
+MF UUS ,Fakultetsdivisjon UUS ,Det medisinske fakultet ,20.01.2011 
+MF ØKO ,Økonomiseksjonen ,Det medisinske fakultet ,20.01.2011 
+MLS BIO ,Bioteknologisenteret i Oslo ,UiO:Livsvitenskap 2 ,31.12.2015 
+MLS NCMM ,Norsk senter for molekylærmedisin ,UiO:Livsvitenskap 2 ,31.12.2015 
+MN ,Det matematisk-naturvitenskapelige fakultet ,Universitetet i Oslo ,
+MN ADM ,Fakultetsadministrasjonen ,Det matematisk-naturvitenskapelige fakultet ,
+MN BIO ,Biologisk institutt ,Det matematisk-naturvitenskapelige fakultet ,31.12.2013 
+MN BIOGEOKJEM ,Senter for biogeokjem ,Det matematisk-naturvitenskapelige fakultet ,
+MN BIOINF ,Senter for bioinformatikk ,Det matematisk-naturvitenskapelige fakultet ,
+MN CMA ,Centre Mathematics Applications ,Det matematisk-naturvitenskapelige fakultet ,
+MN CTCC ,Senter for teoretisk og beregn. basert kjemi ,Kjemisk institutt ,
+MN DIGENT ,Digitalisering og Entreprenørskap ,Institutt for informatikk ,01.10.2019 
+MN FAI ,Farmasøytisk institutt ,Det matematisk-naturvitenskapelige fakultet ,
+MN FERMIO ,FERMiO - Functional Energy Related Materials ,Kjemisk institutt ,31.12.2015 
+MN FI ,Fysisk institutt ,Det matematisk-naturvitenskapelige fakultet ,
+MN GEO ,Institutt for geofag ,Det matematisk-naturvitenskapelige fakultet ,
+MN GEO/CEED ,Senter for jordens utvikling og dynamikk (CEED) ,Institutt for geofag ,
+MN HYLLERAAS ,Hylleraas-senteret ,Kjemisk institutt ,
+MN IBV ,Institutt for biovitenskap ,Det matematisk-naturvitenskapelige fakultet ,
+MN IBV/CEES ,Senter for økologisk og evolusjonær syntese (CEES) ,Biologisk institutt ,31.12.2013 
+MN IFI ,Institutt for informatikk ,Det matematisk-naturvitenskapelige fakultet ,
+MN IFI INS ,MN IFI instituttadministrasjonen ,Institutt for informatikk ,25.09.2016 
+MN IFIRITMO ,"Senter for tverrfaglig forskning på rytme, tid og bevegelse (IFI) ",Institutt for informatikk ,15.05.2018 
+MN IMBV ,Institutt for molekylær biovitenskap ,Det matematisk-naturvitenskapelige fakultet ,31.12.2013 
+MN INGAP ,SFI-INGAP ,Kjemisk institutt ,
+MN ITA ,Institutt for teoretisk astrofysikk ,Det matematisk-naturvitenskapelige fakultet ,
+MN ITS ,Institutt for teknologisystemer ,Det matematisk-naturvitenskapelige fakultet ,
+MN KI ,Kjemisk institutt ,Det matematisk-naturvitenskapelige fakultet ,
+MN MI ,Matematisk institutt ,Det matematisk-naturvitenskapelige fakultet ,
+MN NFS ,Naturfagsenteret ,Det matematisk-naturvitenskapelige fakultet ,
+MN NJORD ,NJORD Senter for studier av jordens fysikk ,Det matematisk-naturvitenskapelige fakultet ,
+MN PGP ,Physics of geological processes ,Det matematisk-naturvitenskapelige fakultet ,16.10.2015 
+MN ROCS ,Rosseland senter for solfysikk ,Institutt for teoretisk astrofysikk ,
+MN SAFE ,Senter for Akseleratorbasert Forskning og Energifysikk (SAFE) ,Det matematisk-naturvitenskapelige fakultet ,31.12.2015 
+MN SFE ,Senter for entreprenørskap ,Det matematisk-naturvitenskapelige fakultet ,01.02.2019 
+MN SFF ,Senter for fremragende forskning ,Fysisk institutt ,
+MN SI ,Seksjon for internasjonalisering. Ikke tatt i bruk ,Det matematisk-naturvitenskapelige fakultet ,28.04.2009 
+MN SIRIUS ,SIRIUS - Senter for forskningsbasert innovasjon ,Institutt for informatikk ,
+MN SMN ,Senter for materialvitenskap og nanoteknologi ,Det matematisk-naturvitenskapelige fakultet ,
+MN SMV ,Senter for materialvitenskap ,Det matematisk-naturvitenskapelige fakultet ,06.10.2008 
+MN VET ,Avdeling for videre-og etterutdanning (VETT) ,Farmasøytisk institutt ,01.01.2010 
+MUV ,Museum for universitets- og vitenskapshistorie ,Plan- og utredningsseksjonen ,05.03.2015 
+MUV2 ,Museum for universitets- og vitenskapshistorie ,Universitetet i Oslo ,
+NHM ,Naturhistorisk museum ,Universitetet i Oslo ,
+NHM ADM ,Administrasjonen ,Naturhistorisk museum ,
+NHM BH ,Seksjon for Botanisk Hage ,Naturhistorisk museum ,
+NHM BOT ,Seksjon for botanikk ,Naturhistorisk museum ,12.02.2010 
+NHM BUTIKK ,Naturhistorisk museums butikkdrift ,Seksjon for utadrettet virksomhet ,
+NHM FEZ ,Forskningsgruppe i evolusjonær zoologi ,Seksjon for forskning og samlinger ,
+NHM GECO ,Geo-økologisk forskningsgruppe ,Seksjon for forskning og samlinger ,
+NHM GEO ,Seksjon for geologi ,Naturhistorisk museum ,12.02.2010 
+NHM ISOP ,Plante- og soppsystematikk ,Seksjon for forskning og samlinger ,
+NHM KLIMA ,Klimahuset ,Seksjon for utadrettet virksomhet ,
+NHM KONS ,Seksjon for konservering og forskningsteknikk ,Naturhistorisk museum ,
+NHM LFI ,Seksjon for eksternt finansiert virksomhet ,Naturhistorisk museum ,
+NHM LFI2 ,"Laboratorium for ferskvannsøkologi, innenlandsfiske og entomologi ",Seksjon for forskning og samlinger ,
+NHM MINERAL ,Mineralogisk forskningsgruppe ,Seksjon for forskning og samlinger ,
+NHM NORPAL ,Norsk senter for paleontologi ,Seksjon for forskning og samlinger ,
+NHM PERSONAL ,Avdeling for personal og HR ,Administrasjonen ,
+NHM PET ,Forskningsgruppen Planteevolusjon og DNA Metabarcoding ,Seksjon for forskning og samlinger ,
+NHM SERG ,Evolusjonær kjønnsforskning ,Seksjon for forskning og samlinger ,
+NHM SFS ,Seksjon for forskning og samlinger ,Naturhistorisk museum ,
+NHM UTAD ,Seksjon for utadrettet virksomhet ,Naturhistorisk museum ,
+NHM ZOO ,Seksjon for zoologi ,Naturhistorisk museum ,12.02.2010 
+NHM ØKONOMI ,Avdeling for økonomi og innkjøp ,Administrasjonen ,
+NIKK ,Nordisk institutt for kunnskap om kjønn ,Universitetet i Oslo ,
+OD ,Det odontologiske fakultet ,Universitetet i Oslo ,
+OD ADM ,Fakultetsadministrasjonen ,Det odontologiske fakultet ,
+OD FOTO ,Fotoseksjonen ,Det odontologiske fakultet ,
+OD IKO ,Institutt for klinisk odontologi ,Det odontologiske fakultet ,
+OD IOB ,Institutt for oral biologi ,Det odontologiske fakultet ,
+OD IT ,IT-seksjonen ,Det odontologiske fakultet ,
+OPA ,Organisasjons- og personalavdelingen ,Sentraladministrasjonen ,31.12.2013 
+OPA ARK ,Arkiv SA ,Organisasjons- og personalavdelingen ,31.12.2013 
+OPA BHT ,Enhet for bedriftshelsetjeneste ,Organisasjons- og personalavdelingen ,31.12.2013 
+OPA ESAK ,Seksjon for forvaltning av elektronisk saksbehandling og dokumentasjon ,Organisasjons- og personalavdelingen ,31.12.2013 
+OPA HMS ,HMS-Stab ,Organisasjons- og personalavdelingen ,31.12.2013 
+OPA LØNN ,Lønningsseksjonen ,Organisasjons- og personalavdelingen ,31.12.2013 
+OPA PERS ,Personalseksjonen ,Organisasjons- og personalavdelingen ,31.12.2013 
+OPA STAB ,Stab ,Organisasjons- og personalavdelingen ,31.12.2013 
+PLURICOURTS ,Senter for forskning om internasjonale domstolers legitimitet ,Institutt for offentlig rett ,
+PVO ,Personvernombud ,Universitetet i Oslo ,
+RMI ,Rettsmedisinsk institutt ,Universitetet i Oslo ,
+SA ØKONOMI ,Økonomiseksjonen sentraladministrasjonen ,Økonomi- og planavdelingen ,31.12.2013 
+SADM ,Avdeling for studieadministrasjon ,UiO:Ledelsen og støtteenheter ,
+SADM DIG ,Seksjon for digitale tjenester ,Avdeling for studieadministrasjon ,
+SADM OPP ,Seksjon for opptak ,Avdeling for studieadministrasjon ,
+SADM SK ,Seksjon for studiekvalitet ,Avdeling for studieadministrasjon ,
+SADM2 ,Sentraladministrasjonen ,Universitetet i Oslo ,31.12.2013 
+SFS ,Samarbeidstiltaket Felles Studentsystem ,Universitetets senter for informasjonsteknologi ,31.12.2014 
+SL GRU ,Gruppe for reise og utgiftsrefusjoner ,Seksjon for lønn ,
+SO ,Samordna opptak ,Universitetet i Oslo ,31.12.2014 
+SO DRIFT ,Samordna opptak - drift. Ikke tatt i bruk ,Samordna opptak ,29.09.2009 
+SO UTVIKL ,Samordna opptak- utvikling. Ikke tatt i bruk ,Samordna opptak ,29.09.2009 
+SR GAPI ,"Gruppe for prosjekt, inntekt, avgift ",Seksjon for regnskap ,
+SR GARK ,"Gruppe for avstemming, rapportering, kontroll ",Seksjon for regnskap ,
+SR GIFA ,Gruppe for inngående fakturahåndtering og aktivering ,Seksjon for regnskap ,
+STA ,Studieavdelingen ,Sentraladministrasjonen ,31.12.2013 
+STA SIS ,Seksjon for internasjonalisering av studier ,Studieavdelingen ,31.12.2013 
+STA SSO ,Seksjon for studentinformasjon og opptak ,Studieavdelingen ,31.12.2013 
+STA SST ,Seksjon for studieadministrative tjenester ,Studieavdelingen ,31.12.2013 
+STK ,Senter for tverrfaglig kjønnsforskning ,Universitetet i Oslo ,
+SUM ,Senter for utvikling og miljø ,Universitetet i Oslo ,
+SV ,Det samfunnsvitenskapelige fakultet ,Universitetet i Oslo ,
+SV ADM ,Fakultetsadministrasjonen ,Det samfunnsvitenskapelige fakultet ,
+SV ARENA ,ARENA Senter for europaforskning ,Det samfunnsvitenskapelige fakultet ,
+SV C-REX ,Senter for ekstremismeforskning ,Institutt for statsvitenskap ,
+SV CULCOM ,CULCOM ,Sosialantropologisk institutt ,21.03.2014 
+SV CWI ,Childwatch International ,Det samfunnsvitenskapelige fakultet ,21.03.2014 
+SV ESOP ,"ESOP Centre of Equality, Social Organization, and Performance ",Økonomisk institutt ,
+SV ISS ,Institutt for sosiologi og samfunnsgeografi ,Det samfunnsvitenskapelige fakultet ,
+SV ISV ,Institutt for statsvitenskap ,Det samfunnsvitenskapelige fakultet ,
+SV KLINIKK ,"Avdeling for klinikk, praksis og klinisk ferdighetsopplæring ",Psykologisk institutt ,
+SV NSD ,Norsk samfunnsvitenskapelig datatjeneste. Ikke tatt i bruk ,Det samfunnsvitenskapelige fakultet ,13.12.2010 
+SV PSI ,Psykologisk institutt ,Det samfunnsvitenskapelige fakultet ,
+SV PSIRITMO ,"Senter for tverrfaglig forskning på rytme, tid og bevegelse (PSI) ",Psykologisk institutt ,15.05.2018 
+SV SAI ,Sosialantropologisk institutt ,Det samfunnsvitenskapelige fakultet ,
+SV SI ,Sosialantropologisk institutt ,Det samfunnsvitenskapelige fakultet ,28.03.2008 
+SV TIK ,"TIK Senter for teknologi, innovasjon og kultur ",Det samfunnsvitenskapelige fakultet ,
+SV ØI ,Økonomisk institutt ,Det samfunnsvitenskapelige fakultet ,
+TF ,Det teologiske fakultet ,Universitetet i Oslo ,
+TF ADM ,Fakultetssekretariatet ,Det teologiske fakultet ,
+TF EVU ,"Avd kompetansehevende studier, Teologisk. Ikke tatt i bruk ",Det teologiske fakultet ,22.09.2009 
+TF FAG ,"Fagseksjonen, Teologisk fakultet. Ikke tatt i bruk ",Det teologiske fakultet ,22.09.2009 
+UB ,Universitetsbiblioteket ,Universitetet i Oslo ,
+UB ADM ,Administrasjonen ,Universitetsbiblioteket ,
+UB DIGIT ,Digitale tjenester ,Universitetsbiblioteket ,
+UB HUMSAM ,HumSam-biblioteket ,Universitetsbiblioteket ,
+UB JF ,Juridisk bibliotek ,Universitetsbiblioteket ,
+UB MH ,Medisinsk bibliotek ,Universitetsbiblioteket ,
+UB MN ,Realfagsbiblioteket ,Universitetsbiblioteket ,
+UB STAB ,Bibliotekdirektøren ,Universitetsbiblioteket ,
+UDIR ,Universitetsdirektørens kontor ,Sentraladministrasjonen ,31.12.2013 
+UIO ,Universitetet i Oslo ,,
+UIO 200 ,UiOs 200-års jubileum i 2011 ,Universitetsdirektørens kontor ,31.12.2013 
+UIO ENERGI ,UiO:Energi ,Universitetet i Oslo ,
+UIO:L ,UiO:Livsvitenskap ,Universitetet i Oslo ,
+UIO:L 2 ,UiO:Livsvitenskap 2 ,Universitetet i Oslo ,31.12.2016 
+UNIFORUM ,Uniforum ,Sentraladministrasjonen ,31.12.2013 
+UNIT ,Direktoratet for IKT og fellestjenester i høyere utdanning og forsknin ,Universitetet i Oslo ,
+UNIT BIBSYS ,UNIT BIBSYS ,Direktoratet for IKT og fellestjenester i høyere utdanning og forsknin ,
+UNIT CERES ,UNIT CERES ,Direktoratet for IKT og fellestjenester i høyere utdanning og forsknin ,
+UNIT UNINETT ,UNIT UNINETT ,Direktoratet for IKT og fellestjenester i høyere utdanning og forsknin ,
+USIT ,Universitetets senter for informasjonsteknologi ,UiO:Ledelsen og støtteenheter ,
+USIT ADM ,Administrasjonen ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT API ,Seksjon for applikasjon- og integrasjonsplattformer ,Seksjon for tjenernær drift ,
+USIT APP ,Seksjon for applikasjonsdrift ,Seksjon for tjenernær drift ,
+USIT BNT ,Underavdeling for brukernære tjenester ,Universitetets senter for informasjonsteknologi ,
+USIT BO ,Seksjon for bruker- og oppdragsoppfølging ,Stabsfunksjoner og interne støttetjenester ,31.12.2018 
+USIT BSD ,Seksjon for basis systemdrift ,Seksjon for grunndrift ,
+USIT BSD3 ,Gruppe for basis systemdrift ,Seksjon for system- og applikasjonsdrift ,31.12.2012 
+USIT DBA ,Gruppe for databasedrift ,Seksjon for system- og applikasjonsdrift ,31.12.2012 
+USIT DBD ,Seksjon for databasedrift ,Seksjon for tjenernær drift ,
+USIT DBV ,Gruppe for database og -varehus ,Seksjon for utvikling av nasjonale informasjonssystemer ,31.12.2014 
+USIT DBV3 ,Gruppe for database og -varehus (tidl. FUS) ,Seksjon for utvikling av nasjonale informasjonssystemer (tidl. SUAF) ,31.12.2012 
+USIT DIA ,Datainnsamling og automasjon ,Seksjon for grunndrift ,
+USIT DML ,Seksjon for digitale medier i læring ,Underavdeling for brukernære tjenester ,
+USIT DML 2 ,Gruppe for digitale medier i læring ,Seksjon for digitale medier i læring ,
+USIT DML3 ,Gruppe for digitale medier i læring ,Seksjon for utdannings- og forskningsstøtte ,31.12.2012 
+USIT DS ,Seksjon for datafangst og samlingsforvaltning ,Underavdeling for IT i forskning ,
+USIT DS2 ,Gruppe for datafangst og samlingsforvaltning ,Seksjon for IT i forskningen ,
+USIT DS3 ,Gruppe for digital samlingsforvaltning ,Seksjon for utdannings- og forskningsstøtte ,31.12.2012 
+USIT FAIT ,Gruppe for forvaltning av administrative IT-tjenester ,Seksjon for integrasjon og elektroniske identiteter ,07.01.2015 
+USIT FI ,Seksjon for forskningsinfrastruktur ,Underavdeling for IT i forskning ,
+USIT FI2 ,Gruppe for forskningsinfrastruktur ,Seksjon for IT i forskningen ,
+USIT FS ,Gruppe for FS-støtte ,Seksjon for utvikling av nasjonale informasjonssystemer ,31.12.2014 
+USIT FS3 ,Gruppe for FS- støtte (tidl. FS) ,Seksjon for utvikling av nasjonale informasjonssystemer (tidl. SUAF) ,31.12.2012 
+USIT FT ,Seksjon for forskningstjenester ,Underavdeling for IT i forskning ,
+USIT FT2 ,Gruppe for forskningstjenester ,Seksjon for IT i forskningen ,
+USIT GAP3 ,Gruppe for applikasjonsdrift ,Seksjon for system- og applikasjonsdrift ,31.12.2012 
+USIT GD ,Seksjon for grunndrift ,Underavdeling for IT-infrastruktur ,
+USIT GDW ,Gruppe for drift av Windowsklienter ,Seksjon for klientnær drift ,
+USIT GDW2 ,Gruppe for drift av Windowsklienter ,Seksjon for klientnær drift ,01.01.2018 
+USIT GFS ,Gruppe for sanntidstjenester ,Seksjon for grunndrift ,
+USIT GLIT ,Gruppe for lokal IT-støtte ,Seksjon for arbeidsplasstøtte ,31.12.2012 
+USIT GMT ,Gruppe for drift av meldingstjenester ,Seksjon for klientnær drift ,
+USIT GMT2 ,Gruppe for drift av meldingstjenester ,Seksjon for klientnær drift ,01.01.2018 
+USIT GPL ,Gruppe for publiseringsløsninger ,Webseksjonen ,
+USIT GPL3 ,Gruppe for publiseringsløsning ,Webseksjonen ,31.12.2012 
+USIT GT ,Gruppe for drift av grunntjenester ,Seksjon for system- og applikasjonsdrift ,31.12.2012 
+USIT GUAN3 ,Gruppe for utvikling av nettsteder ,Webseksjonen ,31.12.2012 
+USIT INT ,Gruppe for integrasjon ,Seksjon for utvikling av nasjonale informasjonssystemer ,31.12.2014 
+USIT INT3 ,Gruppe for integrasjon ,Seksjon for utvikling av nasjonale informasjonssystemer (tidl. SUAF) ,31.12.2012 
+USIT ITF ,Underavdeling for IT i forskning ,Universitetets senter for informasjonsteknologi ,
+USIT ITF2 ,Seksjon for IT i forskningen ,Underavdeling for brukernære tjenester ,
+USIT ITI ,Underavdeling for IT-infrastruktur ,Universitetets senter for informasjonsteknologi ,
+USIT KD ,Seksjon for klientnær drift ,Underavdeling for brukernære tjenester ,
+USIT KD2 ,Seksjon for klientnær drift ,Underavdeling for IT-infrastruktur ,01.01.2018 
+USIT KIA ,"Gruppe for drift av katalog-, integrasjon- og autentiseringstjenester ",Seksjon for tjenernær drift ,
+USIT LIPK ,Løsninger for installasjon av programvare og klientdrift ,Seksjon for arbeidsplasstøtte ,31.12.2012 
+USIT LKIT ,USIT Lokal-IT ,Seksjon for klientnær drift ,
+USIT LKIT2 ,USIT Lokal-IT ,Seksjon for klientnær drift ,01.01.2018 
+USIT MG ,Gruppe for maskinromsdrift. Ikke tatt i bruk ,Seksjon for system- og applikasjonsdrift ,09.02.2011 
+USIT MLM ,"Gruppe for MacOSX, Linux og mobile enheter ",Seksjon for klientnær drift ,31.12.2018 
+USIT MLM2 ,"Gruppe for MacOSX, Linux og mobile enheter ",Seksjon for klientnær drift ,01.01.2018 
+USIT MUVI ,Gruppe for medieutvikling og visualisering ,Seksjon for digitale medier i læring ,01.01.2013 
+USIT NETT ,Seksjon for nettdrift ,Seksjon for grunndrift ,
+USIT OI ,Gruppe for opplæring og informasjon ,Seksjon for arbeidsplasstøtte ,09.02.2011 
+USIT OPSYS ,Gruppe for opptakssystemer ,Seksjon for utvikling av nasjonale informasjonssystemer ,31.12.2014 
+USIT OPSYS3 ,Gruppe for opptakssystemer (tidl. SO) ,Seksjon for utvikling av nasjonale informasjonssystemer (tidl. SUAF) ,31.12.2012 
+USIT SAPP ,Seksjon for system- og applikasjonsdrift ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT SAS ,Seksjon for arbeidsplasstøtte ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT SDS ,Gruppe for IT-support og driftssenter ,Seksjon for klientnær drift ,
+USIT SDS2 ,Gruppe for IT support og driftssenter ,Seksjon for klientnær drift ,01.01.2018 
+USIT SINT ,Seksjon for IP-nett og telefoni ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT SIS ,Seksjon for interne støttetjenester ,Stabsfunksjoner og interne støttetjenester ,
+USIT SPLO ,"Seksjon for personal, lønn og organisasjon ",Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT SSD ,Seksjon for serverdrift ,Seksjon for grunndrift ,
+USIT SST ,Stabsfunksjoner og interne støttetjenester ,Universitetets senter for informasjonsteknologi ,
+USIT STAB ,IT-direktørens stab ,Stabsfunksjoner og interne støttetjenester ,
+USIT STAB3 ,IT-direktøren ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT SUF ,Seksjon for utdannings- og forskningsstøtte ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT SUN ,Seksjon for utvikling av nasjonale informasjonssystemer ,Universitetets senter for informasjonsteknologi ,31.12.2014 
+USIT SUN3 ,Seksjon for utvikling av nasjonale informasjonssystemer (tidl. SUAF) ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT TD ,Seksjon for tjenernær drift ,Underavdeling for IT-infrastruktur ,
+USIT UAIT ,Gruppe for utvikling av administrative IT-tjenester ,Seksjon for integrasjon og elektroniske identiteter ,
+USIT USITINT ,Seksjon for integrasjon og elektroniske identiteter ,Underavdeling for brukernære tjenester ,
+USIT UX ,Gruppe for brukeropplevelse ,Webseksjonen ,
+USIT VD ,Gruppe for vitenskapelig databehandling ,Seksjon for utdannings- og forskningsstøtte ,31.12.2012 
+USIT WAPP ,Gruppe for utvikling og forvaltning av webbapplikasjoner ,Webseksjonen ,
+USIT WAPP3 ,Gruppe for utvikling av Web-applikasjoner ,Webseksjonen ,31.12.2012 
+USIT WEB ,Webseksjonen ,Underavdeling for brukernære tjenester ,
+USIT WEB3 ,Webseksjonen ,Universitetets senter for informasjonsteknologi ,31.12.2012 
+USIT WEBAPP ,Gruppe for webapplikasjoner ,Seksjon for utvikling av nasjonale informasjonssystemer ,31.12.2014 
+USIT WEBAPP3 ,Gruppe for webapplikasjoner ,Seksjon for utvikling av nasjonale informasjonssystemer (tidl. SUAF) ,31.12.2012 
+USIT WI ,Gruppe for windows infrastruktur ,Seksjon for arbeidsplasstøtte ,31.12.2012 
+USIT3 ,Universitetets senter for informasjonsteknologi ,Universitetet i Oslo ,31.12.2012 
+UV ,Det utdanningsvitenskapelige fakultet ,Universitetet i Oslo ,
+UV ADM ,Fakultetssekretariatet ,Det utdanningsvitenskapelige fakultet ,
+UV ARKIV ,"Det utdanningsvitenskapelige fakultet, Arkivseksjonen Ikke tatt i bruk ",Det utdanningsvitenskapelige fakultet ,31.12.2007 
+UV CEMO ,Centre for Educational Measurement ,Det utdanningsvitenskapelige fakultet ,
+UV FIKS ,"FIKS - Forskning, innovasjon og kompetanseutvikling i skolen ",Det utdanningsvitenskapelige fakultet ,
+UV ILS ,Institutt for lærerutdanning og skoleforskning ,Det utdanningsvitenskapelige fakultet ,
+UV IME ,InterMedia ,Det utdanningsvitenskapelige fakultet ,
+UV INFO ,"Det utdanningsvitenskapelige fakultet, Info-seksj Ikke tatt i bruk ",Det utdanningsvitenskapelige fakultet ,31.12.2007 
+UV IPED ,Institutt for pedagogikk ,Det utdanningsvitenskapelige fakultet ,
+UV IPED2 ,Institutt for pedagogikk feilregistrert ,Det utdanningsvitenskapelige fakultet ,03.06.2013 
+UV ISP ,Institutt for spesialpedagogikk ,Det utdanningsvitenskapelige fakultet ,
+UV IT ,"Det utdanningsvitenskapelige fakultet, IT-seksjon. Ikke tatt i bruk ",Det utdanningsvitenskapelige fakultet ,31.12.2007 
+UV ITU ,Forsknings-/kompetansenettverk for IT ,Det utdanningsvitenskapelige fakultet ,31.12.2009 
+UV KOMP ,Forsknings/kompetansenettverk for IT. Ikke tatt i bruk ,Det utdanningsvitenskapelige fakultet ,01.09.2008 
+UV LINK ,"LINK - Centre for Learning, Innovation & Academic Development ",Det utdanningsvitenskapelige fakultet ,
+UV PERS ,"Det utdanningsvitenskapelige fakultet, Personalseksj Ikke tatt i bruk ",Det utdanningsvitenskapelige fakultet ,31.12.2007 
+ØPA ,Økonomi- og planavdelingen ,Sentraladministrasjonen ,31.12.2013 
+ØPA INN ,Innkjøpsseksjonen ,Økonomi- og planavdelingen ,31.12.2013 
+ØPA PLAN ,Budsjett- og planseksjonen ,Økonomi- og planavdelingen ,31.12.2013 
+ØPA SAF ,Seksjon for applikasjonsforvaltning ,Økonomi- og planavdelingen ,31.12.2013 
