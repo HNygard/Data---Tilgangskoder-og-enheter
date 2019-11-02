@@ -1,1 +1,7 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Aktiv
+,Sentraladmin,,,Aktiv
+,Ordfører,,,Aktiv
+,Natur/Milljø,,,Aktiv
+,Kultur/Undervisning,,,Aktiv
+,Helse/sosial,,,Aktiv
+,Morsa,,,Aktiv

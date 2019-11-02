@@ -1,1 +1,11 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Sortering
+U,Ugradert,,,0
+B,Begrenset,5/7/2013,,10
+F,Fortrolig,5/7/2013,,40
+PRO,Prosjekt,,,100
+UO,Untatt offentlighet ,,,100
+XX,Utsatt innsyn,6/4/2016,,100
+P,Personal,,,110
+KL,Klientsaker,4/21/2016,,120
+B,Barn,,,130
+E,Elev,,,140

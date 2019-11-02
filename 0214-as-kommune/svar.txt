@@ -1,0 +1,2 @@
+September 2013 tok kommunen i bruk Public 360 fra Software Innovation, nå Tieto. Før dette benyttet kommunen ESA sak- og arkivsystem fra
+leverandøren Evry. Dataene som lå i ESA-basen er overført til historisk base i Public 360.

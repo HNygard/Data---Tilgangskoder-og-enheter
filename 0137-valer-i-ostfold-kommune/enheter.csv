@@ -1,1 +1,10 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Aktiv,Dato 
+SA.SA,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995 "
+KUE.KUE,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+KUE.KBS,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+KUE.VÅK,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+KUE.SVS,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+NME.NME.,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+HS.HS,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+OF.OF,,Aktiv,"Ikke oppført, men er fra oppstart fra systemet ca 01.01.1995"
+MOR,,Aktiv,Opprettet 11.01.2011

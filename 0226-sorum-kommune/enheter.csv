@@ -1,1 +1,151 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Aktiv
+,Aktivitetstilbud,Aktiv
+,Ambulerende miljøarbeid,Aktiv
+,Ambulerende psykisk helseteam,Aktiv
+,Arbeids- og serviceavdelingen,Aktiv
+,Avlastningstjenesten,Aktiv
+,"Barn, unge og familie",Aktiv
+,Barneverntjenesten,Aktiv
+,Bibliotek og kultur,Aktiv
+,Bibliotekarforbundet,Aktiv
+,Bingsfoss ungdomsskole,Aktiv
+,Blaker bo- og omsorgssenter,Aktiv
+,Bo- og avlastningstjenesten,Aktiv
+,Botjenesten Bekkedroga,Aktiv
+,Botjenesten Bekkefaret,Aktiv
+,Botjenesten Brattli,Aktiv
+,Botjenesten Friggvegen,Aktiv
+,Botjenesten Heggelia,Aktiv
+,Botjenesten Sennerud,Aktiv
+,Botjenesten Sørvald,Aktiv
+,Byggesak,Aktiv
+,Demensenhet,Aktiv
+,Demensenheten Sørvald,Aktiv
+,Digitaliserings- og IKT avdelingen,Aktiv
+,Dokumentsenteret,Aktiv
+,Drift,Aktiv
+,Eiendom og Kommunalteknikk,Aktiv
+,Eiendomsdrift,Aktiv
+,Fagstøtte-team,Aktiv
+,Familiehelsetjenester,Aktiv
+,Fjellbovegen barnehage,Aktiv
+,Fjuk oppvekstsenter,Aktiv
+,Frogner barnehage,Aktiv
+,Frogner skole og kultursenter,Aktiv
+,Geodata,Aktiv
+,Haugtun skole,Aktiv
+,Hjemmebaserte tjenester,Aktiv
+,Hjemmebaserte tjenester Frogner,Aktiv
+,Hjemmebaserte tjenester rehabiliteringsenhet,Aktiv
+,Hjemmebaserte tjenester Sørumsand,Aktiv
+,HR og fagstøtte,Aktiv
+,HR-team,Aktiv
+,Idrettsparken barnehage,Aktiv
+,Kommunalteknisk drift,Aktiv
+,Kultur og nærmiljø,Aktiv
+,"Kultur, helse og omsorg",Aktiv
+,Kulturminne,Aktiv
+,Kulturskolen,Aktiv
+,Landbruk,Aktiv
+,Legevakt,Aktiv
+,Lønn,Aktiv
+,Miljø og Samfunnsutvikling,Aktiv
+,MSU Eiendom,Aktiv
+,MSU Kommunalteknikk,Aktiv
+,NAV Oppfølging,Aktiv
+,NAV Sørum (1),Aktiv
+,Nedre Romerike Innkjøpssamarbeid,Aktiv
+,Nordli barnehage,Aktiv
+,Organisasjon og tjenesteutvikling,Aktiv
+,Pedagogisk støtte,Aktiv
+,Plan,Aktiv
+,"Plan, næring og byggesak",Aktiv
+,Politisk ledelse,Aktiv
+,Prosjekt,Aktiv
+,Psykisk helse og rus,Aktiv
+,Psykisk helse og tildeling,Aktiv
+,Regnskap,Aktiv
+,Renhold Frogner,Aktiv
+,Renhold Sørumsand,Aktiv
+,Romerike Revisjon IKS (1),Aktiv
+,Rådmann,Aktiv
+,Skåningsrud skole og ressurssenter,Aktiv
+,Somatisk enhet,Aktiv
+,Sørum kommunale eiendomsselskap KF - Prosjekt,Aktiv
+,Sørum Kommune,Aktiv
+,Sørum skole,Aktiv
+,Sørum sykehjem,Aktiv
+,Sørum sykehjem - 2. etasje,Aktiv
+,Sørum sykehjem - 3. etasje,Aktiv
+,Sørum sykehjem - kjøkken,Aktiv
+,Sørum sykehjem - rehabiliteringsavdeling,Aktiv
+,Sørumsand skole,Aktiv
+,Sørvald bo- og behandlingssenter,Aktiv
+,Tildelingsenheten,Aktiv
+,Tillitsvalgte,Aktiv
+,Utdanning og Oppvekst,Aktiv
+,Vesterskaun skole,Aktiv
+,Voksenopplæring,Aktiv
+,Økonomi,Aktiv
+,Arkivtjenesten,Deaktivert
+,Barnehageseksjonen,Deaktivert
+,Barnehageseksjonen - stab,Deaktivert
+,Barnevernseksjonen stab,Deaktivert
+,Bingsfosshallen,Deaktivert
+,Blaker aldersheim,Deaktivert
+,Blaker barnehage,Deaktivert
+,Botjenesten Sørvald 1,Deaktivert
+,Botjenesten Sørvald 2,Deaktivert
+,Controller,Deaktivert
+,Eiendom,Deaktivert
+,"Eiendom - Forvaltning, Drift og vedlikehold",Deaktivert
+,Eiendom - Prosjekt,Deaktivert
+,Eiendom - Prosjekt (1),Deaktivert
+,Eiendom - Renholdsservice,Deaktivert
+,Fag,Deaktivert
+,Fag og prosjekt,Deaktivert
+,Familiesenter,Deaktivert
+,Fjuk bofellesskap,Deaktivert
+,Fjuk skole,Deaktivert
+,Frogner skole,Deaktivert
+,Frogner skole (1),Deaktivert
+,Grunnskoleseksjonen stab,Deaktivert
+,Helse- og sosialseksjonen stab,Deaktivert
+,Hjemmerehabilitering,Deaktivert
+,IKT-avdelingen,Deaktivert
+,Kommunalteknikk,Deaktivert
+,Kommunalteknikk - Fag og Prosjekt,Deaktivert
+,Kommunalteknikk - Produksjon,Deaktivert
+,Krogstad Miljøpark,Deaktivert
+,"Kultur, familie og nærmiljø",Deaktivert
+,Kulturkontoret,Deaktivert
+,Landbruk (1),Deaktivert
+,Levekår,Deaktivert
+,Melvold ungdomsskole,Deaktivert
+,Midlertidig,Deaktivert
+,Midtre Romerike Avløpsselskap - MIRA IKS,Deaktivert
+,Misjonshuset barnehage (1),Deaktivert
+,Omsorg og velferd,Deaktivert
+,Oslo kommune (1),Deaktivert
+,Personalteamet,Deaktivert
+,"Pleie-, rehabiliterings- og omsorgsseksjonen - stab",Deaktivert
+,PLU,Deaktivert
+,Politisk sekretariat,Deaktivert
+,Resepsjon,Deaktivert
+,Rådmannens stab,Deaktivert
+,Sennerud barnehage,Deaktivert
+,Servicesenteret,Deaktivert
+,Sørum kommunale eiendomsselskap KF,Deaktivert
+,Sørum kommunale eiendomsselskap KF - Byggforvaltning,Deaktivert
+,"Sørum kommunale eiendomsselskap KF - Forvaltning, Drift og vedlikehold",Deaktivert
+,Sørum kommunale eiendomsselskap KF - Renholdsservice,Deaktivert
+,Sørum kommunale eiendomsselskap KF - stab,Deaktivert
+,Sørum kommunalteknikk - Renseanlegget,Deaktivert
+,Sørum Kommunalteknikk KF,Deaktivert
+,Sørum kommunalteknikk KF - Driftssentralen,Deaktivert
+,Sørum kommunalteknikk KF - Stab,Deaktivert
+,Tilsettingsteamet,Deaktivert
+,Tjenester til funksjonshemmede - stab,Deaktivert
+,Utdanning,Deaktivert
+,Økonomiavdeling,Deaktivert
+,Østre Romerike Revisjonsdistrikt,Deaktivert

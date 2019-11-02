@@ -1,0 +1,21 @@
+- Hvilke sak- og arkiv som er benyttet i kommunen siden 01.01.2008. Navn
+på leverandør. Dato for når det ble tatt i bruk og eventuelt sluttet å bli
+brukt.
+
+Nittedal kommune har brukt EDB Sak og Arkiv (Evry) fra 01.01.2008 til
+01.02.2011. Vi byttet til Public 360 (Tieto, tidligere Software
+Innovation) 01.02.2011
+
+- Dersom dere har byttet, så ønskes tilgangskoder og enheter for de
+tidligere også (ref Offl §9).
+
+EDB Sak og Arkiv sin database mellom 2008-2011 er avsluttet og vi har kun
+begrenset lesetilgang til den. Av den grunn er det ikke mulig å få en
+rapport over organisatoriske enheter, tilgangskode eller andre typer
+datasett.
+
+- Dersom dere har byttet, hva er status på tidligere registre? Er de
+aktive og kan hentes data fra?
+
+                Vi får gjort oppslag i enkelte saker/dokumenter. Vi har
+ikke tilgang til konfigurasjonsverktøy.

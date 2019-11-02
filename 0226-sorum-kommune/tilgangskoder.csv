@@ -1,1 +1,4 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Sortering
+U,Ugradert,,,0
+UO,Unntatt offentlighet,,,100
+XX,Midlertidig sperret,,,100

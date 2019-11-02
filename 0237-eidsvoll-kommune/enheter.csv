@@ -1,1 +1,95 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt,Nedlagt
+,,Eidsvoll kommune,1/2/2004
+[Ufordelt],Ufordelt/sendt tilbake til arkiv,Ufordelt/sendt tilbake til arkiv,
+ARP,Stab/arealplanlegging,Kommunal forvaltning,2/16/2015
+AØR,Arbeidsgiver kontrollen,Rådmannen,
+BAA,Barnehageavdelingen,Skole- og barnehageetaten,9/30/2010
+BFB,Bolig og fritid med bistand,Rådmannen,3/5/2015
+BHG,Barnehage,Rådmannen,
+BIB,Bibliotek,Kulturhuset,12/31/2010
+BJB,Bjørkhagan barnehage,Skole- og barnehageetaten,9/30/2010
+BOE,Bolig- og eiendomskontoret,Innbyggersenter,3/11/2015
+BON,Bønsmoen barnehage,Oppvekst barnehage,
+BOS,Bønsmoen skole,Oppvekst skole,
+BRA,Seksjon for brannvern,Brann og redning,3/19/2015
+BRB,Brensmork barnehage,Oppvekst barnehage,
+BRE,Brann og redning,Rådmannen,5/1/2013
+BVN,Avd. for barneverntjenester,Familiens hus,3/25/2015
+BYG,byggesak,Kommunal forvaltning,
+BYO,Seksjon for byggesak og oppmåling,Kommunal forvaltning,9/1/2015
+DAB,Dal barnehage,Skole- og barnehageetaten,9/30/2010
+DAS,Dal skole,Oppvekst skole,
+EFO,Eiendomsforvaltningen,Rådmannen,
+EVS,Eidsvoll Verk skole,Oppvekst skole,
+FAG,Fagtjenesten for funksjonshemmede,Bolig og fritid med bistand,
+FAM,Familiens hus,Rådmannen,
+FDV,"Seksjon for forvaltning, drift og vedlikehold",Eiendomsforvaltningen,2/16/2015
+FEIR,Feiring skole,Oppvekst skole,
+FEST,Fellestjenesten,Sentraladministrasjonen,
+FISK,Finstad skole,Oppvekst skole,10/1/2016
+GRA,Grunnskoleavdelingen,Skole- og barnehageetaten,9/30/2010
+HEH,Helsehuset,Rådmannen,1/1/2014
+HES,Helse- og sosialetaten,Rådmannen,9/30/2010
+HJE,Hjemmetjenesten,Helse- og sosialetaten,9/30/2010
+HOB,Helse og bistand,Rådmannen,
+HSS,Avd. for helsestasjons- og skolehelsetjeneste,Familiens hus,
+HTJ,Hjemmebaserte tjenester,Rådmannen,
+HUB,Hulen barnehage,Skole- og barnehageetaten,3/1/2006
+IBS,Innbyggersenter,Rådmannen,1/1/2015
+IKT,IKT,Fellestjenesten,1/1/2015
+KOD,Kommunal drift,Rådmannen,
+KOF,Kommunal forvaltning,Rådmannen,
+KOM,Seksjon for kommunalteknikk,Kommunal drift,9/20/2010
+KOML,Kommuneoverlege,Sentraladministrasjonen,1/16/2015
+KOT,Kommunalteknikk,Rådmannen,
+KTU,Kultur,Rådmannen,
+KUB,Badet Kulturtun,Kulturhuset,9/20/2010
+KUH,Kulturhuset,Rådmannen,12/1/2016
+KUL,Kultur- og næringsetaten,Rådmannen,9/30/2010
+LAN,Landbruk og næring,Kommunal forvaltning,9/20/2010
+LAN/GEO,Landbruk og Geodata,Kommunal forvaltning,
+LANG,Langset skole,Skole,
+LØNN,Lønn,Sentraladministrasjonen,
+MUS,Eidsvoll Museum,Kulturhuset,9/20/2010
+NAV,NAV,Rådmannen,
+OBH,Oppvekst barnehage,Rådmannen,1/15/2015
+OPBH,Oppvekst barnehage,Rådmannen,1/15/2015
+OPE,Organisasjon og personal,Rådmannen,9/1/2012
+OPPVN,Oppvekst Nord,Rådmannen,1/1/2014
+OPPVS,Oppvekst Sør,Rådmannen,1/1/2014
+OPSK,Oppvekst skole,Rådmannen,1/15/2015
+ORDF,Ordføreren,Eidsvoll kommune,
+ORG,Eidsvoll kommune,,
+OSK,Oppvekst skole,Rådmannen,1/1/2014
+PLA,Plan,Kommunal forvaltning,
+PLO,Seksjon for pleie og omsorg,Pleie og omsorg i institusjon,9/20/2010
+POI,Pleie og omsorg i institusjon,Rådmannen,
+POS,Politisk sekretariat,Fellestjenesten,
+PPT,Pedagogisk-psykologisk tjeneste,Familiens hus,
+PRK,Park og idrett,Kommunal drift,9/20/2010
+PSY,Avd. for psykisk helsearbeid,Helse og bistand,9/20/2010
+PVT,Pedagogisk veiledningstjeneste,Familiens hus,9/20/2010
+REH,Avd. for rehabilitering,Helse og bistand,9/20/2010
+RÅB,Råholt barnehage,Oppvekst barnehage,10/1/2014
+RÅD,Rådmannen,Eidsvoll kommune,
+RÅH,Råholtbråtan barnehage,Oppvekst barnehage,
+RÅS,Råholt skole,Oppvekst skole,
+RÅU,Råholt ungdomsskole,Oppvekst skole,
+SAS,Sentraladministrasjonen,Rådmannen,
+SBE,Skole- og barnehageetaten,Rådmannen,9/30/2010
+SEN,Sentraladministrasjonen,Rådmannen,9/30/2010
+SKO,Skole,Rådmannen,
+SOS,Avd. for sosiale tjenester,Helse- og sosialetaten,9/30/2010
+STB,Stenshol barnehage,Oppvekst Nord,11/1/2013
+SUM,Samfunnsutvikling og miljø,Rådmannen,12/31/2014
+TEK,Teknisk etat,Rådmannen,9/30/2010
+TUF,Tjenesteutvikling og forvaltning,Rådmannen,12/31/2014
+VIB,Vilberg barnehage,Oppvekst barnehage,
+VIE,Vielse,Ordføreren,
+VIL,Vilberg helsetun,Pleie og omsorg i institusjon,1/16/2015
+VIS,Vilberg skole,Oppvekst skole,
+VIU,Vilberg ungdomsskole,Oppvekst skole,
+VKS,Vilberg kompetansesenter,Pleie og omsorg i institusjon,
+ØKO,Økonomi,Rådmannen,9/30/2010
+ØPS,"Økonomi, personal og støtte",Rådmannen,12/31/2014
+ÅSS,Ås skole,Oppvekst skole,
