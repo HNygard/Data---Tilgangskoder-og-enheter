@@ -1,1 +1,27 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Adresse,Postnr,Poststed
+SK,Seljord kommune,Brøløsvegen 13A,3840,Seljord
+ORD,Ordførar,Brøløsvegen 13 A,3840,Seljord
+OVERF,Overformynder,,,
+RÅD,Rådmannen,Brøløsvegen 13 A,3840,Seljord
+SOS,Sosialavdelinga,Brøløsvegen 13,3840,Seljord
+HELS,Helse og omsorg,Brøløsvegen 13,3840,Seljord
+TFH,Teneste for funksjonshemma,Brøløsvegen 13,3840,Seljord
+PSYK,Psykisk helsearbeid,Brøløsvegen 13,3840,Seljord
+PLO,Pleie- og omsorgstenesta,Brøløsvegen 13,3840,Seljord
+VO,Vaksenopplæringa,Brøløsvegen 13,3840,Seljord
+KSK,Kulturskulen,Brøløsvegen 13,3840,Seljord
+FLK,Flyktningkontoret,Brøløsvegen 13,3840,Seljord
+ÅBHG,Åmotsdal barnehage,Brøløsvegen 13,3840,Seljord
+FBHG,Flatdal barnehage,Brøløsvegen 13,3840,Seljord
+TBHG,Tussejuv  Barnehage,Brøløsvegen 13,3840,Seljord
+HBHG,Heddeli barnehage,Brøløsvegen 13,3840,Seljord
+SUSK,Seljord ungdomsskule,Brøløsvegen 13,3840,Seljord
+ÅSK,Åmotsdal skule,Brøløsvegen 13,3840,Seljord
+FSK,Flatdal skule,,,
+SBSK,Seljord barneskule,Brøløsvegen 13,3840,Seljord
+ØK,Økonomiavdelinga,Brøløsvegen 13,3840,Seljord
+ADM,Administrasjonen,Brøløsvegen 13 A,3840,Seljord
+NÆR,Næring og utvikling,Brøløsvegen 13 A,3840,Seljord
+TEK,Teknisk avdeling,Brøløsvegen 13 A,3840,Seljord
+BIBL,Biblioteket,Brøløsvegen 13,3840,Seljord
+KUL,Kultur og næring,Brøløsvegen 13,3840,Seljord

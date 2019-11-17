@@ -1,1 +1,49 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Sortering,Lovhjemmel,System
+,Offl §13 jfr Fvl §13.1 (Opplysninger som er underlagt taushetsplikt),,,1,Offl §13 jfr Fvl §13.1,Public 360
+,Offl §13 jfr Fvl §13.1 pkt.2 (Opplysninger av konkurransemessig betydning),,,2,Offl §13 jfr Fvl §13.1 pkt.2,Public 360
+,Offl § 23.3 (Unntak for innsyn for tilbud og protokoll om offentlig innkjøp),,,3,Offl § 23.3,Public 360
+,Offl § 2 (Virkeområdet til loven),,,10,Offl § 2,Public 360
+,Offl § 3 (hovedregel),,,20,Offl § 3,Public 360
+,Offl § 4 (Definisjoner),,,30,Offl § 4,Public 360
+,Offl § 5 (Utsatt innsyn),,,40,Offl § 5,Public 360
+,Offl § 8 (Hovedregel om rett til gratis innsyn),,,50,Offl § 8,Public 360
+,Offl § 9 (rett til innsyn i sammenstilling fra databaser),,,60,Offl § 9,Public 360
+,Offl § 10 (plikt til å føre journal og tilgjengeliggjøring av journal på internett),,,70,Offl § 10,Public 360
+,Offl § 11 (Unntatt med hjemmel i forskrift),,,80,Offl § 11,Public 360
+,Offl § 12 (unntak for resten av dokumentet),,,90,Offl § 12,Public 360
+,Offl § 14 (organinterne dokumenter),,,120,Offl § 14,Public 360
+,Offl § 15 (interne dokumenter utenfra),,,130,Offl § 15,Public 360
+,Offl § 16 (innsyn i interne dokumenter i kommunen og fylkeskommunen),,,140,Offl § 16,Public 360
+,Offl § 17 (dokumenter som i visse saker gjelder Det kongl. Hoff),,,150,Offl § 17,Public 360
+,Offl § 18 (rettsaksdokumenter),,,160,Offl § 18,Public 360
+,Offl § 21 (forsvars- og sikkerhetsinteresser),,,170,Offl § 21,Public 360
+,"Offl § 23.1 (Forsvarlig gjennomføring av økonomi, lønns- og personalforvaltning)",,,180,Offl § 23.1,Public 360
+,"Offl § 23.2 (Rammeavtaler med landbruks-, fiskeri- og reindriftsorganisasjonaner)",,,190,Offl § 23.2,Public 360
+,Offl § 23.4 (Unntak for dokumenter med eierinteresser),,,210,Offl § 23.4,Public 360
+,Offl § 24.1 (Motvirke offentlige kontroll- eller reguleringstiltak),,,220,Offl § 24.1,Public 360
+,"Offl § 24.2 (Anmeldelse, rapport og annet dokument om lovovertredelse)",,,230,Offl § 24.2,Public 360
+,Offl § 24.3 (Opplysninger for å unngå straffbare handlinger),,,240,Offl § 24.3,Public 360
+,Offl § 25 (Dokument i sak om ansettelse eller forfremmelse i off. tjeneste),,,250,Offl § 25,Public 360
+,Offl § 26.1 (Besvarelse av eksamen e.l. prøve samt utkast til konkurranse e.l.),,,260,Offl § 26.1,Public 360
+,"Offl § 26.2 (Priser, hederstegn o.l. inntil tildeling er gjort))",,,270,Offl § 26.2,Public 360
+,Offl § 26.3 (Unntak for opplysninger i personregister),,,280,Offl § 26.3,Public 360
+,Offl § 27 (Forskriftshjemmel),,,290,Offl § 27,Public 360
+11,Unntatt etter offentlighetsloven § 11,01.04.2006,31.12.2008,,,Ephorte
+5,Utsett innsyn etter offentleglovas § 5,01.04.2006,5/31/2019,,,Ephorte
+5a,Unntatt etter offentlighetsloven § 5a,01.04.2006,31.12.2008,,,Ephorte
+6,Unntatt etter offentlighetsloven § 6,01.04.2006,31.12.2008,,,Ephorte
+A,Ansettelsesaker,09.02.2007,5/31/2019,,,Ephorte
+BS,Barnehagesaker,20.03.2006,5/31/2019,,,Ephorte
+E,Elevsaker,20.03.2006,5/31/2019,,,Ephorte
+F,Fortrolig etter beskyttelsesinstruksen,01.04.2008,31.12.2008,,,Ephorte
+H,Hemmelig etter sikkerhetsloven,01.04.2006,31.12.2008,,,Ephorte
+IP,Ikke publisert,07.11.2007,01.11.2014,,,Ephorte
+IS,Innfordring - skatt,20.03.2006,01.01.2014,,,Ephorte
+K,Konfidensielt etter sikkerhetsloven,01.04.2006,31.12.2008,,,Ephorte
+KL,Klientsaker,01.04.2006,31.12.2008,,,Ephorte
+MU,Møtedokument unntatt offentlighet,20.03.2006,5/31/2019,,,Ephorte
+P,Personalsaker,28.03.2006,5/31/2019,,,Ephorte
+PA,Pasientsaker,26.02.2013,5/31/2019,,,Ephorte
+SF,Strengt fortrolig etter beskyttelsesinstruksen,01.04.2006,31.12.2008,,,Ephorte
+UO,Unntatt offentlighet,20.03.2006,5/31/2019,,,Ephorte
+UP,Unntatt offentlighet,07.04.2009,15.04.2009,,,Ephorte

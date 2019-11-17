@@ -1,1 +1,46 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,System
+UO,Unntatt offentlighet,,,Public 360
+U,Ugradert,,,Public 360
+11, Offentlige anskaffelser ,,,Ephorte
+ 1V ,Journaler for barnevernssaker mm - Off.l § 11/Forskrift VI nr.  1b ,,,Ephorte
+24, Merinnsyn ,,,Ephorte
+4, Utsatt offentlighet (bla innhenting av tilbud) ,,,Ephorte
+5, Interne dokumenter ,,,Ephorte
+52, Interne dokumenter fra underordnet organ ,,,Ephorte
+7, Interne dokumenter fra rådgivere ,,,Ephorte
+ A , Ansettelsessaker ,,,Ephorte
+ AN , Ansettelsessaker ,,,Ephorte
+ B , Begrenset etter sikkerhetsloven ,,,Ephorte
+ BA , Barnehagesaker - Taushetsplikt ,,,Ephorte
+ BS , Bygg sensitiv ,,,Ephorte
+ BV , Barnevernsaker - Taushetsplikt ,,,Ephorte
+ D , Kontroll- eller reguleringstiltak ,,,Ephorte
+ DI , Økonomiske rammeavtaler med næringslivet ,,,Ephorte
+ DO ," Økonomi-, lønns- eller personalforvaltning ",,,Ephorte
+ E , Elevsaker - Taushetsplikt ,,,Ephorte
+ EK , Eksamen/Utkast til konkurranse ,,,Ephorte
+ EM , Enslige mindreårige flyktninger ,,,Ephorte
+ ES , Elev - Sensitiv ,,,Ephorte
+ F , Fortrolig etter beskyttelsesinstruksen ,,,Ephorte
+ FL , Flyktninger ,,,Ephorte
+ H , Hemmelig etter sikkerhetsloven ,,,Ephorte
+ HE , Helsesaker - Taushetsplikt ,,,Ephorte
+ HI , Hemmelig identitet ,,,Ephorte
+ K , Konfidensielt etter sikkerhetsloven ,,,Ephorte
+ KL , Klientsaker-Sosial ,,,Ephorte
+ LI , Ligningsforvaltningen - Taushetsplikt ,,,Ephorte
+ LO , Lovovertredelse ,,,Ephorte
+ MI , Unntak på grunn av dokumentets innhold ,,,Ephorte
+ MU , Møtedokument unntatt offentlighet ,,,Ephorte
+ P , Personalsaker ,,,Ephorte
+ PS , Personal - sensitiv ,,,Ephorte
+ RF , Økonomiske rammeavtaler med næringslivet ,,,Ephorte
+ RG , Rådmannsgruppa + ordfører ,,,Ephorte
+ RN , UTGÅR - FEILREGISTRERT ,,,Ephorte
+ SF , Strengt fortrolig etter beskyttelsesinstruksen ,,,Ephorte
+ SJ , Slettede journalposter (utgåtte) ,,,Ephorte
+ SK , Skatteoppkreving-Taushetsplikt ,,,Ephorte
+ SO , Sosialsaker - Taushetsplikt ,,,Ephorte
+ UE ," Eksamen, pris, heidersteikn ",,,Ephorte
+ UI , UTGÅR ,,,Ephorte
+ UO , Taushetsplikt ,,,Ephorte

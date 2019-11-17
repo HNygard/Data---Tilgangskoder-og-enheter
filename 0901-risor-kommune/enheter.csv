@@ -1,1 +1,111 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Nedlagt,System,Underlagt
+,Ufordelt/sendt tilbake til arkiv,,Ephorte,
+,Barneverntjenesten,12/31/2015,Ephorte,
+,Enhet for barnehager,,Ephorte,
+,Barneverntjenesten,12/31/2015,Ephorte,
+,Enhet for barnehager og barneskoler,12/31/2013,Ephorte,
+,Enhet for barneskoler,3/28/2011,Ephorte,
+,Enhet for barnehage og ungdomstjeneste,4/1/2011,Ephorte,
+,Byggesaksavdelingen,3/17/2006,Ephorte,
+,Enhet for byggesak,4/1/2011,Ephorte,
+,Driftsavdelingen,3/17/2006,Ephorte,
+,Enhet for teknisk drift,4/1/2011,Ephorte,
+,"Enhet for bosetting, opplæring og inkludering",,Ephorte,
+,Eiendomsavdelingen,3/17/2006,Ephorte,
+,Enhet for eiendomsforvaltning,4/1/2011,Ephorte,
+,Enhet for eiendom og tekniske tjenester,,Ephorte,
+,Enhet for eiendomsforvaltning,4/1/2011,Ephorte,
+,Enslige mindreårige flyktninger,,Ephorte,
+,Fargeskrinet barnehage,,Ephorte,
+,Fellestjensten,3/17/2006,Ephorte,
+,Flyktningekontoret,3/17/2006,Ephorte,
+,Frivilligsentralen,12/31/2016,Ephorte,
+,Avdeling for fellestjenester,,Ephorte,
+,Habilitering,3/17/2006,Ephorte,
+,Enhet for habilitering,,Ephorte,
+,Helseavdelingen,12/31/2013,Ephorte,
+,Helseavdelingen,3/17/2006,Ephorte,
+,Enhet for helse,,Ephorte,
+,Hope oppvekstsenter,,Ephorte,
+,Hope oppvekstsenter,3/17/2006,Ephorte,
+,Helse- og sosialetaten,6/27/2007,Ephorte,
+,Helse- og sosialetaten,3/17/2006,Ephorte,
+,IT-avdelingen,12/31/2011,Ephorte,
+,IT-avdelingen,3/17/2006,Ephorte,
+,Juridisk avdeling,,Ephorte,
+,Kulturetaten,6/27/2007,Ephorte,
+,Kulturetaten,6/27/2007,Ephorte,
+,Enhet for kultur drift,3/31/2011,Ephorte,
+,Enhet for kultur drift,3/31/2011,Ephorte,
+,Kulturetaten,3/17/2006,Ephorte,
+,Enhet for kultur,,Ephorte,
+,Enhet for kvalifisering,12/31/2013,Ephorte,
+,Maurtua barnehage,8/4/2009,Ephorte,
+,Maurtua barnehage,3/17/2006,Ephorte,
+,NAV,,Ephorte,
+,NAV flyktning,12/31/2013,Ephorte,
+,NAV sosial,12/31/2013,Ephorte,
+,Næringsavdelingen,6/27/2007,Ephorte,
+,Næringsavdelingen,3/17/2006,Ephorte,
+,Enhet for omsorgstjenester,,Ephorte,
+,Oppvekst- og undervisningsetaten,3/17/2006,Ephorte,
+,Ordføreren,,Ephorte,
+,Stab organisasjonsutvikling,,Ephorte,
+,Oppvekst- og undervisningsetaten,6/27/2007,Ephorte,
+,Personalavdelingen,,Ephorte,
+,Lønns- og personalavdelingen,3/17/2006,Ephorte,
+,Plan- og miljøavdelingen,6/27/2007,Ephorte,
+,Enhet for plan- og byggesak,,Ephorte,
+,Enhet for plan og utvikling,4/1/2011,Ephorte,
+,Politisk avdeling,,Ephorte,
+,Pedagogisk psykologisk tjeneste,,Ephorte,
+,"PP-tjenesten for Risør, Tvedestrand, Vegårshei og Gjerstad kommune",,Ephorte,
+,Pleie- rehabilitering og omsorg,6/27/2007,Ephorte,
+,Enhet for politisk sekretariat,3/31/2011,Ephorte,
+,Randvik barnehage,3/17/2006,Ephorte,
+,Risør barneskole,,Ephorte,
+,Avdeling for renhold,,Ephorte,
+,Risør kommune,,Ephorte,
+,Risørhuset,12/31/2016,Ephorte,
+,Risør ungdomsskole,3/17/2006,Ephorte,
+,Risør ungdomsskole,,Ephorte,
+,Rådmannen,,Ephorte,
+,Rådmannskontoret,6/27/2007,Ephorte,
+,Rådmannens stab,,Ephorte,
+,Søndeled skole,,Ephorte,
+,Enhet for støttefunksjoner,,Ephorte,
+,Sosial- og barnevernavdelingen,3/17/2006,Ephorte,
+,Søndeled barneskole,3/17/2006,Ephorte,
+,Barnevern,12/31/2013,Ephorte,
+,Teknisk etat,6/27/2007,Ephorte,
+,Avdeling for teknisk,,Ephorte,
+,Trollstua barnehage,,Ephorte,
+,Turistinformasjonen,12/31/2016,Ephorte,
+,Ungdomstjenesten,12/31/2016,Ephorte,
+,Enhet for ungdomsskole og voksenopplæring,12/31/2013,Ephorte,
+,Avdeling for vaktmester og utegjeng,,Ephorte,
+,Voksenopplæring,,Ephorte,
+,Avdeling for regnskap og lønn,3/17/2006,Ephorte,
+,Ordfører,,Public 360,
+,Helse og omsorg,,Public 360,Rådmannen
+,Oppvekst og inkludering,,Public 360,Rådmannen
+,Enhet habilitering,,Public 360,Helse og omsorg
+,Enhet helsetjenester,,Public 360,Helse og omsorg
+,Enhet psykisk helse og rus,,Public 360,Helse og omsorg
+,Enhet rehabilitering og hjemmetjenester,,Public 360,Helse og omsorg
+,Enhet sykehjem,,Public 360,Helse og omsorg
+,NAV,,Public 360,Helse og omsorg
+,"Enhet bosetting, opplæring og inkludering",,Public 360,Oppvekst og inkludering
+,Enhet pedagogisk psykologisk tjeneste,,Public 360,Oppvekst og inkludering
+,Fargeskrinet barnehage,,Public 360,Oppvekst og inkludering
+,Hope oppvekstsenter,,Public 360,Oppvekst og inkludering
+,Risør barneskole,,Public 360,Oppvekst og inkludering
+,Risør ungdomsskole,,Public 360,Oppvekst og inkludering
+,Søndeled skole,,Public 360,Oppvekst og inkludering
+,Trollstua barnehage,,Public 360,Oppvekst og inkludering
+,Stab organisasjonsutvikling,,Public 360,Rådmannen
+,Stab økonomi,,Public 360,Rådmannen
+,Enhet eiendom og tekniske tjenester,,Public 360,Samfunnsutvikling
+,Enhet kultur,,Public 360,Samfunnsutvikling
+,Enhet plan og bygg,,Public 360,Samfunnsutvikling
+,Samfunnsutvikling,,Public 360,Rådmannen

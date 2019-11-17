@@ -1,0 +1,8 @@
+ePhorte (01.april 2006 - 31. mai 2019) og Public 360 (fra 1. juni 2019)
+
+- Hvilke sak- og arkiv som er benyttet i kommunen siden 01.01.2008. Navn på leverandør. Dato for når det ble tatt i bruk og eventuelt sluttet å bli brukt.
+Vi har hatt ePhorte fra Evry i perioden 1. april 2006 - 31. mai 2019
+Fra 01. juni 2019 har vi Public 360 fra Tieto
+
+- Dersom dere har byttet, hva er status på tidligere registre? Er de aktive og kan hentes data fra?
+Tidligere databaser er fortsatt tilgjengelig via ePhorte. Uttrekk vil i løpet av kort tid foretas og avlevert Aust-Agder Museum og Arkiv. Så fort uttrekkene er godkjent av Aust-Agder Museum og Arkiv vil de bli lest inn i eArkiv som er Tieto sin base for historiske arkiv. De vil da bli tilgjengelige via Public 360.

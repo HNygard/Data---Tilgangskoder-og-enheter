@@ -1,1 +1,31 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,,,
+,,,Lovhjemmel,beskrivelse
+,,1,Offl §13 jfr Fvl §13.1,Offl §13 jfr Fvl §13.1 (Opplysninger som er underlagt taushetsplikt)
+,,2,Offl §13 jfr Fvl §13.1 pkt.2,Offl §13 jfr Fvl §13.1 pkt.2 (Opplysninger av konkurransemessig betydning)
+,,3,Offl § 23.3,Offl § 23.3 (Unntak for innsyn for tilbud og protokoll om offentlig innkjøp)
+,,10,Offl § 2,Offl § 2 (Virkeområdet til loven)
+,,20,Offl § 3,Offl § 3 (hovedregel)
+,,30,Offl § 4,Offl § 4 (Definisjoner)
+,,40,Offl § 5,Offl § 5 (Utsatt innsyn)
+,,50,Offl § 8,Offl § 8 (Hovedregel om rett til gratis innsyn)
+,,60,Offl § 9,Offl § 9 (rett til innsyn i sammenstilling fra databaser)
+,,70,Offl § 10,Offl § 10 (plikt til å føre journal og tilgjengeliggjøring av journal på internett)
+,,80,Offl § 11,Offl § 11 (Unntatt med hjemmel i forskrift)
+,,90,Offl § 12,Offl § 12 (unntak for resten av dokumentet)
+,,120,Offl § 14,Offl § 14 (organinterne dokumenter)
+,,130,Offl § 15,Offl § 15 (interne dokumenter utenfra)
+,,140,Offl § 16,Offl § 16 (innsyn i interne dokumenter i kommunen og fylkeskommunen)
+,,150,Offl § 17,Offl § 17 (dokumenter som i visse saker gjelder Det kongl. Hoff)
+,,160,Offl § 18,Offl § 18 (rettsaksdokumenter)
+,,170,Offl § 21,Offl § 21 (forsvars- og sikkerhetsinteresser)
+,,180,Offl § 23.1,"Offl § 23.1 (Forsvarlig gjennomføring av økonomi, lønns- og personalforvaltning)"
+,,190,Offl § 23.2,"Offl § 23.2 (Rammeavtaler med landbruks-, fiskeri- og reindriftsorganisasjonaner)"
+,,210,Offl § 23.4,Offl § 23.4 (Unntak for dokumenter med eierinteresser)
+,,220,Offl § 24.1,Offl § 24.1 (Motvirke offentlige kontroll- eller reguleringstiltak)
+,,230,Offl § 24.2,"Offl § 24.2 (Anmeldelse, rapport og annet dokument om lovovertredelse)"
+,,240,Offl § 24.3,Offl § 24.3 (Opplysninger for å unngå straffbare handlinger)
+,,250,Offl § 25,Offl § 25 (Dokument i sak om ansettelse eller forfremmelse i off. tjeneste)
+,,260,Offl § 26.1,Offl § 26.1 (Besvarelse av eksamen e.l. prøve samt utkast til konkurranse e.l.)
+,,270,Offl § 26.2,"Offl § 26.2 (Priser, hederstegn o.l. inntil tildeling er gjort))"
+,,280,Offl § 26.3,Offl § 26.3 (Unntak for opplysninger i personregister)
+,,290,Offl § 27,Offl § 27 (Forskriftshjemmel)

@@ -1,1 +1,90 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Notat
+,Alle utvalgssekretærer,,,Kalt tilgangsgruppe
+,ARKIV,,,Kalt tilgangsgruppe
+,AVLASTNINGSTJENESTEN,,,Kalt tilgangsgruppe
+,BARN,,,Kalt tilgangsgruppe
+,Barnehage - Hellekirken,,,Kalt tilgangsgruppe
+,Barnehage - Kalstad,,,Kalt tilgangsgruppe
+,Barnehage - Levangsheia,,,Kalt tilgangsgruppe
+,Barnehage - Rømerverven,,,Kalt tilgangsgruppe
+,Barnehage - Sannidal,,,Kalt tilgangsgruppe
+,Barnehage - Siritun,,,Kalt tilgangsgruppe
+,Barnehage - Trekanten,,,Kalt tilgangsgruppe
+,Barnehage - Årø,,,Kalt tilgangsgruppe
+,BARNEVERN,,,Kalt tilgangsgruppe
+,BOLIG,,,Kalt tilgangsgruppe
+,BOSTØTTE,,,Kalt tilgangsgruppe
+,BYGG,,,Kalt tilgangsgruppe
+,EIENDOM,,,Kalt tilgangsgruppe
+,ELEV,,,Kalt tilgangsgruppe
+,FYSIO,,,Kalt tilgangsgruppe
+,HAVNEVESENET,,,Kalt tilgangsgruppe
+,HC,,,Kalt tilgangsgruppe
+,HELSE,,,Kalt tilgangsgruppe
+,HELSESTASJON,,,Kalt tilgangsgruppe
+,HMS/KVALITET,,,Kalt tilgangsgruppe
+,KKF,,,Kalt tilgangsgruppe
+,KOMMUNEOVERLEGE,,,Kalt tilgangsgruppe
+,KOORDINERENDE TEAM,,,Kalt tilgangsgruppe
+,KULTUR,,,Kalt tilgangsgruppe
+,KULTURSKOLEN,,,Kalt tilgangsgruppe
+,KVOA,,,Kalt tilgangsgruppe
+,LEGEVAKT,,,Kalt tilgangsgruppe
+,LÅN-TILSKUDD,,,Kalt tilgangsgruppe
+,MILJØ,,,Kalt tilgangsgruppe
+,NAV,,,Kalt tilgangsgruppe
+,NÆRING,,,Kalt tilgangsgruppe
+,OMSORG,,,Kalt tilgangsgruppe
+,Opprette byggesak,,,Kalt tilgangsgruppe
+,Opprette landbrukssak,,,Kalt tilgangsgruppe
+,Opprette miljøsak,,,Kalt tilgangsgruppe
+,Opprette oppmålingssak,,,Kalt tilgangsgruppe
+,Opprette personalsak,,,Kalt tilgangsgruppe
+,Opprette plansak,,,Kalt tilgangsgruppe
+,Opprette VA-sak,,,Kalt tilgangsgruppe
+,ORDFØRER,,,Kalt tilgangsgruppe
+,PERS BYGG,,,Kalt tilgangsgruppe
+,PERS HELSE OG REHAB,,,Kalt tilgangsgruppe
+,PERS KOMPETANSE OG INT,,,Kalt tilgangsgruppe
+,PERS KULTUR,,,Kalt tilgangsgruppe
+,PERS LEDERE,,,Kalt tilgangsgruppe
+,PERS OMSORG,,,Kalt tilgangsgruppe
+,PERS SERVICESENTER,,,Kalt tilgangsgruppe
+,PERS SOSIALE TJENESTER,,,Kalt tilgangsgruppe
+,PERS STØTTE,,,Kalt tilgangsgruppe
+,PERS TEKNISK/EIENDOM,,,Kalt tilgangsgruppe
+,PERSBARNEHAGE,,,Kalt tilgangsgruppe
+,PERSD1,,,Kalt tilgangsgruppe
+,PERSD2,,,Kalt tilgangsgruppe
+,PERSMARIENLYST,,,Kalt tilgangsgruppe
+,Personal,,,Kalt tilgangsgruppe
+,PERSSKOLE,,,Kalt tilgangsgruppe
+,REGNSKAP,,,Kalt tilgangsgruppe
+,REVISJON,,,Kalt tilgangsgruppe
+,RÅDMANN,,,Kalt tilgangsgruppe
+,SERVICE,,,Kalt tilgangsgruppe
+,SKATT,,,Kalt tilgangsgruppe
+,SKJÆRG,,,Kalt tilgangsgruppe
+,SKOLE - HELLE SFO,,,Kalt tilgangsgruppe
+,SKOLE - HELLE SKOLE,,,Kalt tilgangsgruppe
+,SKOLE - KRAGERØ SFO,,,Kalt tilgangsgruppe
+,SKOLE - KRAGERØ SKOLE,,,Kalt tilgangsgruppe
+,SKOLE - LEVANGSHEIA SFO,,,Kalt tilgangsgruppe
+,SKOLE - LEVANGSHEIA SKOLE,,,Kalt tilgangsgruppe
+,SKOLE - SANNIDAL SFO,,,Kalt tilgangsgruppe
+,SKOLE - SANNIDAL SKOLE,,,Kalt tilgangsgruppe
+,SKOLE - SANNIDAL UNGDOMSSKOLE,,,Kalt tilgangsgruppe
+,SKOLEKONTORET,,,Kalt tilgangsgruppe
+,STAB,,,Kalt tilgangsgruppe
+,Stab-Leder Samfunn,,,Kalt tilgangsgruppe
+,STØTTE,,,Kalt tilgangsgruppe
+,STØTTEKONTAKT,,,Kalt tilgangsgruppe
+,TEKNISK,,,Kalt tilgangsgruppe
+,TILLITSVALGTE,,,Kalt tilgangsgruppe
+,TILSKUDD KOM. AVGIFTER,,,Kalt tilgangsgruppe
+,TILSKUDD TROSSAMFUNN,,,Kalt tilgangsgruppe
+,UTLEIE KOM. BYGG,,,Kalt tilgangsgruppe
+,Varsling,,,Kalt tilgangsgruppe
+,Varsling - Arkivar,,,Kalt tilgangsgruppe
+,VERNEOMBUD,,,Kalt tilgangsgruppe
+,VOPP,,,Kalt tilgangsgruppe

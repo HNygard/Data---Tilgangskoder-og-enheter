@@ -1,0 +1,7 @@
+Sak arkivsystem
+
+Navn	Tidsperiode	Leverandør
+ ESA	01.01.2008 - 11.08.2012	EDB
+Public 360	12.08.2012 - dd	Tieto
+
+ESA basen er sendt til IKA Kongsberg for godkjennelse og bevaring. Pr nå bruker vi søk i ESA via Public 360.
