@@ -1,1 +1,15 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Sluttdato,
+U,Ugradert,,
+TAUSHETSPLIKT,Taushetsplikt,,
+LOVBRUDD,"Kontroll, lovbrudd og rettssaksdokumenter",,
+FØDSELSNUMMER,Fødselsnummer og nummer med tilsvarende funksjon,,
+SIKKERHET,Forsvars- og sikkerhetsinteresser,,
+B,Begrenset,,
+INTERNT,Intern saksforberedelse,,
+ADM,"økonomi--, personal-, lønnssaker og anbud",,
+UTSATT,Utsatt offentlighet , , 
+F,Fortrolig,01.01.2019,"Ukjent sluttdato, satt en fordi den er utløpt"
+UO,Unntatt offentlighet,01.01.2019,"Ukjent sluttdato, satt en fordi den er utløpt"
+XX,Midlertidig sperret,01.01.2019,"Ukjent sluttdato, satt en fordi den er utløpt"
+P,Personalsaker,01.01.2019,"Ukjent sluttdato, satt en fordi den er utløpt"
+KL,Klientsaker,01.01.2019,"Ukjent sluttdato, satt en fordi den er utløpt"

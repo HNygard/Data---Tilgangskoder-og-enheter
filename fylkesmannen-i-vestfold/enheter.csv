@@ -1,1 +1,32 @@
-Enhetskode;Enhet
+Enhetskode,Enhet
+[Ufordelt],Ufordelt/sendt tilbake til arkiv
+ADM,Administrativ enhet
+BEV,Faggruppe bevilling
+BHG,Faggruppe barnehage
+BSTAB,Beredskapsstab
+BV,Faggruppe barnevern
+FM,Fylkesmannen
+FMFA,Fylkesmennenes fellesadministrasjon
+FMVT,Fylkesmannen i Vestfold og Telemark
+FOR,Faggruppe forurensning
+HOA,Helse- og omsorgsavdelingen
+HORT,Faggruppe rettsikkerhet og tvang – helse og omsorg
+HOTK,Faggruppe tilsyn og klagebehandling – helse og omsorg
+HOU,Faggruppe utvikling – helse og omsorg
+JK,Faggruppe klage – justis
+JVA,Justis- og vergemålsavdelingen
+LA,Landbruksavdelingen
+MA,Miljøavdelingen
+MAT,Matproduksjon og arealbruk
+NATUR,Faggruppe natur
+NÆRING,Næringsutvikling og bærekraft
+OA,Oppvekstavdelingen
+PLAN,Faggruppe plan
+SKOG,Skog og utmark
+SKOLE1,Faggruppe skole 1 – tilsyn og klagebehandling
+SKOLE2,Faggruppe skole 2 – kompetanse og utvikling
+SKTU,"Faggruppe klage, tilsyn og utvikling – sosial"
+SOU,Direktør strategi- og organisasjonsutvikling
+SSTAB,Samordningsstab
+VANN,Faggruppe vann
+VM,Faggruppe vergemål

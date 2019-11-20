@@ -1,1 +1,10 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Sorterings ID
+13,Offentlighetsloven § 13 ,
+U ,Ugradert ,0
+B ,Begrenset ,10
+F ,Fortrolig ,40
+SS-UO ,Unntatt offentlighet ,100
+UO ,Unntatt offentlighet ,100
+XX ,Midlertidig sperret ,100
+P ,Personalsaker ,110
+KL ,Klientsaker ,120

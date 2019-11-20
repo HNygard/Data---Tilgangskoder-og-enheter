@@ -1,1 +1,40 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato,Paragraf,
+U,Ugradert,,,,
+UO,Unntatt offentlighet,,,,
+PAS,Pasient,,,"Følgende paragrafer skal være tilgjengelig ved bruk av tilgangskoden PAS:
+Offl. § 13 jf. Fvl. § 13.1 første ledd",
+PERS,Personal,,,"Følgende paragrafer skal være tilgjengelig ved bruk av tilgangskoden PERS:
+Offl. § 13
+Offl. § 23
+Offl. § 25
+Offl. § 14",
+,,,,Offl § 5,Utsett innsyn
+,,,,"Offl § 5, Rrevl § 18.2","Utsett innsyn, Rrevl § 18.2 Utsatt offentlighet"
+,,,,Offl. § 8,Hovudregel om gratis innsyn
+,,,,Offl. § 9,Rett til å krevje innsyn i ei samanstilling frå databasar
+,,,,Offl. § 10,Plikt til å føre journal. Tilgjengeleggjering av journaler og dokument på internett
+,,,,Offl. § 11,Meirinnsyn
+,,,,Offl.  § 12,Unntak for resten av dokumentet
+,,,,Offl. § 13 jf. Fvl. § 13,Opplysningar som er underlagde teieplikt jf Forvaltningsloven § 13.1 første ledd
+,,,,Offl. § 13 jf. Hlspl. § 21,Opplysningar som er underlagde teieplikt jf Helsepersonellloven § 21
+,,,,Offl §13 jf.Pjl §15,Offl §13 jf. Pasjl § 15 (behandler av helseopplysninger har taushetsplikt etter Helsepersonelloven §21
+,,,,Offl. § 14,Dokument utarbeidde for eiga saksførebuing (organinterne dokument)
+,,,,Offl. § 15,Dokument innhenta utanfrå for den interne saksførebuinga
+,,,,Offl. § 18,Unntak for rettsaksdokument
+,,,,Offl § 20,Unntak av omsyn til Noregs utanrikspolitiske interesser
+,,,,Offl § 21,Unntak av omsyn til nasjonale forsvars- og tryggingsinteresser
+,,,,Offl.  § 22,Unntak i visse budsjettsaker
+,,,,Offl.  § 23 første ledd,"Unntak av omsyn til det offentlege sin forhandlingsposisjon m.m Økonomi- lønns-, eller personalforvaltning"
+,,,,Offl. § 23 annet ledd,"Unntak av omsyn til det offentlege sin forhandlingsposisjon m.m - Forhandlingar om rammeavtalar med landbruks-, fiskeri- og reindriftsorganisasjonane"
+,,,,Offl.  § 24,"Unntak for kontroll- og reguleringstiltak, dokument om lovbrot og opplysningar som kan lette gjennomføringa av lovbrit m.m"
+,,,,Offl.  § 25,Unntak for tilsetjingssaker m.m
+,,,,Offl.  § 26,Unntak for eksamenssvar og karakterer m.m
+,,,,Offl.  § 26 første ledd,"Unntak fra innsyn for eksamenssvar, prøve, utkast til konkurranse e.l"
+,,,,Offl.  § 26 andre ledd,Unntak fra innsyn for opplysninger om person som blir tildelt pris e.l.
+,,,,Offl.  § 26 tredje ledd,Unntak for innsyn for personbilde i personregister og opplysninger fra personovervåking
+,,,,Offl.  § 26 fjerde ledd,Unntak fra innsyn for opplysninger om forskning vedr. økonomisk stønad eller rådgivning under arb
+,,,,Offl.  § 26 femte ledd,Unntak fra innsyn for fødselsnummer og nr. med tilsvarende funksjon
+,,,,Offl.  § 28,Innsynskravet
+,,,,Offl.  § 29,Kva organ skal evgjere innsynskravet mv.
+,,,,Offl.  § 30,Korleis organet skal gi innsyn
+,,,,Offl.  § 32,Klage
