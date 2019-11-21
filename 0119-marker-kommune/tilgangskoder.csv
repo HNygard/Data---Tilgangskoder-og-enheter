@@ -1,1 +1,7 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+B,Barnehagesaker,,
+BO,"Startlån, bolig, gjeldsrådgivning",,
+E,Elevsaker,,
+P,Personalsaker,,
+UO,Unntatt offentlighet,,
+Xx,Midlertidig sperret,,

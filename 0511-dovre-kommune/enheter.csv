@@ -1,1 +1,25 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt
+BBA,Brann- og beredskapsavdeling,Rådmannen
+DFB,Bibliotek,Rådmannen
+DFS,Dombås fjellskole,Rådmannen
+DK,Dovre kommune,
+DMB,Dombås barnehage,Rådmannen
+DOM,Dombås skole,Rådmannen
+DOV,Dovre skole,Rådmannen
+DRI,Driftsavdelingen,Rådmannen
+DUS,Dovre ungdomsskole,Rådmannen
+DVB,Dovre barnehage,Rådmannen
+HEL,Helseavdeling,Helse- og rehabiliteringsavdeling
+HRA,Helse- og rehabiliteringsavdeling,Rådmannen
+KU,Kontrollutvalget,Økonomiavdeling
+LDK,Kulturskolen,Rådmannen
+LÆR,Læringssenteret,Oppvekst
+NAV,NAV,Rådmannen
+OPP,Oppvekst,Rådmannen
+ORD,Ordfører,Dovre kommune
+PER,Personal og lønnsavdeling,Rådmannen
+PNU,Plan- næring - utvikling,Rådmannen
+POA,Pleie- og omsorgsavdeling,Helse- og rehabiliteringsavdeling
+RÅD,Rådmannen,Dovre kommune
+SOS,Sosialavdelingen,Helse- og rehabiliteringsavdeling
+ØKO,Økonomiavdeling,Rådmannen

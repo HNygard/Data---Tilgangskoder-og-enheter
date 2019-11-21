@@ -1,1 +1,31 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Kode,Betegnelse,Fradato,Tildato
+A,Ansettelsessaker  (UTGÅR 1.1.09),03.05.2007,01.01.2009
+A2,Ansettelselsaker -  NY fra 1.1.09,01.01.2009,
+B,Begrenset etter sikkerhetsloven  (UTGÅR 1.1.09),01.10.2007,01.01.2009
+B1,Barnehagesaker - Ny fra 1.1.09,08.01.2009,
+B2,Barnehagesaker - Går ut.,02.01.2009,01.01.2009
+BA,Barnehagesaker  (UTGÅR 1.1.09),24.04.2007,
+D,Disiplinærsaker  (UTGÅR 1.1.09),24.04.2007,01.01.2009
+E,Elevsaker   (UTGÅR 1.1.09),24.04.2007,01.01.2009
+E2,Elevsaker - NY fra 1.1.09,01.01.2009,
+F,Fortrolig etter beskyttelsesinstruksen (UTGÅR  1.1.09),01.10.2007,01.01.2009
+H,Hemmelig etter sikkerhetsloven  (UTGÅR 1.1.09),01.10.2007,01.01.2009
+H2,Helse- pg pleiesaker - NY fra 1.1.09.,01.01.2009,
+HP,Helse- og pleiesaker  (UTGÅR 1.1.09),24.04.2007,01.01.2009
+IF,Intern saksforberedelse,01.01.2009,
+IN,Intern skjerming,24.02.2015,
+K,Konfidensielt etter sikkerhetsloven  (UTGÅR 1.1.09),01.10.2007,01.01.2009
+MU,Møtebehandling,24.04.2007,
+P,Personalsaker (UTGÅR 1.1.09),12.09.2007,01.01.2009
+P2,Personalsaker - NY fra 1.1.09,01.01.2009,
+PV,Personvern og publisering,01.01.2009,
+S,Skattesaker  (UTGÅR 1.1.09),24.04.2007,01.01.2009
+S2,Skattesaker - NY fra 1.1.09,01.01.2009,
+SF,Strengt fortrolig etter beskyttelsesinstruksen (UTGÅR 1.1.09),01.10.2007,01.01.2009
+TP,Taushetsplikt,01.01.2009,
+U,Unntatt offentlighet  (UTGÅR 1.1.09),24.04.2007,01.01.2009
+U2,Unntatt offentlighet  - NY fra 1.1.09,01.01.2009,
+UF,Utenriks Forsvar- og kongehus - NY fra 1.1.09,01.01.2009,
+XX,Midlertidig sperret,12.02.2018,
+Ø,Økonomisaker (UTGÅR 1.1.09),24.04.2007,01.01.2009
+Ø2,Økonomisaker - NY fra 1.1.09,01.01.2009,

@@ -1,1 +1,16 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Betegnelse,Fra dato,Til dato
+U,Unntatt offentlighet,16.11.2005,
+MU,Møtebehandling,16.11.2005,
+S,Innkreving av skatt,16.11.2005,
+E,Enkeltvedtak innen skole/barnehage,16.11.2005,
+B,Begrenset etter sikkerhetsloven,,
+F,Fortrolig etter beskyttelsesinstruksen,,
+H,Hemmelig etter sikkerhetsloven,,
+K,Konfidensielt etter sikkerhetsloven,,
+KL,Klientsaker,16.11.2005,
+P,Personalsaker,16.11.2005,
+SF,Strengt fortrolig etter beskyttelsesinstruksen,,
+XX,Midlertidig sperret,20.11.2017,
+O,Omsorg/pleie,16.11.2005,
+A,Stillinger,23.03.2007,
+D,Disiplinærsaker,16.12.2008,
