@@ -1,1 +1,9 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Id,Tilgangskode,Beskrivelse,Standard paragraf,Stikkord,Fra dato,Til dato,Tillates ekspedert,Tillatt ekspedering til SDP,Sikkerhetsnivå,Offentlig beskrivelse
+17,U,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Generell,01.01.2014,31.12.2019,Tillates ikke,ü,4,Off. lova og Forvaltningslova
+20,IS,Intern skjerming,Fvl. §13 2.ledd bokstav b,,,,Tillates ikke,ü,4,Ikke i bruk
+21,P,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Personalsak,01.01.2014,31.12.2019,Tillates ikke,ü,4,Off.lov og Forvaltningslova
+22,E,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Elevsak,01.01.2014,31.12.2019,Tillates ikke,ü,4,Off. lov og Forvaltningslova
+23,B,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Barnesak,01.01.2014,31.12.2019,Tillates ikke,ü,4,Off.lov og Forvaltningslova
+24,PD,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Personalsak disiplinærsak,01.01.2014,31.12.2019,Tillates ikke,ü,4,Off. lov og Forvaltningslova
+26,ST,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Startlån,01.01.2014,31.12.2019,Tillates ikke,ü,4,Off. lov og Forvaltningslova
+28,PS,Ikkje offentleg,"§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",Personalsak sensitiv,,,Tillates ikke,ü,4,Ikke i bruk

@@ -1,1 +1,17 @@
-Enhetskode;Enhet
+Id,Enhetsbetegnelse/Navn,Enhetsforkortelse,GidId,Enhetstype,Journalenhet,Arkivdel,Enhetsleder,Samlet enhetsforkortelse,Opprettet dato,Overskrift gidId,Postfordelingsgruppe
+1,---,---,1,NIV0,PM,SAK,,Ingen brukere på dette nivå,05.09.2013,1,
+2,Meland kommune,MEK,2,NIV1,PM,SAK,,MEK,05.09.2013,2,
+17,Ordførar,ORD,329,NIV1,PM,SAK,Øyvind H. Oddekalv,ORD,06.09.2013,,
+3,Rådmann/stab,RÅD,3,NIV2,PM,SAK,Martin W. Kulild,RÅD,06.09.2013,3,"Postfordelergruppe: RÅD, Rådmann/stab"
+9,Tenesteområde Grasdal skule,GS,14,NIV3,PM,SAK,Irene Hystad Hugaas,GS,01.10.2013,14,"Postfordelergruppe: GS, Tenesteområde Grasdal skule"
+5,Tenesteområde Heimeteneste,HT,10,NIV3,PM,SAK,Britt Hilde Romarheim,HT,01.10.2013,10,"Postfordelergruppe: HT, Tenesteområde Heimeteneste"
+6,Tenesteområde Helse,HE,11,NIV3,PM,SAK,Tord Moltumyr,HE,01.10.2013,11,"Postfordelergruppe: HE, Tenesteområde Helse"
+7,Tenesteområde Kultur,KU,12,NIV3,PM,SAK,Eirik Bouwer Utne,KU,01.10.2013,12,"Postfordelergruppe: KU, Tenesteområde Kultur"
+18,Tenesteområde Marihøna barnehage,MAB,452,NIV3,PM,SAK,Camilla Smith-Strøm,MAB,15.07.2014,452,"Postfordelergruppe: MAB, Tenesteområde Marihøna barnehage"
+14,Tenesteområde Meland sjukeheim,MES,19,NIV3,PM,SAK,Randi Rotevatn Minde,MES,01.10.2013,19,"Postfordelergruppe: MES, Tenesteområde Meland sjukeheim"
+10,Tenesteområde Meland ungdomsskule,MS,15,NIV3,PM,SAK,Hilde Brendehaug Hugaas,MS,01.10.2013,15,"Postfordelergruppe: MS, Tenesteområde Meland ungdomsskule"
+15,Tenesteområde NAV Meland,NAV,20,NIV3,PM,SAK,Arngunna Haga,NAV,01.10.2013,20,"Postfordelergruppe: NAV, Tenesteområde NAV Meland"
+16,"Tenesteområde Plan, utbygging og kommunalteknikk",PUK,21,NIV3,PM,SAK,Anny Bastesen,PUK,01.10.2013,21,"Postfordelergruppe: PUK, Tenesteområde Plan, utbygging og kommunaltekn"
+11,Tenesteområde Rossland barne- og ungdomsskule,RS,16,NIV3,PM,SAK,Hogne Brunborg,RS,01.10.2013,16,"Postfordelergruppe: RS, Tenesteområde Rossland barne- og ungdomsskule"
+12,Tenesteområde Sagstad skule,SK,17,NIV3,PM,SAK,Magne Lædre,SK,01.10.2013,17,"Postfordelergruppe: SK, Tenesteområde Sagstad skule"
+13,Tenesteområde Vestbygd skule,VS,18,NIV3,PM,SAK,Monica Vabø Reigstad,VS,01.10.2013,18,"Postfordelergruppe: VS, Tenesteområde Vestbygd skule"

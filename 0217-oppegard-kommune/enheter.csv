@@ -1,1 +1,82 @@
-Enhetskode;Enhet
+,,Enhetskode,Enhet
+ANDEBY,Andeby skole,ANDEBY,Andeby skole
+,Augestad barnehage,AUGESTAD,Augestad barnehage
+AVDELING,Avdeling (til testing),AVDELING,Avdeling (til testing)
+BESTKTR,Bestillerkontoret,BESTKTR,Bestillerkontoret
+,Bibliotek,BIBL,Bibliotek
+,Bjørkås sykehjem,BJØRKÅS,Bjørkås sykehjem
+,Bråten barnehage,BRÅTEN,Bråten barnehage
+,Barnevern/utekontakt,BVUK,Barnevern/utekontakt
+BYGGEO,Byggesak og geodata,BYGGEO,Byggesak og geodata
+BYGGKART,Bygg og kart,BYGGKART,Bygg og kart
+EIENDOM,Eiendom,EIENDOM,Eiendom
+EKORNRUD,Ekornrud barnehage,EKORNRUD,Ekornrud barnehage
+FLØYSB ,Fløysbonn skole,FLØYSB ,Fløysbonn skole
+,Flåtestad skole,FLÅTEST,Flåtestad skole
+FOLLORÅD,Follorådet,FOLLORÅD,Follorådet
+,Gimleveien barnehage,GIMLE,Gimleveien barnehage
+GRESYKEH,Greverud sykehjem,GRESYKEH,Greverud sykehjem
+,Greverud skole,GREVERUD,Greverud skole
+,Greverudlia barnehage,GREVLIA,Greverudlia barnehage
+GRØNLIÅS,Grønliåsen barnehage,GRØNLIÅS,Grønliåsen barnehage
+HAREVN ,Hareveien barnehage,HAREVN ,Hareveien barnehage
+,Haukeliveien barnehage,HAUKELI,Haukeliveien barnehage
+HELLEBH,Hellerasten barnehage,HELLEBH,Hellerasten barnehage
+,Hellerasten skole,HELLERAS,Hellerasten skole
+,Helsetjenesten,HELSE,Helsetjenesten
+HJTJ,Hjemmetjenesten,HJTJ,Hjemmetjenesten
+,Holberg barnehage,HOLBERG,Holberg barnehage
+HR,HR,HR,HR
+,Høyås bo- og rehabiliteringssenter,HØYÅS,Høyås bo- og rehabiliteringssenter
+,Idrett og friluftsliv,IDFR,Idrett og friluftsliv
+IKT,IKT,IKT,IKT
+,Ingierkollen barnehage,INGIERK,Ingierkollen barnehage
+,Ingieråsen skole,INGIERÅS,Ingieråsen skole
+INNSYN,Innsyn,INNSYN,Innsyn
+,Jus og administrasjon,JUSADM,Jus og administrasjon
+,Kapellveien barnehage,KAPELLV,Kapellveien barnehage
+KEMNEREN,Kemneren i Follo,KEMNEREN,Kemneren i Follo
+KIF,Kemneren i Follo,KIF,Kemneren i Follo
+,Kolbotn barnehage,KOLBH,Kolbotn barnehage
+KOLBOMS,Kolbotn omsorgsboliger,KOLBOMS,Kolbotn omsorgsboliger
+,Kolbotn skole,KOLBOTN,Kolbotn skole
+,Kommunikasjon og service,KOMSERV,Kommunikasjon og service
+,Kulturskolen,KULTSK,Kulturskolen
+KULTURH,Kolben kulturhus,KULTURH,Kolben kulturhus
+LKF,Landbrukskontoret i Follo,LKF,Landbrukskontoret i Follo
+,Mellomåsen barnehage,MELLOMÅS,Mellomåsen barnehage
+NAV,NAV Oppegård,NAV,NAV Oppegård
+NORDÅSBH,Nordåsveien barnehage,NORDÅSBH,Nordåsveien barnehage
+,Nærmiljø,NÆRM,Nærmiljø
+OKS,Oppegård kvalifiseringssenter,OKS,Oppegård kvalifiseringssenter
+OMSORGSB,Omsorgsboliger,OMSORGSB,Omsorgsboliger
+OPPVEKST,Oppvekst,OPPVEKST,Oppvekst
+,Ordfører,ORDF,Ordfører
+,Organisasjon og tjeneste,ORGTJ,Organisasjon og tjeneste
+,,PPT,PPT
+PROSJEKT,Prosjektkontor,PROSJEKT,Prosjektkontor
+,Psykisk helsetjeneste,PSYKISKH,Psykisk helsetjeneste
+,Regnskap,REGNSK,Regnskap
+,Rognebærlia barnehage,ROGNEBÆR,Rognebærlia barnehage
+,Rådmannens ledergruppe,RÅDM,Rådmannens ledergruppe
+,Samfunnsutvikling,SAM,Samfunnsutvikling
+SKOLEKVB,"Skole, kvalifisering og barnevern",FLÅTESTA,FLÅTESTAD SKOLE
+SKOLEKVB,"Skole, kvalifisering og barnevern",GREV,GREVERUD SKOLE
+SLÅBRÅT,Slåbråten barnehage,SLÅBRÅT,Slåbråten barnehage
+SOFIEM,Sofiemyr skole,SOFIEM,Sofiemyr skole
+,Sætreskogen barnehage,SÆTRESK,Sætreskogen barnehage
+TILLITSV,Tillitsvalgte,TILLITSV,Tillitsvalgte
+,Trolldalen barnehage,TROLLDAL,Trolldalen barnehage
+,Tiltak og tjenester for funksjonshemmede,TTF,Tiltak og tjenester for funksjonshemmede
+,Tømteveien barnehage,TØMTEVN,Tømteveien barnehage
+,Tårnåsen skole,TÅRNÅSEN,Tårnåsen skole
+UTDF,Utdanningsforbundet,UTDF,Utdanningsforbundet
+UTE,UTE,UTE,UTE
+,"Vann, avløp og renovasjon",VAR,"Vann, avløp og renovasjon"
+,Vassbonn skole,VASSBONN,Vassbonn skole
+,Vestre Greverud barnehage,VESTGREV,Vestre Greverud barnehage
+,Vestliveien barnehage,VESTLIVN,Vestliveien barnehage
+,Vei og park,VP,Vei og park
+ØDEGÅRD,Ødegården barnehage,ØDEGÅRD,Ødegården barnehage
+ØKONOMI,Økonomi og styring,ØKONOMI,Økonomi og styring
+,Østli skole,ØSTLI,Østli skole

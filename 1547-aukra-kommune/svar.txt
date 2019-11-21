@@ -1,0 +1,8 @@
+System, ePhorte
+
+Leverandør, Evry
+
+Ulike basar mellom 01.01.2008 – d.d. Historisk database aktiv for oppslag.
+
+Ny off.lov 01.01.2009, difor nytt sett med kodar. Desse kan ikkje hentas
+ut i fil.

@@ -1,1 +1,9 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Startdato,Sluttdato
+,Ugradert,,
+B,Begrenset,,
+BH,Indivimappe barnehage,,
+E,Elevsaker,,
+F,Fortrolig,,
+P,Personalsaker,,
+U,Unntatt offentlig,,
+XX,Midlertidig sperret,,
