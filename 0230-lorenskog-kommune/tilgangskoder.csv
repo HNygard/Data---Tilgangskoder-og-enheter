@@ -1,1 +1,32 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Standard paragraf,Stikkord,Tillates ekspedert med epost,Sikkerhetsnivå
+E,Unntatt offentlighet,"§ 13/opp.lova § 15-
+1/fvl.§ 13,1 ledd
+nr1",Elevmappe,Tillates ikke,4
+ES,"Gradering av sensitive
+elevsaker","§ 13/opp.lova § 15-
+1/fvl.§ 13,1 ledd
+nr1","Brukes ved skjerming for
+interne brukere når
+andre skjermingskoder",Tillates ikke,4
+HS,"Gradering av sensitive
+helsesaker","§ 13  jf.
+helsepersonelloven
+§ 21","Brukes ved skjerming for
+interne brukere når
+andre skjermingskoder",Tillates ikke,4
+IS,"Intern skjerming
+(øvrige saker)",,"Brukes ved skjerming for
+interne brukere når
+andre skjermingskoder
+ikke er tilstrekkelig",Tillates ikke,4
+L,"Unntatt offentlighet
+(ledersaker)",,Ledersaker,Tillates ikke,4
+P,Personalsak,"§ 13 1. ledd, jf. fvl. §
+13 1. ledd nr. 1",,Tillates ikke,4
+PS,Personalsak - sensitiv,"§ 13 1. ledd, jf. fvl. §
+13 1. ledd nr. 1",Disiplinærsaker,Tillates ikke,4
+UO,Unntatt offentlighet,,,Tillates ikke,4
+XX,"Midlertidig unntatt
+offentlighet",IOF,"Brukes ved skjerming
+inntil riktig
+skjermingskode, paragraf",Tillates ikke,4

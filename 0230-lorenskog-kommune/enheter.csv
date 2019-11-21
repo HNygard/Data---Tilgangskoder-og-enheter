@@ -1,1 +1,101 @@
-Enhetskode;Enhet
+Enhetsbetegnelse/Navn,Enhetsforkortelse,Enhetstype,Journalenhet,Arkivdel,Samlet enhetsforkortelse,Underlagt avdeling,Opprettet dato
+---,---,NIV0,PM,SAK,Ingen brukere på dette nivå,,
+Lørenskog kommune,KOM,NIV1,PM,SAK,KOM,---,
+"Samarbeidsrådet forNedre Romerike",SNR,NIV1,SNR,SNR-Sak,SNR,---,
+ordføreren,ORD,NIV2,PM,SAK2,ORD,Lørenskog kommune,
+rådmann,RAD,NIV2,PM,SAK2,RAD,Lørenskog kommune,
+helse omsorg,HOS,NIV3,PM,SAK2,HOS,rådmann,
+kultur,KUL,NIV3,PM,SAK2,KUL,rådmann,
+oppvekst og utdanning,OUS,NIV3,PM,SAK2,OUS,rådmann,
+organisasjonsavdelingen,ORG,NIV3,PM,SAK2,ORG,rådmann,
+bo- og omsorgstjenesten,BOT,NIV4,PM,SAK2,BOT,helse omsorg,
+"bolig, rus og psykisk helse",BRPH,NIV4,PM,SAK2,BRPH,helse omsorg,
+"Enhet for fag oginnovasjon",FAGINV,NIV4,PM,SAK2,FAGINV,helse omsorg,31.08.2018
+"fysioterapi- ogergoterapitjenesten",FYER,NIV4,PM,SAK2,FYER,helse omsorg,
+"helsefremmende ogforebyggende tjenester",HEFO,NIV4,PM,SAK2,HEFO,helse omsorg,
+hjemmetjenesten,HJT,NIV4,PM,SAK2,HJT,helse omsorg,
+Lørenskog sykehjem,LS,NIV4,PM,SAK2,LS,helse omsorg,
+NAV,NAV,NIV4,PM,SAK2,NAV,helse omsorg,
+Rolvsrudhjemmet,RHJ,NIV4,PM,SAK2,RHJ,helse omsorg,
+Samfunnsmedisinsk enhet,SME,NIV4,PM,SAK2,KMO,helse omsorg,
+"samhandling ogforvaltning",SAMFOR,NIV4,PM,SAK2,SAMFOR,helse omsorg,
+"Bibliotek, frivillighet ogfolkehelse",BIBFRI,NIV4,PM,SAK2,BIBFRI,kultur,31.08.2018
+Kulturproduksjon,KULPRO,NIV4,PM,SAK2,KULPRO,kultur,30.08.2018
+"Lørenskog Musikk- ogkulturskole",LMKS,NIV4,PM,SAK2,LMKS,kultur,30.08.2018
+"Park, Idrett og friluftsliv",PIF,NIV4,PM,SAK2,PIF,kultur,
+kino,KINO,NIV4,PM,SAK2,KINO,Kulturproduksjon,
+kulturhus,KULHUS,NIV4,PM,SAK2,KULHUS,Kulturproduksjon,
+barnehagekontoret,BHG,NIV4,PM,SAK2,BHG,oppvekst og utdanning,
+barneverntjenesten,BARVT,NIV4,PM,SAK2,BARVT,oppvekst og utdanning,
+"flyktning- oginnvandrertjenesten",FLYKT,NIV4,PM,SAK2,FLYKT,oppvekst og utdanning,
+"pedagogisk psykologiskkontor",PPK,NIV4,PM,SAK2,PPK,oppvekst og utdanning,
+skolekontoret,SKOLE,NIV4,PM,SAK2,SKOLE,oppvekst og utdanning,
+Politikere,POL,NIV4,,,POL,ordføreren,
+arbeidsgiverseksjonen,ARB,NIV4,PM,SAK2,ARB,organisasjonsavdelingen,
+innkjøpsseksjonen,INNKJ,NIV4,PM,SAK2,INNKJ,organisasjonsavdelingen,
+juridisk seksjon,JUR,NIV4,PM,SAK2,JUR,organisasjonsavdelingen,
+lønnsseksjonen,LØN,NIV4,PM,SAK2,LØN,organisasjonsavdelingen,
+"seksjon for lederstøtte ogfolkevalgte",LEDFO,NIV4,PM,SAK2,LEDFO,organisasjonsavdelingen,
+idrett og friluftsliv,IDR,NIV4,PM,SAK2,IDR,"Park, Idrett og friluftsliv",
+eiendom,EIEND,NIV4,PM,SAK2,EIEND,teknisk sektor,
+kommunalteknikk,KOMT,NIV4,PM,SAK2,KOMT,teknisk sektor,
+prosjektvirksomheten,PRO,NIV4,PM,SAK2,PRO,teknisk sektor,
+"regulering, byggesak oggeodata",RBG,NIV4,PM,SAK2,RBG,teknisk sektor,
+dokumentsenteret,DOKU,NIV4,PM,SAK2,DOKU,teknologiavdelingen,
+IT-drift,ITDRI,NIV4,PM,SAK2,ITDRI,teknologiavdelingen,
+"Porteføljestyring ogvirksomhetsarkitektur",POVA,NIV4,PM,SAK2,POVA,teknologiavdelingen,
+service og kommunikasjon,SEKOM,NIV4,PM,SAK2,SEKOM,teknologiavdelingen,
+budsjett og finans,BUD,NIV4,PM,SAK2,BUD,økonomiavdelingen,
+Lørenskog Kemnerkontor,KK,NIV4,PM,SAK2,KK,økonomiavdelingen,
+regnskapsseksjonen,REGN,NIV4,PM,SAK2,REGN,økonomiavdelingen,
+Romerike Revisjon,REV,NIV4,PM,SAK2,REV,økonomiavdelingen,
+Benterud barnehage,BENBH,NIV5,PM,SAK2,BENBH,barnehagekontoret,
+Bruget barnehage,BRUBH,NIV5,PM,SAK2,BRUBH,barnehagekontoret,
+Bårliskogen barnehage,BÅRBH,NIV5,PM,SAK2,BÅRBH,barnehagekontoret,
+Eventyrstua barnehage,EVEBH,NIV5,PM,SAK2,EVEBH,barnehagekontoret,
+Finstad barnehage,FINBH,NIV5,PM,SAK2,FINBH,barnehagekontoret,
+Fjellhamar barnehage,FJBH,NIV5,PM,SAK2,FJBH,barnehagekontoret,
+"Fjellhamar GårdBarnehage",FJGBH,NIV5,PM,SAK2,FJGBH,barnehagekontoret,
+Fjellsrud barnehage,FJLBH,NIV5,PM,SAK2,FJLBH,barnehagekontoret,
+Framtia barnehage,FRAMBH,NIV5,PM,SAK2,FRAMBH,barnehagekontoret,
+Grønlia barnehage,GRØBH,NIV5,PM,SAK2,GRØBH,barnehagekontoret,
+Kjenn barnehage,KJBH,NIV5,PM,SAK2,KJBH,barnehagekontoret,
+Klubben barnehage,KLUBH,NIV5,PM,SAK2,KLUBH,barnehagekontoret,
+Kurland barnehage,KURBH,NIV5,PM,SAK2,KURBH,barnehagekontoret,
+Løken barnehage,LØKBH,NIV5,PM,SAK2,LØKBH,barnehagekontoret,
+Løkenåsen barnehage,LÅSBH,NIV5,PM,SAK2,LÅSBH,barnehagekontoret,
+Rasta barnehage,RASBH,NIV5,PM,SAK2,RASBH,barnehagekontoret,
+Rolvsrud barnehage,ROLBH,NIV5,PM,SAK2,ROLBH,barnehagekontoret,
+Solheim barnehage,SOLBH,NIV5,PM,SAK2,SOLBH,barnehagekontoret,
+bibliotek,BIB,NIV5,PM,SAK2,BIB,"Bibliotek, frivillighet ogfolkehelse",
+"frivillighet ogmøteplassutvikling",FRIVMØT,NIV5,PM,SAK2,FRIVMØT,"Bibliotek, frivillighet ogfolkehelse",
+MAI senteret,MAI,NIV5,PM,SAK2,MAI,"bolig, rus og psykisk helse",
+rus og psykisk helse,RUS,NIV5,PM,SAK2,RUS,"bolig, rus og psykisk helse",
+samlokaliserte boliger,SAB,NIV5,PM,SAK2,SAB,"bolig, rus og psykisk helse",
+drift og eiendom,DRIEI,NIV5,PM,SAK2,DRIEI,eiendom,
+renhold,REN,NIV5,PM,SAK2,REN,eiendom,
+"botiltak ensligemindreårige flyktninger",BOTEM,NIV5,PM,SAK2,BOTEM,"flyktning- oginnvandrertjenesten",
+boligkontoret,BOL,NIV5,PM,SAK2,BOL,hjemmetjenesten,
+Kommunalteknikk - drift,KTDV,NIV5,PM,SAK2,KTDV,kommunalteknikk,
+"Kommunalteknikk -forvaltning ogkommunikasjon",KFOKO,NIV5,PM,SAK2,,kommunalteknikk,07.02.2019
+"Kommunalteknikk - Planog utvikling",KTPU,NIV5,PM,SAK2,KTPU,kommunalteknikk,
+service og logistikk,SELOG,NIV5,PM,SAK2,SELOG,kommunalteknikk,
+Aktivitetshuset VOLT,VOLT,NIV5,PM,SAK2,VOLT,Kulturproduksjon,
+Fritidsklubber,FRIKLU,NIV5,PM,SAK2,FRIKLU,Kulturproduksjon,15.02.2019
+barnevernvakta,BVV,NIV5,PM,SAK2,BVV,oppvekst og utdanning,
+park og idrettsanlegg,PARK,NIV5,PM,SAK2,PARK,"Park, Idrett og friluftsliv",
+byggesak,BYG,NIV5,PM,SAK2,BYG,"regulering, byggesak oggeodata",
+geodata,GEO,NIV5,PM,SAK2,GEO,"regulering, byggesak oggeodata",
+regulering,REG,NIV5,PM,SAK2,REG,"regulering, byggesak oggeodata",
+APO skolen,APO,NIV5,PM,SAK2,APO,skolekontoret,
+Benterud skole,BEN,NIV5,PM,SAK2,BEN,skolekontoret,
+Finstad skole,FIN,NIV5,PM,SAK2,FIN,skolekontoret,
+Fjellhamar skole,FJH,NIV5,PM,SAK2,FJH,skolekontoret,
+Fjellsrud skole,FJE,NIV5,PM,SAK2,FJE,skolekontoret,
+Hammer skole,HAM,NIV5,PM,SAK2,HAM,skolekontoret,
+Kjenn skole,KJE,NIV5,PM,SAK2,KJE,skolekontoret,
+Kurland skole,KUR,NIV5,PM,SAK2,KUR,skolekontoret,
+Luhr skole,LUHR,NIV5,PM,SAK2,LUHR,skolekontoret,
+Løkenåsen skole,LØK,NIV5,PM,SAK2,LØK,skolekontoret,
+"Lørenskogvoksenopplæring",LVOKS,NIV5,PM,SAK2,LVOKS,skolekontoret,01.04.2016
+Rasta skole,RAS,NIV5,PM,SAK2,RAS,skolekontoret,

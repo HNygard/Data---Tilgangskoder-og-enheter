@@ -1,0 +1,6 @@
+1. Hvilke sak- og arkivsystemer er benyttet i kommunen siden 01.01.2008?
+• Lørenskog kommune har Acos WebSak som sitt sak- og arkivsystem og har hatt det siden 2005. 
+
+2. Navn på leverandør. Dato for når det ble tatt i bruk og eventuelt sluttet å bli brukt.
+• Leverandør er ACOS – Organisasjonsnummer: 922017433
+• Systemet ble tatt i bruk 01.01.2005, er fortløpende oppgradert og fortsatt i bruk pr. 29.10.2019

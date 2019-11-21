@@ -1,1 +1,20 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Dato aktiv
+HE,Helse,10/9/2001
+HS,Helse og sosial,11/6/2001
+KB,Knutshauåen barnehage,10/9/2001
+KU,Kulturavdelingen,10/9/2001
+LN,Landbruk og næring,10/9/2001
+LB,Lyngbo barnehage,10/9/2001
+MS,Musikkskolen,10/9/2001
+OR,Ordfører,10/9/2001
+SA,Sentraladministrasjon,4/27/1999
+SB,Skole/barnehage,10/11/2001
+SO,Sosial,10/9/2001
+TPM,"Teknisk, plan og miljø",10/8/2001
+TKB,Tolga kommunale barn,4/17/2008
+OT,Tolga  omsorgstun,4/22/2004
+TO,Tolga skole,10/9/2001
+TS,Tolga sykehjem,10/9/2001
+UT,Utviklingsetaten,11/6/2004
+VB,Vingelen barnehage,6/3/2004
+VB,Vingelen skole,12/2/2004

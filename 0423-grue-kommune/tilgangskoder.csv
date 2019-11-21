@@ -1,1 +1,8 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Sluttdato
+E,Elevmappe,Avsluttet 31.08.16
+ES,Elevsensitivt,
+IS,Unntatt off internt,Avsluttet 31.08.16
+O,Overformynderriig,
+P,Personalmappe,Avsluttet 06.01.15
+P1,Personal delegert,Avsluttet 31.06.16
+PS,Unntatt pesonalsensitiv sak,

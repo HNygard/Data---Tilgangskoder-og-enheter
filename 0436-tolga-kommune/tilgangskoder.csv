@@ -1,1 +1,7 @@
-Tilgangskode;Beskrivelse;Startdato;Sluttdato
+Tilgangskode,Beskrivelse,Aktiv
+PLN,Ordinær plansak,x
+STD,Standard sak,x
+ANS ,Ordinær ansettelsessak,x
+BYG,Byggesak,x
+PERS,Personalsak,x
+GID,Gards-og bruksarkiv,x
