@@ -1,1 +1,81 @@
-Enhetskode;Enhet
+Enhetskode,Enhet,Underlagt,Startdato,Nedlagt,System
+[Ufordelt] ,Ufordelt/sendt tilbake til arkiv ,Ufordelt/sendt tilbake til arkiv ,,5/31/2019,Ephorte
+ADM ,Administrativ støtteenhet ,Rådmannen ,,5/31/2019,Ephorte
+BARN ,Barnevernsavdelingen ,Rådmannen ,,1/15/2008,Ephorte
+BARNE ,Barnehageenheten ,Rådmannen ,,5/31/2019,Ephorte
+BO ,Boligstiftelsen ,Tvedestrand kommune ,,5/31/2019,Ephorte
+BØ ,Bøklia barnehage ,Barnehageenheten ,,5/31/2019,Ephorte
+DS ,Dypvåg skole ,Tvedestrandsskolen ,,5/31/2019,Ephorte
+ESKATT ,Eiendomskattekontoret ,Rådmannen ,,5/31/2019,Ephorte
+FRIV ,Frivilligsentralen ,Rådmannen ,,5/31/2019,Ephorte
+GRO ,Grotten Barnehage ,Barnehageenheten ,,5/31/2019,Ephorte
+GS ,Gjeving skole ,Oppvekstavdelingen ,,1/15/2008,Ephorte
+HJTJ ,Hjemmebaserte tjenester ,Omsorg og rehabilitering ,,9/4/2018,Ephorte
+HS ,Holt skole ,Tvedestrandsskolen ,,5/31/2019,Ephorte
+IKBV ,Interkommunalt barnevern ,Tvedestrand kommune ,,5/31/2019,Ephorte
+KLEGE ,Kommunelegen ,Rådmannen ,,5/31/2019,Ephorte
+KUL ,Enhet for kultur og næring ,Rådmannen ,,5/31/2019,Ephorte
+KULS ,Kulturskolen ,Enhet for kultur og næring ,,5/31/2019,Ephorte
+LS ,Lyngmyr skole ,Tvedestrandsskolen ,,5/31/2019,Ephorte
+LY ,Lyngbakken barnehage ,Barnehageenheten ,,5/31/2019,Ephorte
+NAV ,NAV Tvedestrand ,Rådmannen ,,5/31/2019,Ephorte
+NÆR ,Næringsavdelingen ,Rådmannen ,,1/15/2008,Ephorte
+OPP ,Oppvekstavdelingen ,Rådmannen ,,1/15/2008,Ephorte
+OPPF ,Oppfølgingsenheten ,Rådmannen ,,5/31/2019,Ephorte
+OR ,Omsorg og rehabilitering ,Rådmannen ,,5/31/2019,Ephorte
+ORD ,Ordføreren ,Tvedestrand kommune ,,5/31/2019,Ephorte
+PERS ,Personal- og utviklingsavdelingen ,Rådmannen ,,1/15/2008,Ephorte
+PLAN ,"Enhet for plan, miljø og eiendom ",Rådmannen ,,5/31/2019,Ephorte
+PPT ,PP-Tjeneste for Tvedestrand ,Rådmannen ,,3/1/2018,Ephorte
+PV ,Parkveien ,Tvedestrand og Vestre Sandøya skole ,,8/1/2012,Ephorte
+RESS ,Ressurssenter for barn og unge ,Rådmannen ,,5/31/2019,Ephorte
+RÅD ,Rådmannen ,Tvedestrand kommune ,,5/31/2019,Ephorte
+SB ,Skriverstua barnehage ,Barnehageenheten ,,5/31/2019,Ephorte
+SKOLE ,Tvedestrandsskolen ,Rådmannen ,,5/31/2019,Ephorte
+SOS ,Sosialavdelingen ,Rådmannen ,,1/15/2008,Ephorte
+SSK ,Songe skole ,Tvedestrandsskolen ,,5/31/2019,Ephorte
+TS ,Tvedestrand og Vestre Sandøya skole ,Tvedestrandsskolen ,,5/31/2019,Ephorte
+TVE ,Tvedestrand kommune ,,,5/31/2019,Ephorte
+VAR ,Teknisk drift ,Rådmannen ,,5/31/2019,Ephorte
+VSS ,V. Sandøya skole ,Oppvekstavdelingen ,,1/15/2008,Ephorte
+VU ,Villa Utsikten barnehage ,Barnehageenheten ,,5/31/2019,Ephorte
+ØK ,Økonomiavdelingen ,Rådmannen ,,1/15/2008,Ephorte
+,Tvedestrand kommune,,01.06.2019,,P360
+,Administrativ støtteenhet,Tvedestrand kommune,01.06.2019,,P360
+,Barnehageenheten,Tvedestrand kommune,01.06.2019,,P360
+,Bøklia barnehage,Barnehageenheten,01.06.2019,,P360
+,Grotten barnehage,Barnehageenheten,01.06.2019,,P360
+,Lyngbakken barnehage,Barnehageenheten,01.06.2019,,P360
+,Skriverstua barnehage,Barnehageenheten,01.06.2019,,P360
+,Villa utsikten barnehage,Barnehageenheten,01.06.2019,,P360
+,Familiehuset,Tvedestrand kommune,01.06.2019,,P360
+,Furøya IKS,Tvedestrand kommune,01.06.2019,,P360
+,NAV Tvedestrand ,Tvedestrand kommune,01.06.2019,,P360
+,Omsorg og rehabilitering ,Tvedestrand kommune,01.06.2019,,P360
+,Hjemmetjenesten,Omsorg og rehabilitering ,01.06.2019,,P360
+,Strannasenteret sykehjem,Omsorg og rehabilitering ,01.06.2019,,P360
+,"Tildeling, utvikling og innovasjon (TUI)",Omsorg og rehabilitering ,01.06.2019,,P360
+,Oppfølgingsenheten,Tvedestrand kommune,01.06.2019,,P360
+,Aktivitet og arbeid,Oppfølgingsenheten,01.06.2019,,P360
+,"Psykisk helse, rus og avhengighet",Oppfølgingsenheten,01.06.2019,,P360
+,Tjenester for utviklingshemmede,Oppfølgingsenheten,01.06.2019,,P360
+,Ordfører ,Tvedestrand kommune,01.06.2019,,P360
+,Personalforeningen ,Tvedestrand kommune,01.06.2019,,P360
+,"Plan, miljø og eiendom",Tvedestrand kommune,01.06.2019,,P360
+,Boligkontoret,"Plan, miljø og eiendom",01.06.2019,,P360
+,Byggesak ,"Plan, miljø og eiendom",01.06.2019,,P360
+,Byggforvaltning og havn,"Plan, miljø og eiendom",01.06.2019,,P360
+,Landbruk,"Plan, miljø og eiendom",01.06.2019,,P360
+,Oppmåling ,"Plan, miljø og eiendom",01.06.2019,,P360
+,Renholdstjenesten,"Plan, miljø og eiendom",01.06.2019,,P360
+,Skogbruk,"Plan, miljø og eiendom",01.06.2019,,P360
+,Rådmann,Tvedestrand kommune,01.06.2019,,P360
+,Rådmannens stab,Tvedestrand kommune,01.06.2019,,P360
+,Frivilligsentralen,Rådmannens stab,01.06.2019,,P360
+,Tvedestrandskolen,Tvedestrand kommune,01.06.2019,,P360
+,Dypvåg skole,Tvedestrandskolen,01.06.2019,,P360
+,Holt skole,Tvedestrandskolen,01.06.2019,,P360
+,Kulturskolen Øst i Agder ,Tvedestrandskolen,01.06.2019,,P360
+,Lyngmyr skole,Tvedestrandskolen,01.06.2019,,P360
+,Songe skole,Tvedestrandskolen,01.06.2019,,P360
+,Tvedestrand og Vestre Sandøya skole,Tvedestrandskolen,01.06.2019,,P360
