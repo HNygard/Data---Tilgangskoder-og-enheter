@@ -1,4 +1,4 @@
-*/*
-!*/tilgangskoder.csv
-!*/enheter.csv
-!*/svar.txt
+docs/*/*
+!docs/*/tilgangskoder.csv
+!docs/*/enheter.csv
+!docs/*/svar.txt
