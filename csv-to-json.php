@@ -24,6 +24,10 @@ if (!function_exists('getDirContents')) {
     function str_starts_with($stack, $needle) {
         return (strpos($stack, $needle) === 0);
     }
+
+    function str_contains($stack, $needle) {
+        return (strpos($stack, $needle) !== FALSE);
+    }
 }
 
 $html_overview = "
@@ -74,6 +78,39 @@ $html_overview = str_replace('TOTALT_ANTALL', $totalEntities, $html_overview);
 file_put_contents(__DIR__ . '/json/index.html', $html_overview);
 
 // :: Update README
+$innsyn_status = json_decode(file_get_contents(__DIR__ . '/status.json'));
+$innsyn_status_ok = 0;
+$innsyn_status_venter_svar = 0;
+$innsyn_status_venter_kategorisering = 0;
+$innsyn_status_venter_kategorisering_ok_fil = 0;
+$innsyn_status_venter_klage = 0;
+foreach ((array)$innsyn_status as $status => $stats) {
+    if (str_contains($status, 'Vellykket.')
+        || str_contains($status, 'Delvis vellykket.')) {
+        $innsyn_status_ok += $stats->total;
+    }
+    elseif (str_contains($status, 'Venter p&aring; kategorisering.')) {
+        $innsyn_status_venter_kategorisering += $stats->total;
+        $innsyn_status_venter_kategorisering_ok_fil += $stats->ok_file;
+    }
+    elseif (str_contains($status, 'Sv&aelig;rt forsinket.')) {
+        $innsyn_status_venter_svar += $stats->total;
+    }
+    elseif (str_contains($status, 'Venter p&aring; behandling av klage.')) {
+        $innsyn_status_venter_klage += $stats->total;
+    }
+    elseif (str_contains($status, 'Har ikke informasjonen.')) {
+        // Ignore
+    }
+    elseif (str_contains($status, 'Avsl&aring;tt')) {
+        // Ignore
+    }
+    else {
+        throw new Exception('Unknown innsyn status: ' . $status);
+    }
+}
+
+
 $readme = explode("\n", file_get_contents(__DIR__ . '/README.md'));
 foreach ($readme as $i => $line) {
     if (str_starts_with($line, 'Status (sist oppdatert ')) {
@@ -83,12 +120,25 @@ foreach ($readme as $i => $line) {
         $readme[$i] = '- Totalt antall henvendelser: ' . $totalEntities;
     }
     if (str_starts_with($line, '- Totalt antall vellykket:')) {
-        $readme[$i] = '- Totalt antall vellykket: ??';
+        $readme[$i] = '- Totalt antall vellykket: ' . $innsyn_status_ok;
     }
-    if (str_starts_with($line, '- Totalt antall ferdig behandlet:')) {
-        $readme[$i] = '- Totalt antall ferdig behandlet: ' . $totalEntitiesOk . ' (' . $totalEntitiesOkProsent . ' %)';
+    if (str_starts_with($line, '- Totalt antall venter svar:')) {
+        $readme[$i] = '- Totalt antall venter svar: ' . $innsyn_status_venter_svar;
+    }
+    if (str_starts_with($line, '- Totalt antall venter klagesvar:')) {
+        $readme[$i] = '- Totalt antall venter klagesvar: ' . $innsyn_status_venter_klage;
+    }
+    if (str_starts_with($line, '- Totalt antall svar ankommet, ikke lest av meg:')) {
+        $readme[$i] = '- Totalt antall svar ankommet, ikke lest av meg: ' . $innsyn_status_venter_kategorisering . ' (' . $innsyn_status_venter_kategorisering_ok_fil . ' har aktuelle filer - Excel, PDF)';
+    }
+    if (str_starts_with($line, '- Totalt antall ok svar, venter uthenting av data av meg:')) {
+        $readme[$i] = '- Totalt antall ok svar, venter uthenting av data av meg: ' . ($innsyn_status_ok - $totalEntitiesOk);
+    }
+    if (str_starts_with($line, '- Totalt antall ferdig behandlet av meg og har hentet data:')) {
+        $readme[$i] = '- Totalt antall ferdig behandlet av meg og har hentet data: ' . $totalEntitiesOk . ' (' . $totalEntitiesOkProsent . ' %)';
     }
 }
+
 file_put_contents(__DIR__ . '/README.md', implode("\n", $readme));
 
 
