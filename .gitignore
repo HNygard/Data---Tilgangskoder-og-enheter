@@ -1,6 +1,6 @@
-docs/*/*
-!docs/*/tilgangskoder.csv
-!docs/*/tilgangskoder.csv.json
-!docs/*/enheter.csv
-!docs/*/enheter.csv.json
-!docs/*/svar.txt
+data/*/*
+!data/*/tilgangskoder.csv
+!data/*/tilgangskoder.csv.json
+!data/*/enheter.csv
+!data/*/enheter.csv.json
+!data/*/svar.txt
