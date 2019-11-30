@@ -1,45 +1,45 @@
 {
     "<span class=\"innsyn-success\"><i class=\"fas fa-check\"></i> Vellykket.</span>": {
-        "total": 91,
-        "ok_tilgangskoder": 44,
+        "total": 100,
+        "ok_tilgangskoder": 45,
         "ok_enheter": 44,
-        "ok_svar": 45,
-        "ok_file": 75
-    },
-    "<span class=\"innsyn-waiting\"><i class=\"far fa-clock\"></i> Sv&aelig;rt forsinket.</span>": {
-        "total": 189,
-        "ok_tilgangskoder": 1,
-        "ok_enheter": 2,
-        "ok_svar": 2,
-        "ok_file": 11
-    },
-    "<span class=\"innsyn-waiting\"><i class=\"far fa-clock\"></i> Venter p&aring; kategorisering.</span>": {
-        "total": 271,
-        "ok_tilgangskoder": 1,
-        "ok_enheter": 0,
-        "ok_svar": 0,
-        "ok_file": 253
-    },
-    "<i class=\"fas fa-question\" title=\"internal_review\"></i> Venter p&aring; behandling av klage.": {
-        "total": 7,
-        "ok_tilgangskoder": 0,
-        "ok_enheter": 0,
-        "ok_svar": 1,
-        "ok_file": 3
-    },
-    "<span class=\"innsyn-success\"><i class=\"fas fa-check\"></i> Delvis vellykket.</span>": {
-        "total": 6,
-        "ok_tilgangskoder": 4,
-        "ok_enheter": 2,
-        "ok_svar": 4,
-        "ok_file": 0
+        "ok_svar": 46,
+        "ok_file": 84
     },
     "<i class=\"fas fa-question\" title=\"internal_review\"></i> Venter p&aring; kategorisering.": {
-        "total": 2,
+        "total": 3,
         "ok_tilgangskoder": 0,
         "ok_enheter": 0,
         "ok_svar": 0,
         "ok_file": 2
+    },
+    "<span class=\"innsyn-waiting\"><i class=\"far fa-clock\"></i> Venter p&aring; kategorisering.</span>": {
+        "total": 270,
+        "ok_tilgangskoder": 1,
+        "ok_enheter": 1,
+        "ok_svar": 1,
+        "ok_file": 252
+    },
+    "<span class=\"innsyn-waiting\"><i class=\"far fa-clock\"></i> Sv&aelig;rt forsinket.</span>": {
+        "total": 180,
+        "ok_tilgangskoder": 1,
+        "ok_enheter": 1,
+        "ok_svar": 1,
+        "ok_file": 9
+    },
+    "<i class=\"fas fa-question\" title=\"internal_review\"></i> Venter p&aring; behandling av klage.": {
+        "total": 8,
+        "ok_tilgangskoder": 0,
+        "ok_enheter": 0,
+        "ok_svar": 1,
+        "ok_file": 4
+    },
+    "<span class=\"innsyn-success\"><i class=\"fas fa-check\"></i> Delvis vellykket.</span>": {
+        "total": 5,
+        "ok_tilgangskoder": 3,
+        "ok_enheter": 2,
+        "ok_svar": 3,
+        "ok_file": 0
     },
     "<i class=\"fas fa-question\" title=\"not_held\"></i> Har ikke informasjonen.": {
         "total": 1,

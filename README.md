@@ -12,13 +12,14 @@ Innsynshenvendelsene blir manuelt prosessert. 3 filer blir laget:
 
 Status (sist oppdatert 30.11.2019):
 - Totalt antall henvendelser: 568
-- Totalt antall vellykket: 97
-- Totalt antall venter svar: 189
-- Totalt antall venter klagesvar: 7
-- Totalt antall svar ankommet, ikke lest av meg: 273 (255 har aktuelle filer - Excel, PDF)
-- Totalt antall ok svar, venter uthenting av data av meg: 49
+- Totalt antall vellykket: 105
+- Totalt antall venter svar: 180
+- Totalt antall venter klagesvar: 8
+- Totalt antall svar ankommet, ikke lest av meg: 273 (254 har aktuelle filer - Excel, PDF)
+- Totalt antall ok svar, venter uthenting av data av meg: 57
 - Totalt antall ferdig behandlet av meg og har hentet data: 48 (8 %)
 
 Data:
-- [JSON-data](./json/)
+- Git-repo: https://github.com/HNygard/Data---Tilgangskoder-og-enheter
+- [JSON-data](./json/) (ligger i Git-repo)
 - [Full status på innsynshenvendelsene og strukturering av dataene](./data/)
