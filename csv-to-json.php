@@ -129,7 +129,9 @@ foreach ($readme as $i => $line) {
         $readme[$i] = '- Totalt antall venter klagesvar: ' . $innsyn_status_venter_klage;
     }
     if (str_starts_with($line, '- Totalt antall svar ankommet, ikke lest av meg:')) {
-        $readme[$i] = '- Totalt antall svar ankommet, ikke lest av meg: ' . $innsyn_status_venter_kategorisering . ' (' . $innsyn_status_venter_kategorisering_ok_fil . ' har aktuelle filer - Excel, PDF)';
+        $readme[$i] = '- Totalt antall svar ankommet, ikke lest av meg: ' . $innsyn_status_venter_kategorisering
+            . ' (' . $innsyn_status_venter_kategorisering_ok_fil . ' har aktuelle filer - Excel, PDF - '
+            . ($innsyn_status_venter_kategorisering - $innsyn_status_venter_kategorisering_ok_fil) . ' har ikke)';
     }
     if (str_starts_with($line, '- Totalt antall ok svar, venter uthenting av data av meg:')) {
         $readme[$i] = '- Totalt antall ok svar, venter uthenting av data av meg: ' . ($innsyn_status_ok - $totalEntitiesOk);

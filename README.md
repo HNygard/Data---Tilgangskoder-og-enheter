@@ -15,7 +15,7 @@ Status (sist oppdatert 30.11.2019):
 - Totalt antall vellykket: 105
 - Totalt antall venter svar: 180
 - Totalt antall venter klagesvar: 8
-- Totalt antall svar ankommet, ikke lest av meg: 273 (254 har aktuelle filer - Excel, PDF)
+- Totalt antall svar ankommet, ikke lest av meg: 273 (254 har aktuelle filer - Excel, PDF - 19 har ikke)
 - Totalt antall ok svar, venter uthenting av data av meg: 57
 - Totalt antall ferdig behandlet av meg og har hentet data: 48 (8 %)
 
