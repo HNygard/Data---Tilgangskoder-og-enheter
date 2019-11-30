@@ -20,6 +20,6 @@ Status (sist oppdatert 30.11.2019):
 - Totalt antall ferdig behandlet av meg og har hentet data: 48 (8 %)
 
 Data:
-- Git-repo: https://github.com/HNygard/Data---Tilgangskoder-og-enheter
+- Git-repo: [https://github.com/HNygard/Data---Tilgangskoder-og-enheter](https://github.com/HNygard/Data---Tilgangskoder-og-enheter)
 - [JSON-data](./json/) (ligger i Git-repo)
 - [Full status på innsynshenvendelsene og strukturering av dataene](./data/)
