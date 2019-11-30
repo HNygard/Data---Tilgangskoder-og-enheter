@@ -1,0 +1,95 @@
+[
+    {
+        "code": "LA",
+        "name_or_description": "Startlånx",
+        "valid_from": "1/1/2009",
+        "valid_to": "1/1/2014"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "5/1/2005",
+        "valid_to": "12/31/2008"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "5/1/2005"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen",
+        "valid_from": "5/1/2005",
+        "valid_to": "12/31/2008"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "5/1/2005"
+    },
+    {
+        "code": "BO",
+        "name_or_description": "Bostøttesøknader",
+        "valid_from": "5/1/2005",
+        "valid_to": "12/31/2008"
+    },
+    {
+        "code": "L",
+        "name_or_description": "Startlån",
+        "valid_from": "5/1/2005"
+    },
+    {
+        "code": "SK",
+        "name_or_description": "Personlige skattytere",
+        "valid_from": "5/1/2005",
+        "valid_to": "1/1/2007"
+    },
+    {
+        "code": "SS",
+        "name_or_description": "Selskapsskatt",
+        "valid_from": "5/1/2005",
+        "valid_to": "1/1/2007"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "4/20/2005"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Utvalgsbehandling",
+        "valid_from": "4/20/2005"
+    },
+    {
+        "code": "AN",
+        "name_or_description": "Ansettelsessaker",
+        "valid_from": "1/1/2009",
+        "valid_to": "1/1/2009"
+    },
+    {
+        "code": "AS",
+        "name_or_description": "Ansettelsessaker",
+        "valid_from": "5/3/2007"
+    },
+    {
+        "code": "PE",
+        "name_or_description": "Personalsaker",
+        "valid_from": "1/1/2009",
+        "valid_to": "1/1/2009"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Personalsak, ekstra skjermet",
+        "valid_from": "10/20/2014"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "2/4/2015"
+    },
+    {
+        "code": "AV",
+        "name_or_description": "Avlastere",
+        "valid_from": "4/22/2016"
+    }
+]

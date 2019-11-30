@@ -1,0 +1,46 @@
+[
+    {
+        "code": "13",
+        "name_or_description": "Offentlighetsloven § 13"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Ugradert",
+        "systemSortOrder": "0"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset",
+        "systemSortOrder": "10"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig",
+        "systemSortOrder": "40"
+    },
+    {
+        "code": "SS-UO",
+        "name_or_description": "Unntatt offentlighet",
+        "systemSortOrder": "100"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "systemSortOrder": "100"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "systemSortOrder": "100"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "systemSortOrder": "110"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "systemSortOrder": "120"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "code": "B",
+        "name_or_description": "Barnehagesaker"
+    },
+    {
+        "code": "BO",
+        "name_or_description": "Startlån, bolig, gjeldsrådgivning"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet"
+    },
+    {
+        "code": "Xx",
+        "name_or_description": "Midlertidig sperret"
+    }
+]

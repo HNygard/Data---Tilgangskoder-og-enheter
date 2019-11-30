@@ -1,0 +1,78 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelse",
+        "valid_from": "05.02.2008"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven",
+        "valid_from": "01.01.2007"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagebarn",
+        "valid_from": "20.08.2008"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "07.12.2006"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "19.12.2006"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtedokumenter unntatt offentlighet",
+        "valid_from": "07.12.2006"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "01.01.2007"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Personsensitivt",
+        "valid_from": "05.11.2010"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Utviklingssamtale",
+        "valid_from": "16.06.2011"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "07.12.2006"
+    },
+    {
+        "code": "V",
+        "name_or_description": "Varsling",
+        "valid_from": "14.03.2018"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "15.08.2018"
+    }
+]

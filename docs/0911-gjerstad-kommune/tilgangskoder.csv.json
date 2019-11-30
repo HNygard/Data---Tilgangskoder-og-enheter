@@ -1,0 +1,309 @@
+[
+    {
+        "name_or_description": "Offl §13 jfr Fvl §13.1 (Opplysninger som er underlagt taushetsplikt)",
+        "legal_basis_used_in_category": "Offl §13 jfr Fvl §13.1",
+        "system": "Public 360",
+        "systemSortOrder": "1"
+    },
+    {
+        "name_or_description": "Offl §13 jfr Fvl §13.1 pkt.2 (Opplysninger av konkurransemessig betydning)",
+        "legal_basis_used_in_category": "Offl §13 jfr Fvl §13.1 pkt.2",
+        "system": "Public 360",
+        "systemSortOrder": "2"
+    },
+    {
+        "name_or_description": "Offl § 23.3 (Unntak for innsyn for tilbud og protokoll om offentlig innkjøp)",
+        "legal_basis_used_in_category": "Offl § 23.3",
+        "system": "Public 360",
+        "systemSortOrder": "3"
+    },
+    {
+        "name_or_description": "Offl § 2 (Virkeområdet til loven)",
+        "legal_basis_used_in_category": "Offl § 2",
+        "system": "Public 360",
+        "systemSortOrder": "10"
+    },
+    {
+        "name_or_description": "Offl § 3 (hovedregel)",
+        "legal_basis_used_in_category": "Offl § 3",
+        "system": "Public 360",
+        "systemSortOrder": "20"
+    },
+    {
+        "name_or_description": "Offl § 4 (Definisjoner)",
+        "legal_basis_used_in_category": "Offl § 4",
+        "system": "Public 360",
+        "systemSortOrder": "30"
+    },
+    {
+        "name_or_description": "Offl § 5 (Utsatt innsyn)",
+        "legal_basis_used_in_category": "Offl § 5",
+        "system": "Public 360",
+        "systemSortOrder": "40"
+    },
+    {
+        "name_or_description": "Offl § 8 (Hovedregel om rett til gratis innsyn)",
+        "legal_basis_used_in_category": "Offl § 8",
+        "system": "Public 360",
+        "systemSortOrder": "50"
+    },
+    {
+        "name_or_description": "Offl § 9 (rett til innsyn i sammenstilling fra databaser)",
+        "legal_basis_used_in_category": "Offl § 9",
+        "system": "Public 360",
+        "systemSortOrder": "60"
+    },
+    {
+        "name_or_description": "Offl § 10 (plikt til å føre journal og tilgjengeliggjøring av journal på internett)",
+        "legal_basis_used_in_category": "Offl § 10",
+        "system": "Public 360",
+        "systemSortOrder": "70"
+    },
+    {
+        "name_or_description": "Offl § 11 (Unntatt med hjemmel i forskrift)",
+        "legal_basis_used_in_category": "Offl § 11",
+        "system": "Public 360",
+        "systemSortOrder": "80"
+    },
+    {
+        "name_or_description": "Offl § 12 (unntak for resten av dokumentet)",
+        "legal_basis_used_in_category": "Offl § 12",
+        "system": "Public 360",
+        "systemSortOrder": "90"
+    },
+    {
+        "name_or_description": "Offl § 14 (organinterne dokumenter)",
+        "legal_basis_used_in_category": "Offl § 14",
+        "system": "Public 360",
+        "systemSortOrder": "120"
+    },
+    {
+        "name_or_description": "Offl § 15 (interne dokumenter utenfra)",
+        "legal_basis_used_in_category": "Offl § 15",
+        "system": "Public 360",
+        "systemSortOrder": "130"
+    },
+    {
+        "name_or_description": "Offl § 16 (innsyn i interne dokumenter i kommunen og fylkeskommunen)",
+        "legal_basis_used_in_category": "Offl § 16",
+        "system": "Public 360",
+        "systemSortOrder": "140"
+    },
+    {
+        "name_or_description": "Offl § 17 (dokumenter som i visse saker gjelder Det kongl. Hoff)",
+        "legal_basis_used_in_category": "Offl § 17",
+        "system": "Public 360",
+        "systemSortOrder": "150"
+    },
+    {
+        "name_or_description": "Offl § 18 (rettsaksdokumenter)",
+        "legal_basis_used_in_category": "Offl § 18",
+        "system": "Public 360",
+        "systemSortOrder": "160"
+    },
+    {
+        "name_or_description": "Offl § 21 (forsvars- og sikkerhetsinteresser)",
+        "legal_basis_used_in_category": "Offl § 21",
+        "system": "Public 360",
+        "systemSortOrder": "170"
+    },
+    {
+        "name_or_description": "Offl § 23.1 (Forsvarlig gjennomføring av økonomi, lønns- og personalforvaltning)",
+        "legal_basis_used_in_category": "Offl § 23.1",
+        "system": "Public 360",
+        "systemSortOrder": "180"
+    },
+    {
+        "name_or_description": "Offl § 23.2 (Rammeavtaler med landbruks-, fiskeri- og reindriftsorganisasjonaner)",
+        "legal_basis_used_in_category": "Offl § 23.2",
+        "system": "Public 360",
+        "systemSortOrder": "190"
+    },
+    {
+        "name_or_description": "Offl § 23.4 (Unntak for dokumenter med eierinteresser)",
+        "legal_basis_used_in_category": "Offl § 23.4",
+        "system": "Public 360",
+        "systemSortOrder": "210"
+    },
+    {
+        "name_or_description": "Offl § 24.1 (Motvirke offentlige kontroll- eller reguleringstiltak)",
+        "legal_basis_used_in_category": "Offl § 24.1",
+        "system": "Public 360",
+        "systemSortOrder": "220"
+    },
+    {
+        "name_or_description": "Offl § 24.2 (Anmeldelse, rapport og annet dokument om lovovertredelse)",
+        "legal_basis_used_in_category": "Offl § 24.2",
+        "system": "Public 360",
+        "systemSortOrder": "230"
+    },
+    {
+        "name_or_description": "Offl § 24.3 (Opplysninger for å unngå straffbare handlinger)",
+        "legal_basis_used_in_category": "Offl § 24.3",
+        "system": "Public 360",
+        "systemSortOrder": "240"
+    },
+    {
+        "name_or_description": "Offl § 25 (Dokument i sak om ansettelse eller forfremmelse i off. tjeneste)",
+        "legal_basis_used_in_category": "Offl § 25",
+        "system": "Public 360",
+        "systemSortOrder": "250"
+    },
+    {
+        "name_or_description": "Offl § 26.1 (Besvarelse av eksamen e.l. prøve samt utkast til konkurranse e.l.)",
+        "legal_basis_used_in_category": "Offl § 26.1",
+        "system": "Public 360",
+        "systemSortOrder": "260"
+    },
+    {
+        "name_or_description": "Offl § 26.2 (Priser, hederstegn o.l. inntil tildeling er gjort))",
+        "legal_basis_used_in_category": "Offl § 26.2",
+        "system": "Public 360",
+        "systemSortOrder": "270"
+    },
+    {
+        "name_or_description": "Offl § 26.3 (Unntak for opplysninger i personregister)",
+        "legal_basis_used_in_category": "Offl § 26.3",
+        "system": "Public 360",
+        "systemSortOrder": "280"
+    },
+    {
+        "name_or_description": "Offl § 27 (Forskriftshjemmel)",
+        "legal_basis_used_in_category": "Offl § 27",
+        "system": "Public 360",
+        "systemSortOrder": "290"
+    },
+    {
+        "code": "11",
+        "name_or_description": "Unntatt etter offentlighetsloven § 11",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "5",
+        "name_or_description": "Utsett innsyn etter offentleglovas § 5",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "5a",
+        "name_or_description": "Unntatt etter offentlighetsloven § 5a",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "6",
+        "name_or_description": "Unntatt etter offentlighetsloven § 6",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsesaker",
+        "system": "Ephorte",
+        "valid_from": "09.02.2007",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "BS",
+        "name_or_description": "Barnehagesaker",
+        "system": "Ephorte",
+        "valid_from": "20.03.2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "system": "Ephorte",
+        "valid_from": "20.03.2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen",
+        "system": "Ephorte",
+        "valid_from": "01.04.2008",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "IP",
+        "name_or_description": "Ikke publisert",
+        "system": "Ephorte",
+        "valid_from": "07.11.2007",
+        "valid_to": "01.11.2014"
+    },
+    {
+        "code": "IS",
+        "name_or_description": "Innfordring - skatt",
+        "system": "Ephorte",
+        "valid_from": "20.03.2006",
+        "valid_to": "01.01.2014"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtedokument unntatt offentlighet",
+        "system": "Ephorte",
+        "valid_from": "20.03.2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "system": "Ephorte",
+        "valid_from": "28.03.2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "PA",
+        "name_or_description": "Pasientsaker",
+        "system": "Ephorte",
+        "valid_from": "26.02.2013",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen",
+        "system": "Ephorte",
+        "valid_from": "01.04.2006",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "system": "Ephorte",
+        "valid_from": "20.03.2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "UP",
+        "name_or_description": "Unntatt offentlighet",
+        "system": "Ephorte",
+        "valid_from": "07.04.2009",
+        "valid_to": "15.04.2009"
+    }
+]

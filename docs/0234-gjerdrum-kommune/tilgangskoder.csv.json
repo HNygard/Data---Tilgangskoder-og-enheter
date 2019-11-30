@@ -1,0 +1,169 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsessak",
+        "valid_from": "10/30/2007"
+    },
+    {
+        "code": "AS",
+        "name_or_description": "UTGÅR - BRUK TILGANGSKODE A",
+        "valid_from": "5/5/2006",
+        "valid_to": "12/18/2008"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "BB",
+        "name_or_description": "Beboere/brukere bo- og behandlingssenteret",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "BO",
+        "name_or_description": "Bostøtte",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "Dp",
+        "name_or_description": "Disiplinærsak",
+        "valid_from": "8/1/2017"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "E4",
+        "name_or_description": "Elevsaker nivå 4",
+        "valid_from": "4/5/2016"
+    },
+    {
+        "code": "EF",
+        "name_or_description": "Ergo- og fysioterapi",
+        "valid_from": "3/10/2006"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "FL",
+        "name_or_description": "Flyktninger",
+        "valid_from": "2/16/2011"
+    },
+    {
+        "code": "G",
+        "name_or_description": "Gjeldsrådgivning",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "HV",
+        "name_or_description": "Hovedvernombud",
+        "valid_from": "4/4/2018"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Kommunal innfordring",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "KB",
+        "name_or_description": "Søkere kommunale boliger",
+        "valid_from": "3/10/2006"
+    },
+    {
+        "code": "KO",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Offentlig protokoll/offentlig innkalling for møtesekretærer",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Offentlig",
+        "valid_from": "3/1/2010"
+    },
+    {
+        "code": "OF",
+        "name_or_description": "Overformynderiet",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "12/10/2008"
+    },
+    {
+        "code": "P4",
+        "name_or_description": "Personalsaker nivå 4",
+        "valid_from": "4/5/2016"
+    },
+    {
+        "code": "P5",
+        "name_or_description": "Personalsaker/disiplinærsaker",
+        "valid_from": "8/14/2017"
+    },
+    {
+        "code": "PT",
+        "name_or_description": "Parkeringstillatelse",
+        "valid_from": "3/10/2006"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "SH",
+        "name_or_description": "Strengt hemmelig etter sikkerhetsinstruksen",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "ST",
+        "name_or_description": "Startlån",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "U4",
+        "name_or_description": "Unntatt offentlighet nivå 4",
+        "valid_from": "4/5/2016"
+    },
+    {
+        "code": "UM",
+        "name_or_description": "Matrikkelloven",
+        "valid_from": "3/21/2013"
+    },
+    {
+        "code": "V",
+        "name_or_description": "Vigsel",
+        "valid_from": "12/4/2017"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "5/22/2006"
+    }
+]

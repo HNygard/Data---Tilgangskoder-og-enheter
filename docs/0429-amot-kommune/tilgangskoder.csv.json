@@ -1,0 +1,67 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelse",
+        "valid_from": "01.10.2007"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "DS",
+        "name_or_description": "Disiplinærsak",
+        "valid_from": "23.04.2019"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Personsensitiv",
+        "valid_from": "04.10.2019"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Svar inn",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagearkiv",
+        "valid_from": "11.12.2003"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsak",
+        "valid_from": "11.12.2003"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Offentlig innkalling / protokoll for møtesekretærer",
+        "valid_from": "11.12.2003"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "11.12.2003"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "11.12.2003"
+    }
+]

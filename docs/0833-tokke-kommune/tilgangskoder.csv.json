@@ -1,0 +1,169 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "AB",
+        "name_or_description": "Avslutta barnehagearkiv 2007 - 2017",
+        "valid_from": "28.12.2017"
+    },
+    {
+        "code": "AF",
+        "name_or_description": "Arbeidsforhold",
+        "valid_from": "12.09.2013"
+    },
+    {
+        "code": "AV",
+        "name_or_description": "Avslutta Elevarkiv 2007 - 2017",
+        "valid_from": "27.12.2017"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven",
+        "valid_from": "31.12.2008"
+    },
+    {
+        "code": "B2",
+        "name_or_description": "Avslutta barnehagearkiv 2018 - 2022",
+        "valid_from": "27.09.2018"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "BV",
+        "name_or_description": "Barnevern",
+        "valid_from": "01.10.2014"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Disiplinrsaker",
+        "valid_from": "21.01.2013"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen",
+        "valid_from": "31.12.2008"
+    },
+    {
+        "code": "FS",
+        "name_or_description": "Flyktningsaker",
+        "valid_from": "13.06.2016"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven",
+        "valid_from": "31.12.2008"
+    },
+    {
+        "code": "HP",
+        "name_or_description": "Helse- og Pleiesaker",
+        "valid_from": "28.06.2007",
+        "valid_to": "01.01.2012"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven",
+        "valid_from": "31.12.2008"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "31.12.2008"
+    },
+    {
+        "code": "LE",
+        "name_or_description": "Utgr",
+        "valid_from": "01.01.2012",
+        "valid_to": "01.01.2012"
+    },
+    {
+        "code": "LG",
+        "name_or_description": "Leiargruppa",
+        "valid_from": "01.01.2013"
+    },
+    {
+        "code": "LH",
+        "name_or_description": "Logopedhjelp",
+        "valid_from": "08.02.2019"
+    },
+    {
+        "code": "LM",
+        "name_or_description": "Lagsmter oppvekst",
+        "valid_from": "01.08.2014"
+    },
+    {
+        "code": "LO",
+        "name_or_description": "Leiargruppe Omsorg",
+        "valid_from": "01.10.2013"
+    },
+    {
+        "code": "L",
+        "name_or_description": "Lnsforhandlingar",
+        "valid_from": "02.10.2013"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Mtebehandling",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Overformynderiet",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "OP",
+        "name_or_description": "Leiargruppe Oppvekst",
+        "valid_from": "04.01.2016"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "31.10.2007"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen",
+        "valid_from": "31.12.2008"
+    },
+    {
+        "code": "SJ",
+        "name_or_description": "Sjukefrvr",
+        "valid_from": "21.01.2014"
+    },
+    {
+        "code": "SL",
+        "name_or_description": "Sosiallrar",
+        "valid_from": "10.11.2014"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "V",
+        "name_or_description": "Varslingssaker",
+        "valid_from": "21.01.2013"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "21.08.2019"
+    }
+]

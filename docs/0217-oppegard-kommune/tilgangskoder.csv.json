@@ -1,0 +1,33 @@
+[
+    {
+        "name_or_description": "Ugradert"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset"
+    },
+    {
+        "code": "BH",
+        "name_or_description": "Indivimappe barnehage"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlig"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret"
+    }
+]

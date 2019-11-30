@@ -1,0 +1,110 @@
+[
+    {
+        "code": "14",
+        "name_or_description": "Organinterne dokumenter"
+    },
+    {
+        "code": "15",
+        "name_or_description": "Interne dokumenter innhentet utenfra"
+    },
+    {
+        "code": "17",
+        "name_or_description": "Kongelige Hoff"
+    },
+    {
+        "code": "18",
+        "name_or_description": "Rettssaksdokumenter"
+    },
+    {
+        "code": "20",
+        "name_or_description": "Utenrikspolitiske interesser"
+    },
+    {
+        "code": "21",
+        "name_or_description": "Forsvars- og tryggingsinteresser"
+    },
+    {
+        "code": "22",
+        "name_or_description": "Budsjettsaker"
+    },
+    {
+        "code": "23",
+        "name_or_description": "Forhandlingsposisjon"
+    },
+    {
+        "code": "24",
+        "name_or_description": "Kontroll- og reguleringstiltak"
+    },
+    {
+        "code": "26",
+        "name_or_description": "Eksamen og karakterer"
+    },
+    {
+        "code": "5",
+        "name_or_description": "Unntatt etter offentlighetsloven § 5"
+    },
+    {
+        "code": "AL",
+        "name_or_description": "Avløserordningen - landbruk"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker"
+    },
+    {
+        "code": "KS",
+        "name_or_description": "Det kongelige slott – ikke omfattet av Offentleglova"
+    },
+    {
+        "code": "mu",
+        "name_or_description": "Møtedokument unntatt offentligheten"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker"
+    },
+    {
+        "code": "PA",
+        "name_or_description": "Ansettelsessaker"
+    },
+    {
+        "code": "PE",
+        "name_or_description": "Tidligpensjon – landbruket"
+    },
+    {
+        "code": "PL",
+        "name_or_description": "Personal lønnsforhandling og disiplinærsaker"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "TA",
+        "name_or_description": "Taushetsplikt – begrenset ansatte"
+    },
+    {
+        "code": "TP",
+        "name_or_description": "Unntatt etter Offl § 13 Taushetsplikt"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret"
+    }
+]

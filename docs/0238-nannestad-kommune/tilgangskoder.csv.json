@@ -1,0 +1,102 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelse"
+    },
+    {
+        "code": "AB",
+        "name_or_description": "Avtaler barnevern"
+    },
+    {
+        "code": "AK",
+        "name_or_description": "Avtaler/kontrakter"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker"
+    },
+    {
+        "code": "BP",
+        "name_or_description": "Beredskapsplaner"
+    },
+    {
+        "code": "DP",
+        "name_or_description": "Disiplinærsaker"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "I",
+        "name_or_description": "Innfordringssaker"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Offentlig protokoll/offentlig innkalling for møtesekretærer"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Oppfølgingssaker"
+    },
+    {
+        "code": "OF",
+        "name_or_description": "Overformynderiet"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesintstruksen"
+    },
+    {
+        "code": "ST",
+        "name_or_description": "Startlån"
+    },
+    {
+        "code": "TI",
+        "name_or_description": "Tilsettingssaker"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet"
+    },
+    {
+        "code": "UF",
+        "name_or_description": "Unntak for fødselsnummer i dokumentet"
+    },
+    {
+        "code": "V",
+        "name_or_description": "Kommunal vielse"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret"
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Brukers ved ansettelsesprosseser",
+        "legal_basis_used_in_category": "offl.§ 25",
+        "valid_from": "16.01.2008"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Barnehagesaker - alt som omhandler bhg barn",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker - alt som omhandler en grunnskoleelev",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "18.10.2007"
+    },
+    {
+        "code": "E1",
+        "name_or_description": "Elevsak med hemmelig adresse",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "01.07.2012"
+    },
+    {
+        "code": "EI",
+        "legal_basis_used_in_category": "offl.§ 23, 4.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "EX",
+        "legal_basis_used_in_category": "offl.§ 26",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "FT",
+        "legal_basis_used_in_category": "offl.§ 21",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "FU",
+        "legal_basis_used_in_category": "offl.§ 20",
+        "valid_from": "23.08.2018"
+    },
+    {
+        "code": "I1",
+        "legal_basis_used_in_category": "offl.§ 15",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "I2",
+        "legal_basis_used_in_category": "offl.§ 15, 3.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "IS",
+        "legal_basis_used_in_category": "offl.§ 14, 1.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "KH",
+        "legal_basis_used_in_category": "offl.§ 17",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "KR",
+        "legal_basis_used_in_category": "offl.§ 24, 1.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "LO",
+        "legal_basis_used_in_category": "offl.§ 24, 2.og 3.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "MU",
+        "valid_from": "18.10.2007"
+    },
+    {
+        "code": "NR",
+        "valid_from": "20.09.2013"
+    },
+    {
+        "code": "OI",
+        "legal_basis_used_in_category": "offl.§ 23, 3.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "OP",
+        "legal_basis_used_in_category": "offl.§ 23, 1.ledd",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "P",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "08.11.2007"
+    },
+    {
+        "code": "P3",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "13.04.2016"
+    },
+    {
+        "code": "P4",
+        "name_or_description": "Brukes for personalsaker som gjelder ansatte med arkivrettigheter (som har generell tilgang til alle personalsaker, men ikke skal ha til sine egne). Ledere for arkiv og personalavd skal ha rettigheter til koden.",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "29.02.2012"
+    },
+    {
+        "code": "P5",
+        "name_or_description": "Brukes personalsaker hvor sakens karakter tilsier at en mest mulig begrenset gruppe har tilgang til saken. Tilgang gitt kun til personalsjef, kommuneadvokaten arkivleder og systemansvarlig. Ikke tilgang for arkivet.",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "01.01.2013"
+    },
+    {
+        "code": "PS",
+        "valid_from": "29.06.2008"
+    },
+    {
+        "code": "RD",
+        "legal_basis_used_in_category": "offl.§ 12",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "RE",
+        "legal_basis_used_in_category": "offl.§ 18",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Brukes ved journalføring av skattesaker",
+        "legal_basis_used_in_category": "offl.§ 13 / SBL § 3-2",
+        "valid_from": "18.10.2007"
+    },
+    {
+        "code": "TF",
+        "legal_basis_used_in_category": "offl.§ 13 / fvl.§ 13",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "TH",
+        "legal_basis_used_in_category": "offl.§ 13 / HPL § 21",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "TK",
+        "name_or_description": "Brukes av kommuneadvokatene",
+        "legal_basis_used_in_category": "Strl. § 211",
+        "valid_from": "24.09.2014"
+    },
+    {
+        "code": "UI",
+        "legal_basis_used_in_category": "offl.§ 5",
+        "valid_from": "05.02.2009"
+    },
+    {
+        "code": "XX",
+        "valid_from": "07.11.2007"
+    },
+    {
+        "code": "4",
+        "valid_from": "17.10.2007",
+        "valid_to": "16.06.2008"
+    },
+    {
+        "code": "51",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "52",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "53",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "5a",
+        "valid_from": "26.10.2007",
+        "valid_to": "26.10.2007"
+    },
+    {
+        "code": "5F",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "5H",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "61",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "62",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "63",
+        "valid_from": "22.02.2008",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "64",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "65",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "BA",
+        "valid_from": "18.10.2007",
+        "valid_to": "31.12.2008"
+    },
+    {
+        "code": "O",
+        "valid_from": "30.06.2008",
+        "valid_to": "01.05.2016"
+    },
+    {
+        "code": "ØP",
+        "valid_from": "05.02.2009",
+        "valid_to": "22.01.2017"
+    }
+]

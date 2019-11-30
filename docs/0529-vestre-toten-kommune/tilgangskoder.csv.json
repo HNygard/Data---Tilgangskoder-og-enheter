@@ -1,0 +1,190 @@
+[
+    {
+        "code": "BFA",
+        "name_or_description": "Brannvern"
+    },
+    {
+        "code": "BHA",
+        "name_or_description": "Barnehager"
+    },
+    {
+        "code": "BøB",
+        "name_or_description": "Bøverbru barnehage"
+    },
+    {
+        "code": "EIB",
+        "name_or_description": "Eina barnehage"
+    },
+    {
+        "code": "VEB",
+        "name_or_description": "Vestrumenga barnehage"
+    },
+    {
+        "code": "VMB",
+        "name_or_description": "Veltmanåa barnehage"
+    },
+    {
+        "code": "GRA",
+        "name_or_description": "Administrasjonen"
+    },
+    {
+        "code": "BøV",
+        "name_or_description": "Bøverbru skole"
+    },
+    {
+        "code": "GSA",
+        "name_or_description": "Grunnskole"
+    },
+    {
+        "code": "KORT",
+        "name_or_description": "Korta skole"
+    },
+    {
+        "code": "RAB",
+        "name_or_description": "Raufoss skole"
+    },
+    {
+        "code": "RAU",
+        "name_or_description": "Raufoss ungdomsskole"
+    },
+    {
+        "code": "REB",
+        "name_or_description": "Reinsvoll skole"
+    },
+    {
+        "code": "REU",
+        "name_or_description": "Reinsvoll ungdomsskole"
+    },
+    {
+        "code": "THU",
+        "name_or_description": "Thune skole"
+    },
+    {
+        "code": "VTU",
+        "name_or_description": "Vestre Toten ungdomsskole"
+    },
+    {
+        "code": "KUA",
+        "name_or_description": "Kultur"
+    },
+    {
+        "code": "KUB",
+        "name_or_description": "Folkebiblioteket"
+    },
+    {
+        "code": "KUS",
+        "name_or_description": "Kulturskolen"
+    },
+    {
+        "code": "LTA",
+        "name_or_description": "Helse"
+    },
+    {
+        "code": "NAV",
+        "name_or_description": "NAV Vestre Toten"
+    },
+    {
+        "code": "SAA",
+        "name_or_description": "Sosial"
+    },
+    {
+        "code": "OFA",
+        "name_or_description": "Ordføreren"
+    },
+    {
+        "code": "PLA",
+        "name_or_description": "Plan"
+    },
+    {
+        "code": "PO",
+        "name_or_description": "Personvernombud"
+    },
+    {
+        "code": "RMA",
+        "name_or_description": "Rådmannen"
+    },
+    {
+        "code": "RMU",
+        "name_or_description": "Utviklingsenheten"
+    },
+    {
+        "code": "SEA",
+        "name_or_description": "Sentral stab og støtte"
+    },
+    {
+        "code": "SEF",
+        "name_or_description": "Eiendomsavdelingen"
+    },
+    {
+        "code": "SIA",
+        "name_or_description": "Skatte- og innfordringsavdeling"
+    },
+    {
+        "code": "TB",
+        "name_or_description": "Totenbadet"
+    },
+    {
+        "code": "TDA",
+        "name_or_description": "Teknisk driftsavdeling"
+    },
+    {
+        "code": "VOA",
+        "name_or_description": "Voksenopplæringen"
+    },
+    {
+        "code": "ÅOA",
+        "name_or_description": "Omsorg"
+    },
+    {
+        "code": "ÅOEK",
+        "name_or_description": "Elvesvingen omsorgboliger /Kirkevegen avlastningssenter"
+    },
+    {
+        "code": "ÅOG",
+        "name_or_description": "Gimle sykehjem"
+    },
+    {
+        "code": "ÅOGO",
+        "name_or_description": "Gimlevegen o-boliger"
+    },
+    {
+        "code": "ÅOGT",
+        "name_or_description": "Gimletun o-boliger"
+    },
+    {
+        "code": "ÅOHJ",
+        "name_or_description": "Vestre Toten hjemmetjenester"
+    },
+    {
+        "code": "ÅOK",
+        "name_or_description": "Korterudvegen omsorgsboliger"
+    },
+    {
+        "code": "ÅOP",
+        "name_or_description": "Psykisk helse- og rustjeneste"
+    },
+    {
+        "code": "ÅODA",
+        "name_or_description": "Dagsenterdrift utenfor inst."
+    },
+    {
+        "code": "ÅOR",
+        "name_or_description": "Raufosstun helsehus"
+    },
+    {
+        "code": "ÅORO",
+        "name_or_description": "Raufosstun o-boliger"
+    },
+    {
+        "code": "ÅOS",
+        "name_or_description": "Vestre Toten storkjøkken /vaskeri"
+    },
+    {
+        "code": "ÅOSU",
+        "name_or_description": "Sundskogvegen omsorgsboliger"
+    },
+    {
+        "code": "ÅOYT",
+        "name_or_description": "Ytterskogvegen /Tyttebærstien omsorgsboliger"
+    }
+]

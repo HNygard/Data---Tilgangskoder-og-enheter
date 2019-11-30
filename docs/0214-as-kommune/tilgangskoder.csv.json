@@ -1,0 +1,56 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ugradert",
+        "systemSortOrder": "0"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset",
+        "systemSortOrder": "10",
+        "valid_from": "5/7/2013"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig",
+        "systemSortOrder": "40",
+        "valid_from": "5/7/2013"
+    },
+    {
+        "code": "PRO",
+        "name_or_description": "Prosjekt",
+        "systemSortOrder": "100"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Untatt offentlighet",
+        "systemSortOrder": "100"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Utsatt innsyn",
+        "systemSortOrder": "100",
+        "valid_from": "6/4/2016"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personal",
+        "systemSortOrder": "110"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "systemSortOrder": "120",
+        "valid_from": "4/21/2016"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Barn",
+        "systemSortOrder": "130"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elev",
+        "systemSortOrder": "140"
+    }
+]

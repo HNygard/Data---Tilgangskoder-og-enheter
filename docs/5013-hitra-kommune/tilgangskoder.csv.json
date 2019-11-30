@@ -1,0 +1,166 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsessaker  (UTGÅR 1.1.09)",
+        "valid_from": "03.05.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "A2",
+        "name_or_description": "Ansettelselsaker -  NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven  (UTGÅR 1.1.09)",
+        "valid_from": "01.10.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "B1",
+        "name_or_description": "Barnehagesaker - Ny fra 1.1.09",
+        "valid_from": "08.01.2009"
+    },
+    {
+        "code": "B2",
+        "name_or_description": "Barnehagesaker - Går ut.",
+        "valid_from": "02.01.2009",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker  (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Disiplinærsaker  (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker   (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "E2",
+        "name_or_description": "Elevsaker - NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen (UTGÅR  1.1.09)",
+        "valid_from": "01.10.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven  (UTGÅR 1.1.09)",
+        "valid_from": "01.10.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "H2",
+        "name_or_description": "Helse- pg pleiesaker - NY fra 1.1.09.",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "HP",
+        "name_or_description": "Helse- og pleiesaker  (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "IF",
+        "name_or_description": "Intern saksforberedelse",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "IN",
+        "name_or_description": "Intern skjerming",
+        "valid_from": "24.02.2015"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven  (UTGÅR 1.1.09)",
+        "valid_from": "01.10.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtebehandling",
+        "valid_from": "24.04.2007"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker (UTGÅR 1.1.09)",
+        "valid_from": "12.09.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "P2",
+        "name_or_description": "Personalsaker - NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "PV",
+        "name_or_description": "Personvern og publisering",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker  (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "S2",
+        "name_or_description": "Skattesaker - NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen (UTGÅR 1.1.09)",
+        "valid_from": "01.10.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "TP",
+        "name_or_description": "Taushetsplikt",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet  (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "U2",
+        "name_or_description": "Unntatt offentlighet  - NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "UF",
+        "name_or_description": "Utenriks Forsvar- og kongehus - NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "12.02.2018"
+    },
+    {
+        "code": "Ø",
+        "name_or_description": "Økonomisaker (UTGÅR 1.1.09)",
+        "valid_from": "24.04.2007",
+        "valid_to": "01.01.2009"
+    },
+    {
+        "code": "Ø2",
+        "name_or_description": "Økonomisaker - NY fra 1.1.09",
+        "valid_from": "01.01.2009"
+    }
+]

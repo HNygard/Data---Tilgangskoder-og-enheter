@@ -1,0 +1,105 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Harstad Havn - ansatt",
+        "valid_from": "22.12.2015"
+    },
+    {
+        "code": "DS",
+        "name_or_description": "Disiplinærsaker (sikret sone)",
+        "valid_from": "05.02.2015"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Barn og elever",
+        "valid_from": "01.01.2010"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Barn og elever (sikret sone)",
+        "valid_from": "20.01.2015"
+    },
+    {
+        "code": "FS",
+        "name_or_description": "Fortrolige saker SDT/PER (sikret sone)",
+        "valid_from": "01.01.2019"
+    },
+    {
+        "code": "I",
+        "name_or_description": "Innfordringer",
+        "valid_from": "01.01.2014"
+    },
+    {
+        "code": "IS",
+        "name_or_description": "Innfordringer (sikret sone)",
+        "valid_from": "21.05.2019"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Offentlig innkalling og møteprotokoll",
+        "valid_from": "04.09.2002"
+    },
+    {
+        "code": "OS",
+        "name_or_description": "Sykefravær - ansatte (sikret sone)",
+        "valid_from": "19.09.2019"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Ansattsaker",
+        "valid_from": "01.02.2005"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Ansattsaker (Sikret sone)",
+        "valid_from": "20.01.2015"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "01.11.2013"
+    },
+    {
+        "code": "SI",
+        "name_or_description": "Begrenset etter lov om sikkerhetstjeneste",
+        "valid_from": "04.09.2002",
+        "valid_to": "04.03.2013"
+    },
+    {
+        "code": "SS",
+        "name_or_description": "Skattesaker (sikret sone)",
+        "valid_from": "12.04.2019"
+    },
+    {
+        "code": "T",
+        "name_or_description": "Spesialpedagogiske saker",
+        "valid_from": "04.09.2002",
+        "valid_to": "05.02.2015"
+    },
+    {
+        "code": "TS",
+        "name_or_description": "TT-kort (sikret sone)",
+        "valid_from": "28.11.2018"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentligheten",
+        "valid_from": "04.09.2002"
+    },
+    {
+        "code": "US",
+        "name_or_description": "Unntatt offentligheten (sikret sone)",
+        "valid_from": "20.01.2015"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "01.02.2005"
+    },
+    {
+        "code": "Å",
+        "name_or_description": "Fordelingssak",
+        "valid_from": "12.06.2018",
+        "valid_to": "12.06.2018"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "code": "AU",
+        "name_or_description": "Attføringsutvalg",
+        "valid_from": "3/23/2010"
+    },
+    {
+        "code": "V",
+        "name_or_description": "Varslingssaker",
+        "valid_from": "1/1/2010"
+    },
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsessak",
+        "valid_from": "9/15/2010"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møteprotokoll unntatt offentlighet",
+        "valid_from": "5/4/2005"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "1/1/2009"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "8/15/2018"
+    },
+    {
+        "code": "U",
+        "name_or_description": "U.off",
+        "valid_from": "12/6/2004"
+    },
+    {
+        "code": "L",
+        "name_or_description": "Lønnstrekk",
+        "valid_from": "4/15/2015"
+    },
+    {
+        "code": "PA",
+        "name_or_description": "Arkiv",
+        "valid_from": "6/8/2016"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Tilgang kun for org.sjef og arkivleder",
+        "valid_from": "1/18/2018"
+    },
+    {
+        "code": "PM",
+        "name_or_description": "Personalmapper",
+        "valid_from": "10/11/2018"
+    },
+    {
+        "code": "LS",
+        "name_or_description": "Kommunelege",
+        "valid_from": "12/4/2018"
+    },
+    {
+        "code": "BV",
+        "name_or_description": "Barnevern",
+        "valid_from": "10/25/2019"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "12/16/2004",
+        "valid_to": "4/10/2014"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "codeSystemId": "1"
+    },
+    {
+        "code": "IS",
+        "name_or_description": "Intern skjerming",
+        "codeSystemId": "10"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Oppdragsavtaler funksjonshemmede",
+        "codeSystemId": "11"
+    },
+    {
+        "code": "IT",
+        "name_or_description": "Ikke publisert, personopplysningsloven § 8",
+        "codeSystemId": "12"
+    },
+    {
+        "code": "SP",
+        "name_or_description": "Spes. ped.",
+        "codeSystemId": "13"
+    },
+    {
+        "code": "FL",
+        "name_or_description": "Flyktningetjenesten",
+        "codeSystemId": "14"
+    },
+    {
+        "code": "HR",
+        "name_or_description": "Personalstabens dokumenter",
+        "codeSystemId": "15"
+    },
+    {
+        "code": "SA",
+        "name_or_description": "Bedrifters tekn innretninger",
+        "codeSystemId": "16"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Unntatt offentlighet",
+        "codeSystemId": "17"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Unntatt offentlighet",
+        "codeSystemId": "18"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "codeSystemId": "3"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Unntatt for offentlighet (for skattesaker)",
+        "codeSystemId": "4"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "codeSystemId": "5"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "codeSystemId": "6"
+    }
+]

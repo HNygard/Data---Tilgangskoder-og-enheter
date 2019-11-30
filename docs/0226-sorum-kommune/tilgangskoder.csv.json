@@ -1,0 +1,17 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ugradert",
+        "systemSortOrder": "0"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "systemSortOrder": "100"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "systemSortOrder": "100"
+    }
+]

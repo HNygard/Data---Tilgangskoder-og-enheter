@@ -1,0 +1,66 @@
+[
+    {
+        "code": "AF",
+        "name_or_description": "Forskningsavvik"
+    },
+    {
+        "code": "AI",
+        "name_or_description": "Anskaffelse innkjøp"
+    },
+    {
+        "code": "AR",
+        "name_or_description": "Under arbeid - midlertidig tilgangskode"
+    },
+    {
+        "code": "FO",
+        "name_or_description": "Forskningssaker"
+    },
+    {
+        "code": "OF",
+        "name_or_description": "Unntatt etter offenteglova ved UiO"
+    },
+    {
+        "code": "OS",
+        "name_or_description": "Studentombud"
+    },
+    {
+        "code": "PD",
+        "name_or_description": "Disiplinærsaker personal"
+    },
+    {
+        "code": "PO",
+        "name_or_description": "Personers økonomiske forhold"
+    },
+    {
+        "code": "PR",
+        "name_or_description": "Rettssaker"
+    },
+    {
+        "code": "PV",
+        "name_or_description": "Personalsaker"
+    },
+    {
+        "code": "SD",
+        "name_or_description": "Disiplinærsaker studenter"
+    },
+    {
+        "code": "ST",
+        "name_or_description": "Student tilrettelegging (gis alltid for nivå UiO)"
+    },
+    {
+        "code": "SV",
+        "name_or_description": "Studentsaker generelt"
+    },
+    {
+        "code": "US",
+        "name_or_description": "Unntatt etter offentleglova ved SO"
+    },
+    {
+        "code": "VA",
+        "name_or_description": "Varsling ansatte"
+    },
+    {
+        "code": "VS",
+        "name_or_description": "Varsling studenter"
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven",
+        "valid_from": "01.11.2018"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "bu",
+        "name_or_description": "barne- og ungdomsarbeider",
+        "valid_from": "22.10.2009"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Disiplinærsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "EA",
+        "name_or_description": "Ekstra elev",
+        "valid_from": "17.03.2015"
+    },
+    {
+        "code": "EB",
+        "name_or_description": "Ekstra barn",
+        "valid_from": "27.04.2016"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Elev sosiallærar",
+        "valid_from": "28.08.2018"
+    },
+    {
+        "code": "EX",
+        "name_or_description": "Elev nivå 4",
+        "valid_from": "03.12.2015"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven",
+        "valid_from": "01.11.2018"
+    },
+    {
+        "code": "HP",
+        "name_or_description": "Helse og pleiesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "01.03.2008"
+    },
+    {
+        "code": "LO",
+        "name_or_description": "Logoped",
+        "valid_from": "17.01.2013"
+    },
+    {
+        "code": "MB",
+        "name_or_description": "Medarbeidersamtale m.m. Barnehagen",
+        "valid_from": "05.04.2018"
+    },
+    {
+        "code": "MS",
+        "name_or_description": "Medarbeidersamtaler m.m. skule og kultur",
+        "valid_from": "05.04.2018"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtebehandling",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "NU",
+        "name_or_description": "Næringssaker unnateke",
+        "valid_from": "17.03.2011"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "30.10.2007"
+    },
+    {
+        "code": "PA",
+        "name_or_description": "Ekstra personalsak",
+        "valid_from": "08.04.2010"
+    },
+    {
+        "code": "PB",
+        "name_or_description": "Berit, Eva og Ketil Ekstra HO",
+        "valid_from": "24.10.2012"
+    },
+    {
+        "code": "PF",
+        "name_or_description": "Lønsforhandlingar",
+        "valid_from": "17.09.2008"
+    },
+    {
+        "code": "PH",
+        "name_or_description": "Personal HO a-b-e",
+        "valid_from": "27.01.2016"
+    },
+    {
+        "code": "PL",
+        "name_or_description": "Pedleiarar bhg",
+        "valid_from": "27.10.2010"
+    },
+    {
+        "code": "PO",
+        "name_or_description": "Oppfølging personal",
+        "valid_from": "18.08.2010"
+    },
+    {
+        "code": "PP",
+        "name_or_description": "Ikkje bruk denne - Personnummer personal",
+        "valid_from": "15.02.2012",
+        "valid_to": "17.04.2012"
+    },
+    {
+        "code": "PX",
+        "name_or_description": "Personal nivå 4",
+        "valid_from": "02.12.2015"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unnateke offentlegheit",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "UA",
+        "name_or_description": "Anmeldelse - påtale unnatekeoff",
+        "valid_from": "29.11.2013"
+    },
+    {
+        "code": "UK",
+        "name_or_description": "Kulturprisar",
+        "valid_from": "08.03.2011"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Internt Eva",
+        "valid_from": "10.02.2014"
+    },
+    {
+        "code": "UP",
+        "name_or_description": "Ekstra unnateke offentlegheita",
+        "valid_from": "21.07.2010"
+    },
+    {
+        "code": "US",
+        "name_or_description": "Unnateke personopplysningar td startlån, flyktningar, krav",
+        "valid_from": "12.02.2016"
+    },
+    {
+        "code": "VA",
+        "name_or_description": "Varslingssaker",
+        "valid_from": "23.10.2014"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "01.11.2007"
+    }
+]

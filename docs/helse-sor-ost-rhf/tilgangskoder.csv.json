@@ -1,0 +1,140 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ugradert"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet"
+    },
+    {
+        "code": "PAS",
+        "name_or_description": "Pasient",
+        "legal_basis_used_in_category": "Følgende paragrafer skal være tilgjengelig ved bruk av tilgangskoden PAS:\nOffl. § 13 jf. Fvl. § 13.1 første ledd"
+    },
+    {
+        "code": "PERS",
+        "name_or_description": "Personal",
+        "legal_basis_used_in_category": "Følgende paragrafer skal være tilgjengelig ved bruk av tilgangskoden PERS:\nOffl. § 13\nOffl. § 23\nOffl. § 25\nOffl. § 14"
+    },
+    {
+        "note": "Utsett innsyn",
+        "legal_basis_used_in_category": "Offl § 5"
+    },
+    {
+        "note": "Utsett innsyn, Rrevl § 18.2 Utsatt offentlighet",
+        "legal_basis_used_in_category": "Offl § 5, Rrevl § 18.2"
+    },
+    {
+        "note": "Hovudregel om gratis innsyn",
+        "legal_basis_used_in_category": "Offl. § 8"
+    },
+    {
+        "note": "Rett til å krevje innsyn i ei samanstilling frå databasar",
+        "legal_basis_used_in_category": "Offl. § 9"
+    },
+    {
+        "note": "Plikt til å føre journal. Tilgjengeleggjering av journaler og dokument på internett",
+        "legal_basis_used_in_category": "Offl. § 10"
+    },
+    {
+        "note": "Meirinnsyn",
+        "legal_basis_used_in_category": "Offl. § 11"
+    },
+    {
+        "note": "Unntak for resten av dokumentet",
+        "legal_basis_used_in_category": "Offl.  § 12"
+    },
+    {
+        "note": "Opplysningar som er underlagde teieplikt jf Forvaltningsloven § 13.1 første ledd",
+        "legal_basis_used_in_category": "Offl. § 13 jf. Fvl. § 13"
+    },
+    {
+        "note": "Opplysningar som er underlagde teieplikt jf Helsepersonellloven § 21",
+        "legal_basis_used_in_category": "Offl. § 13 jf. Hlspl. § 21"
+    },
+    {
+        "note": "Offl §13 jf. Pasjl § 15 (behandler av helseopplysninger har taushetsplikt etter Helsepersonelloven §21",
+        "legal_basis_used_in_category": "Offl §13 jf.Pjl §15"
+    },
+    {
+        "note": "Dokument utarbeidde for eiga saksførebuing (organinterne dokument)",
+        "legal_basis_used_in_category": "Offl. § 14"
+    },
+    {
+        "note": "Dokument innhenta utanfrå for den interne saksførebuinga",
+        "legal_basis_used_in_category": "Offl. § 15"
+    },
+    {
+        "note": "Unntak for rettsaksdokument",
+        "legal_basis_used_in_category": "Offl. § 18"
+    },
+    {
+        "note": "Unntak av omsyn til Noregs utanrikspolitiske interesser",
+        "legal_basis_used_in_category": "Offl § 20"
+    },
+    {
+        "note": "Unntak av omsyn til nasjonale forsvars- og tryggingsinteresser",
+        "legal_basis_used_in_category": "Offl § 21"
+    },
+    {
+        "note": "Unntak i visse budsjettsaker",
+        "legal_basis_used_in_category": "Offl.  § 22"
+    },
+    {
+        "note": "Unntak av omsyn til det offentlege sin forhandlingsposisjon m.m Økonomi- lønns-, eller personalforvaltning",
+        "legal_basis_used_in_category": "Offl.  § 23 første ledd"
+    },
+    {
+        "note": "Unntak av omsyn til det offentlege sin forhandlingsposisjon m.m - Forhandlingar om rammeavtalar med landbruks-, fiskeri- og reindriftsorganisasjonane",
+        "legal_basis_used_in_category": "Offl. § 23 annet ledd"
+    },
+    {
+        "note": "Unntak for kontroll- og reguleringstiltak, dokument om lovbrot og opplysningar som kan lette gjennomføringa av lovbrit m.m",
+        "legal_basis_used_in_category": "Offl.  § 24"
+    },
+    {
+        "note": "Unntak for tilsetjingssaker m.m",
+        "legal_basis_used_in_category": "Offl.  § 25"
+    },
+    {
+        "note": "Unntak for eksamenssvar og karakterer m.m",
+        "legal_basis_used_in_category": "Offl.  § 26"
+    },
+    {
+        "note": "Unntak fra innsyn for eksamenssvar, prøve, utkast til konkurranse e.l",
+        "legal_basis_used_in_category": "Offl.  § 26 første ledd"
+    },
+    {
+        "note": "Unntak fra innsyn for opplysninger om person som blir tildelt pris e.l.",
+        "legal_basis_used_in_category": "Offl.  § 26 andre ledd"
+    },
+    {
+        "note": "Unntak for innsyn for personbilde i personregister og opplysninger fra personovervåking",
+        "legal_basis_used_in_category": "Offl.  § 26 tredje ledd"
+    },
+    {
+        "note": "Unntak fra innsyn for opplysninger om forskning vedr. økonomisk stønad eller rådgivning under arb",
+        "legal_basis_used_in_category": "Offl.  § 26 fjerde ledd"
+    },
+    {
+        "note": "Unntak fra innsyn for fødselsnummer og nr. med tilsvarende funksjon",
+        "legal_basis_used_in_category": "Offl.  § 26 femte ledd"
+    },
+    {
+        "note": "Innsynskravet",
+        "legal_basis_used_in_category": "Offl.  § 28"
+    },
+    {
+        "note": "Kva organ skal evgjere innsynskravet mv.",
+        "legal_basis_used_in_category": "Offl.  § 29"
+    },
+    {
+        "note": "Korleis organet skal gi innsyn",
+        "legal_basis_used_in_category": "Offl.  § 30"
+    },
+    {
+        "note": "Klage",
+        "legal_basis_used_in_category": "Offl.  § 32"
+    }
+]

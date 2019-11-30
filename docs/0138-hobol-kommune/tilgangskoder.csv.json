@@ -1,0 +1,82 @@
+[
+    {
+        "code": "ANSKAFF",
+        "name_or_description": "Anskaffelser",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "BARN",
+        "name_or_description": "Barnearkiv",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "BOLIG",
+        "name_or_description": "Startlån",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "BYGG",
+        "name_or_description": "Byggesaksarkiv",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "ELEV",
+        "name_or_description": "Elevarkiv",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "OPPMÅLING",
+        "name_or_description": "Oppmålingsarkiv",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "PERS",
+        "name_or_description": "Personalarkiv",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "PLAN",
+        "name_or_description": "Planarkiv",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "SAK 2014",
+        "name_or_description": "Saksarkiv 2014",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "SKATT",
+        "name_or_description": "Skatt",
+        "system": "WebSak",
+        "active_now": true
+    },
+    {
+        "code": "ANS",
+        "name_or_description": "Ansettelsessak",
+        "system": "ESA"
+    },
+    {
+        "code": "BYG",
+        "name_or_description": "Byggesak",
+        "system": "ESA"
+    },
+    {
+        "code": "MOT",
+        "name_or_description": "Utvalgsmøter",
+        "system": "ESA"
+    },
+    {
+        "code": "STD",
+        "name_or_description": "Standard sak",
+        "system": "ESA"
+    }
+]

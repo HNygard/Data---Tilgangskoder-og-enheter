@@ -1,0 +1,77 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Off. lova og Forvaltningslova",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Generell",
+        "codeSystemId": "17",
+        "valid_from": "01.01.2014",
+        "valid_to": "31.12.2019"
+    },
+    {
+        "code": "IS",
+        "name_or_description": "Intern skjerming",
+        "note": "Ikke i bruk",
+        "legal_basis_used_in_category": "Fvl. §13 2.ledd bokstav b",
+        "codeSystemId": "20"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Off.lov og Forvaltningslova",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Personalsak",
+        "codeSystemId": "21",
+        "valid_from": "01.01.2014",
+        "valid_to": "31.12.2019"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Off. lov og Forvaltningslova",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Elevsak",
+        "codeSystemId": "22",
+        "valid_from": "01.01.2014",
+        "valid_to": "31.12.2019"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Off.lov og Forvaltningslova",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Barnesak",
+        "codeSystemId": "23",
+        "valid_from": "01.01.2014",
+        "valid_to": "31.12.2019"
+    },
+    {
+        "code": "PD",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Off. lov og Forvaltningslova",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Personalsak disiplinærsak",
+        "codeSystemId": "24",
+        "valid_from": "01.01.2014",
+        "valid_to": "31.12.2019"
+    },
+    {
+        "code": "ST",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Off. lov og Forvaltningslova",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Startlån",
+        "codeSystemId": "26",
+        "valid_from": "01.01.2014",
+        "valid_to": "31.12.2019"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Ikkje offentleg",
+        "note": "Ikke i bruk",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. § 13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Personalsak sensitiv",
+        "codeSystemId": "28"
+    }
+]

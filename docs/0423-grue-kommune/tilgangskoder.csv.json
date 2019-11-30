@@ -1,0 +1,34 @@
+[
+    {
+        "code": "E",
+        "name_or_description": "Elevmappe",
+        "valid_to": "Avsluttet 31.08.16"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Elevsensitivt"
+    },
+    {
+        "code": "IS",
+        "name_or_description": "Unntatt off internt",
+        "valid_to": "Avsluttet 31.08.16"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Overformynderriig"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalmappe",
+        "valid_to": "Avsluttet 06.01.15"
+    },
+    {
+        "code": "P1",
+        "name_or_description": "Personal delegert",
+        "valid_to": "Avsluttet 31.06.16"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Unntatt pesonalsensitiv sak"
+    }
+]

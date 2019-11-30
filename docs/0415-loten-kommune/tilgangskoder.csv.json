@@ -1,0 +1,54 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentleg innsyn (Ofl)"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret Ofl §4"
+    },
+    {
+        "code": "4",
+        "name_or_description": "Unntatt offentlig ofl §4"
+    },
+    {
+        "code": "5",
+        "name_or_description": "Unntatt offentlig ofl §5"
+    },
+    {
+        "code": "13",
+        "name_or_description": "Unntatt offentlig ofl §13"
+    },
+    {
+        "code": "14",
+        "name_or_description": "Unntatt offentlig ofl §14"
+    },
+    {
+        "code": "15",
+        "name_or_description": "Unntatt offentlig ofl §15"
+    },
+    {
+        "code": "18",
+        "name_or_description": "Unntatt offentlig ofl §18"
+    },
+    {
+        "code": "23",
+        "name_or_description": "Unntatt offentlig ofl §23"
+    },
+    {
+        "code": "24",
+        "name_or_description": "Unntatt offentlig ofl §24"
+    },
+    {
+        "code": "25",
+        "name_or_description": "Unntatt offentlig ofl §25"
+    },
+    {
+        "code": "26",
+        "name_or_description": "Unntatt offentlig ofl §26"
+    },
+    {
+        "code": "27",
+        "name_or_description": "Unntatt offentlig ofl §27"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "code": "ANS",
+        "name_or_description": "Ansettelsessak"
+    },
+    {
+        "code": "BYG",
+        "name_or_description": "Byggesak"
+    },
+    {
+        "code": "DEL",
+        "name_or_description": "Delingssak"
+    },
+    {
+        "code": "PLN",
+        "name_or_description": "Plansak"
+    },
+    {
+        "code": "STD",
+        "name_or_description": "Standard sak"
+    }
+]

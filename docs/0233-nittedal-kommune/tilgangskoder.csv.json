@@ -1,0 +1,202 @@
+[
+    {
+        "code": "Offl § 2",
+        "name_or_description": "Offl § 2 (virkeområde for Offentleglova)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 3",
+        "name_or_description": "Offl § 3 (hovedregel)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 4",
+        "name_or_description": "Offl § 4 (Definisjonar)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 5",
+        "name_or_description": "Offl § 5 (utsatt innsyn)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 8",
+        "name_or_description": "Offl § 8 (Hovudregel om gratis innsyn)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 9",
+        "name_or_description": "Offl § 9 (rett til innsyn i sammenstilling fra databaser)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 10",
+        "name_or_description": "Offl § 10 (plikt til å føre journal og tilgjengeliggjøring av journal på internett)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 11",
+        "name_or_description": "Offl § 11 (Meirinnsyn)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 13, jf fvl §13 1.ledd nr 2",
+        "name_or_description": "Offl § 13, jf fvl§ 13 1.ledd nr 2 ( Taushetsplikt av konkurransemessig hensyn)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 13, jf fvl §13 1.ledd nr 1",
+        "name_or_description": "Offl § 13, jf fvl §13 1.ledd nr 1 (Taushetsplikt personlige forhold)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 14",
+        "name_or_description": "Offl § 14 (organinterne dokumenter)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 15",
+        "name_or_description": "Offl § 15 (interne dokumenter utenfra)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 16",
+        "name_or_description": "Offl § 16 (innsyn i interne dokumenter i kommunen og fylkeskommunen)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 17",
+        "name_or_description": "Offl § 17  (dokumenter som i visse saker gjelder Det kongl. Hoff)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 18",
+        "name_or_description": "Offl § 18 (rettsaksdokumenter)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 19",
+        "name_or_description": "Offl § 19 (konsultasjoner med sametinget)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 20",
+        "name_or_description": "Offl § 20 (utenriksunntaket)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 21",
+        "name_or_description": "Offl § 21 (forsvars- og sikkerhetsinteresser)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 22",
+        "name_or_description": "Offl § 22 (Unntak i visse budsjettsaker)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 23, 1. ledd",
+        "name_or_description": "Offl § 23.1 (Forsvarlig gjennomføring av økonomi, lønns- og personalforvaltning)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 23 annet ledd",
+        "name_or_description": "Offl § 23 annet ledd",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl § 23, 3. ledd",
+        "name_or_description": "Offl § 23.3 (Unntak for tilbud og protokoll om offentlig innkjøp)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 23, 4. ledd",
+        "name_or_description": "Offl § 23.4 (Unntak for dokumenter med eierinteresser)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 24, 1. ledd",
+        "name_or_description": "Offl § 24.1 (Motvirke offentlige kontroll- eller reguleringstiltak)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 24, 2. ledd",
+        "name_or_description": "Offl § 24.2 (Anmeldelse, rapport og annet dokument om lovovertredelse)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 24, 3. ledd",
+        "name_or_description": "Offl § 24 3.ledd",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 25",
+        "name_or_description": "Offl § 25 (Dokument i sak om ansettelse eller forfremmelse i offentlig tjeneste)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 25, 2. ledd",
+        "name_or_description": "Offl § 25 2. ledd",
+        "valid_from": "1/17/2011",
+        "valid_to": "4/5/2018"
+    },
+    {
+        "code": "Offl § 26, 1. ledd",
+        "name_or_description": "Offl § 26.1 (Besvarelse til eksamen eller lignende prøve samt innlevert utkast til konkurranse e.l.)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 26, 2. ledd",
+        "name_or_description": "Offl § 26.2 (Priser, hederstegn o.l. inntil tildeling er gjort)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 26, 3. ledd",
+        "name_or_description": "Offl § 26.3 (Unntak for opplysninger i personregister)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 24, 3. ledd",
+        "name_or_description": "Offl § 24.3 (Opplysninger for å unngå straffbare handlinger)",
+        "valid_from": "1/17/2011"
+    },
+    {
+        "code": "Offl § 24, 4. ledd",
+        "name_or_description": "Offl § 24 4. ledd",
+        "valid_from": "1/17/2011",
+        "valid_to": "2/6/2011"
+    },
+    {
+        "code": "Offl § 32",
+        "name_or_description": "Offl § 32 (Klage)",
+        "valid_from": "1/17/2011",
+        "valid_to": "1/17/2011"
+    },
+    {
+        "code": "Offl §13 jfr Fvl §13",
+        "name_or_description": "Offl §13 jfr Fvl §13",
+        "valid_from": "1/17/2011",
+        "valid_to": "3/31/2014"
+    },
+    {
+        "code": "Offl § 23, 1. ledd j",
+        "name_or_description": "Offl § 23, 1. ledd jf. Offl § 13. jf. Fvl § 13.1 ledd nr 1",
+        "valid_from": "9/6/2012"
+    },
+    {
+        "code": "Offl § 26, 5. ledd",
+        "name_or_description": "Offl § 26.5 (Unntak for fødselsnummer og nummer med tilsvarende funksjon)",
+        "valid_from": "7/2/2019"
+    }
+]

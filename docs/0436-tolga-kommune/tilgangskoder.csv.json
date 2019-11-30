@@ -1,0 +1,32 @@
+[
+    {
+        "code": "PLN",
+        "name_or_description": "Ordinær plansak",
+        "active_now": true
+    },
+    {
+        "code": "STD",
+        "name_or_description": "Standard sak",
+        "active_now": true
+    },
+    {
+        "code": "ANS",
+        "name_or_description": "Ordinær ansettelsessak",
+        "active_now": true
+    },
+    {
+        "code": "BYG",
+        "name_or_description": "Byggesak",
+        "active_now": true
+    },
+    {
+        "code": "PERS",
+        "name_or_description": "Personalsak",
+        "active_now": true
+    },
+    {
+        "code": "GID",
+        "name_or_description": "Gards-og bruksarkiv",
+        "active_now": true
+    }
+]

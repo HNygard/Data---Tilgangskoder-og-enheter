@@ -1,0 +1,72 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtebehandling",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Innkreving av skatt",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Enkeltvedtak innen skole/barnehage",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "20.11.2017"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Omsorg/pleie",
+        "valid_from": "16.11.2005"
+    },
+    {
+        "code": "A",
+        "name_or_description": "Stillinger",
+        "valid_from": "23.03.2007"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Disiplinærsaker",
+        "valid_from": "16.12.2008"
+    }
+]

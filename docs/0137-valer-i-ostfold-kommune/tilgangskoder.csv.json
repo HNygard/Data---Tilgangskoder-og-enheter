@@ -1,0 +1,26 @@
+[
+    {
+        "name_or_description": "Sentraladmin",
+        "active_now": true
+    },
+    {
+        "name_or_description": "Ordfører",
+        "active_now": true
+    },
+    {
+        "name_or_description": "Natur/Milljø",
+        "active_now": true
+    },
+    {
+        "name_or_description": "Kultur/Undervisning",
+        "active_now": true
+    },
+    {
+        "name_or_description": "Helse/sosial",
+        "active_now": true
+    },
+    {
+        "name_or_description": "Morsa",
+        "active_now": true
+    }
+]

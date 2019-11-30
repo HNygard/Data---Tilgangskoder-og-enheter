@@ -1,0 +1,58 @@
+[
+    {
+        "code": "BS",
+        "name_or_description": "Byggesak"
+    },
+    {
+        "code": "DS",
+        "name_or_description": "Delingsak"
+    },
+    {
+        "code": "EP",
+        "name_or_description": "Elektronisk post"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Enkel sak"
+    },
+    {
+        "code": "FL",
+        "name_or_description": "Flyktning"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klagesak"
+    },
+    {
+        "code": "KM",
+        "name_or_description": "Klientmappe"
+    },
+    {
+        "code": "M",
+        "name_or_description": "Møtedokumenter"
+    },
+    {
+        "code": "PE",
+        "name_or_description": "Personalsak"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Plansaker"
+    },
+    {
+        "code": "RS",
+        "name_or_description": "Reguleringssaker"
+    },
+    {
+        "code": "SL",
+        "name_or_description": "Startlån"
+    },
+    {
+        "code": "TS",
+        "name_or_description": "Tilsynssak - byggesak"
+    },
+    {
+        "code": "VA",
+        "name_or_description": "Vann- og avløp"
+    }
+]

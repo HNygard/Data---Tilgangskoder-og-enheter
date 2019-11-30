@@ -1,0 +1,51 @@
+[
+    {
+        "code": "E",
+        "name_or_description": "Unntatt offentlighet",
+        "legal_basis_used_in_category": "§ 13/opp.lova § 15-\n1/fvl.§ 13,1 ledd\nnr1",
+        "legal_basis_used_in_category_hint": "Elevmappe"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Gradering av sensitive\nelevsaker",
+        "legal_basis_used_in_category": "§ 13/opp.lova § 15-\n1/fvl.§ 13,1 ledd\nnr1",
+        "legal_basis_used_in_category_hint": "Brukes ved skjerming for\ninterne brukere når\nandre skjermingskoder"
+    },
+    {
+        "code": "HS",
+        "name_or_description": "Gradering av sensitive\nhelsesaker",
+        "legal_basis_used_in_category": "§ 13  jf.\nhelsepersonelloven\n§ 21",
+        "legal_basis_used_in_category_hint": "Brukes ved skjerming for\ninterne brukere når\nandre skjermingskoder"
+    },
+    {
+        "code": "IS",
+        "name_or_description": "Intern skjerming\n(øvrige saker)",
+        "legal_basis_used_in_category_hint": "Brukes ved skjerming for\ninterne brukere når\nandre skjermingskoder\nikke er tilstrekkelig"
+    },
+    {
+        "code": "L",
+        "name_or_description": "Unntatt offentlighet\n(ledersaker)",
+        "legal_basis_used_in_category_hint": "Ledersaker"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsak",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. §\n13 1. ledd nr. 1"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Personalsak - sensitiv",
+        "legal_basis_used_in_category": "§ 13 1. ledd, jf. fvl. §\n13 1. ledd nr. 1",
+        "legal_basis_used_in_category_hint": "Disiplinærsaker"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig unntatt\noffentlighet",
+        "legal_basis_used_in_category": "IOF",
+        "legal_basis_used_in_category_hint": "Brukes ved skjerming\ninntil riktig\nskjermingskode, paragraf"
+    }
+]

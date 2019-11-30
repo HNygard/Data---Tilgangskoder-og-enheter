@@ -1,0 +1,30 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ugradert"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Barn"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elev"
+    }
+]

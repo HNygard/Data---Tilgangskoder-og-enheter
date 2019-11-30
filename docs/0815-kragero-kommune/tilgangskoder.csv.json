@@ -1,0 +1,358 @@
+[
+    {
+        "name_or_description": "Alle utvalgssekretærer",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "ARKIV",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "AVLASTNINGSTJENESTEN",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "BARN",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Hellekirken",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Kalstad",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Levangsheia",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Rømerverven",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Sannidal",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Siritun",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Trekanten",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Barnehage - Årø",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "BARNEVERN",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "BOLIG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "BOSTØTTE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "BYGG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "EIENDOM",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "ELEV",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "FYSIO",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "HAVNEVESENET",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "HC",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "HELSE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "HELSESTASJON",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "HMS/KVALITET",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "KKF",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "KOMMUNEOVERLEGE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "KOORDINERENDE TEAM",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "KULTUR",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "KULTURSKOLEN",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "KVOA",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "LEGEVAKT",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "LÅN-TILSKUDD",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "MILJØ",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "NAV",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "NÆRING",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "OMSORG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette byggesak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette landbrukssak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette miljøsak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette oppmålingssak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette personalsak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette plansak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Opprette VA-sak",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "ORDFØRER",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS BYGG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS HELSE OG REHAB",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS KOMPETANSE OG INT",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS KULTUR",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS LEDERE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS OMSORG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS SERVICESENTER",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS SOSIALE TJENESTER",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS STØTTE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERS TEKNISK/EIENDOM",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERSBARNEHAGE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERSD1",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERSD2",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERSMARIENLYST",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Personal",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "PERSSKOLE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "REGNSKAP",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "REVISJON",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "RÅDMANN",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SERVICE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKATT",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKJÆRG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - HELLE SFO",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - HELLE SKOLE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - KRAGERØ SFO",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - KRAGERØ SKOLE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - LEVANGSHEIA SFO",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - LEVANGSHEIA SKOLE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - SANNIDAL SFO",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - SANNIDAL SKOLE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLE - SANNIDAL UNGDOMSSKOLE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "SKOLEKONTORET",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "STAB",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Stab-Leder Samfunn",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "STØTTE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "STØTTEKONTAKT",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "TEKNISK",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "TILLITSVALGTE",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "TILSKUDD KOM. AVGIFTER",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "TILSKUDD TROSSAMFUNN",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "UTLEIE KOM. BYGG",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Varsling",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "Varsling - Arkivar",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "VERNEOMBUD",
+        "note": "Kalt tilgangsgruppe"
+    },
+    {
+        "name_or_description": "VOPP",
+        "note": "Kalt tilgangsgruppe"
+    }
+]

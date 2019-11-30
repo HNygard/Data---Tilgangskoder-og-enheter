@@ -1,0 +1,57 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelser",
+        "valid_from": "05.10.2007"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker",
+        "valid_from": "15.12.2003"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "15.12.2003"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig",
+        "valid_from": "14.06.2007"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtedokumenter unntatt offentlighet",
+        "valid_from": "15.12.2003"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "15.12.2003"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen",
+        "valid_from": "01.01.2004"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "15.12.2003"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "15.12.2003"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "system": "Public 360"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Ugradert",
+        "system": "Public 360"
+    },
+    {
+        "code": "11",
+        "name_or_description": "Offentlige anskaffelser",
+        "system": "Ephorte"
+    },
+    {
+        "code": "1V",
+        "name_or_description": "Journaler for barnevernssaker mm - Off.l § 11/Forskrift VI nr.  1b",
+        "system": "Ephorte"
+    },
+    {
+        "code": "24",
+        "name_or_description": "Merinnsyn",
+        "system": "Ephorte"
+    },
+    {
+        "code": "4",
+        "name_or_description": "Utsatt offentlighet (bla innhenting av tilbud)",
+        "system": "Ephorte"
+    },
+    {
+        "code": "5",
+        "name_or_description": "Interne dokumenter",
+        "system": "Ephorte"
+    },
+    {
+        "code": "52",
+        "name_or_description": "Interne dokumenter fra underordnet organ",
+        "system": "Ephorte"
+    },
+    {
+        "code": "7",
+        "name_or_description": "Interne dokumenter fra rådgivere",
+        "system": "Ephorte"
+    },
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsessaker",
+        "system": "Ephorte"
+    },
+    {
+        "code": "AN",
+        "name_or_description": "Ansettelsessaker",
+        "system": "Ephorte"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven",
+        "system": "Ephorte"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker - Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "BS",
+        "name_or_description": "Bygg sensitiv",
+        "system": "Ephorte"
+    },
+    {
+        "code": "BV",
+        "name_or_description": "Barnevernsaker - Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Kontroll- eller reguleringstiltak",
+        "system": "Ephorte"
+    },
+    {
+        "code": "DI",
+        "name_or_description": "Økonomiske rammeavtaler med næringslivet",
+        "system": "Ephorte"
+    },
+    {
+        "code": "DO",
+        "name_or_description": "Økonomi-, lønns- eller personalforvaltning",
+        "system": "Ephorte"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker - Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "EK",
+        "name_or_description": "Eksamen/Utkast til konkurranse",
+        "system": "Ephorte"
+    },
+    {
+        "code": "EM",
+        "name_or_description": "Enslige mindreårige flyktninger",
+        "system": "Ephorte"
+    },
+    {
+        "code": "ES",
+        "name_or_description": "Elev - Sensitiv",
+        "system": "Ephorte"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen",
+        "system": "Ephorte"
+    },
+    {
+        "code": "FL",
+        "name_or_description": "Flyktninger",
+        "system": "Ephorte"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven",
+        "system": "Ephorte"
+    },
+    {
+        "code": "HE",
+        "name_or_description": "Helsesaker - Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "HI",
+        "name_or_description": "Hemmelig identitet",
+        "system": "Ephorte"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven",
+        "system": "Ephorte"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker-Sosial",
+        "system": "Ephorte"
+    },
+    {
+        "code": "LI",
+        "name_or_description": "Ligningsforvaltningen - Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "LO",
+        "name_or_description": "Lovovertredelse",
+        "system": "Ephorte"
+    },
+    {
+        "code": "MI",
+        "name_or_description": "Unntak på grunn av dokumentets innhold",
+        "system": "Ephorte"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtedokument unntatt offentlighet",
+        "system": "Ephorte"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "system": "Ephorte"
+    },
+    {
+        "code": "PS",
+        "name_or_description": "Personal - sensitiv",
+        "system": "Ephorte"
+    },
+    {
+        "code": "RF",
+        "name_or_description": "Økonomiske rammeavtaler med næringslivet",
+        "system": "Ephorte"
+    },
+    {
+        "code": "RG",
+        "name_or_description": "Rådmannsgruppa + ordfører",
+        "system": "Ephorte"
+    },
+    {
+        "code": "RN",
+        "name_or_description": "UTGÅR - FEILREGISTRERT",
+        "system": "Ephorte"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen",
+        "system": "Ephorte"
+    },
+    {
+        "code": "SJ",
+        "name_or_description": "Slettede journalposter (utgåtte)",
+        "system": "Ephorte"
+    },
+    {
+        "code": "SK",
+        "name_or_description": "Skatteoppkreving-Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "SO",
+        "name_or_description": "Sosialsaker - Taushetsplikt",
+        "system": "Ephorte"
+    },
+    {
+        "code": "UE",
+        "name_or_description": "Eksamen, pris, heidersteikn",
+        "system": "Ephorte"
+    },
+    {
+        "code": "UI",
+        "name_or_description": "UTGÅR",
+        "system": "Ephorte"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Taushetsplikt",
+        "system": "Ephorte"
+    }
+]

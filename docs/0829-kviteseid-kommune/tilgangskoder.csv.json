@@ -1,0 +1,101 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsessaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "BV",
+        "name_or_description": "Barnevernssaker",
+        "valid_from": "12.10.2016"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Disiplinærsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "FL",
+        "name_or_description": "Flyktningssaker",
+        "valid_from": "01.03.2016"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "HP",
+        "name_or_description": "Helse og pleiesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker"
+    },
+    {
+        "code": "L",
+        "name_or_description": "Logopedsaker",
+        "valid_from": "28.09.2017"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtebehandling",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Overformynderi",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "31.10.2007"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unnateke offentlegheit",
+        "valid_from": "01.01.2009"
+    },
+    {
+        "code": "V",
+        "name_or_description": "Vaksenopplæringssaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "21.08.2019"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ugradert"
+    },
+    {
+        "code": "TAUSHETSPLIKT",
+        "name_or_description": "Taushetsplikt"
+    },
+    {
+        "code": "LOVBRUDD",
+        "name_or_description": "Kontroll, lovbrudd og rettssaksdokumenter"
+    },
+    {
+        "code": "FØDSELSNUMMER",
+        "name_or_description": "Fødselsnummer og nummer med tilsvarende funksjon"
+    },
+    {
+        "code": "SIKKERHET",
+        "name_or_description": "Forsvars- og sikkerhetsinteresser"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset"
+    },
+    {
+        "code": "INTERNT",
+        "name_or_description": "Intern saksforberedelse"
+    },
+    {
+        "code": "ADM",
+        "name_or_description": "økonomi--, personal-, lønnssaker og anbud"
+    },
+    {
+        "code": "UTSATT",
+        "name_or_description": "Utsatt offentlighet"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig",
+        "note": "Ukjent sluttdato, satt en fordi den er utløpt",
+        "valid_to": "01.01.2019"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "note": "Ukjent sluttdato, satt en fordi den er utløpt",
+        "valid_to": "01.01.2019"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "note": "Ukjent sluttdato, satt en fordi den er utløpt",
+        "valid_to": "01.01.2019"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "note": "Ukjent sluttdato, satt en fordi den er utløpt",
+        "valid_to": "01.01.2019"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "note": "Ukjent sluttdato, satt en fordi den er utløpt",
+        "valid_to": "01.01.2019"
+    }
+]

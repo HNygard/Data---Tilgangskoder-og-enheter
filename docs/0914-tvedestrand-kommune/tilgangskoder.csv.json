@@ -1,0 +1,105 @@
+[
+    {
+        "code": "U",
+        "name_or_description": "Ugradert",
+        "system": "P360",
+        "valid_from": "6/1/2019"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "system": "P360",
+        "valid_from": "9/1/2019"
+    },
+    {
+        "code": "BS",
+        "name_or_description": "Barnehagesaker",
+        "system": "Ephorte",
+        "valid_from": "3/17/2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "system": "Ephorte",
+        "valid_from": "3/17/2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtedokument unntatt offentlighet",
+        "system": "Ephorte",
+        "valid_from": "3/17/2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skatt/innfordring",
+        "system": "Ephorte",
+        "valid_from": "3/17/2006",
+        "valid_to": "12/31/2012"
+    },
+    {
+        "code": "UO",
+        "name_or_description": "Unntatt offentlighet",
+        "system": "Ephorte",
+        "valid_from": "3/17/2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "system": "Ephorte",
+        "valid_from": "4/20/2006",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "A",
+        "name_or_description": "Søknad på stilling",
+        "system": "Ephorte",
+        "valid_from": "2/9/2007",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "IN",
+        "name_or_description": "Innkjøp og anskaffelser",
+        "system": "Ephorte",
+        "valid_from": "10/26/2017",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "PX",
+        "name_or_description": "Personalsaker - sensitivt",
+        "system": "Ephorte",
+        "valid_from": "10/26/2017",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "PL",
+        "name_or_description": "Lederoppfølging",
+        "system": "Ephorte",
+        "valid_from": "8/28/2018",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "PO",
+        "name_or_description": "Personalmapper avdelingsledere OR",
+        "system": "Ephorte",
+        "valid_from": "9/10/2018",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "PN",
+        "name_or_description": "Personaloppfølging NAV",
+        "system": "Ephorte",
+        "valid_from": "10/8/2018",
+        "valid_to": "5/31/2019"
+    },
+    {
+        "code": "VO",
+        "name_or_description": "Varsling OR",
+        "system": "Ephorte",
+        "valid_from": "11/16/2018",
+        "valid_to": "5/31/2019"
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "code": "26",
+        "name_or_description": "UP",
+        "valid_from": "11/21/2014",
+        "valid_to": "11/21/2014"
+    },
+    {
+        "code": "AK",
+        "name_or_description": "Avtaler/kontrakter",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "AM",
+        "name_or_description": "Anmeldelse/lovbrudd",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "AO",
+        "name_or_description": "Attføring/omplassering",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven",
+        "valid_from": "9/18/2006"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagebarn",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "BO",
+        "name_or_description": "Bostøtte",
+        "valid_from": "8/25/2006"
+    },
+    {
+        "code": "BP",
+        "name_or_description": "Beredskap",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "BS",
+        "name_or_description": "Begrenset iht sikkerhetsloven",
+        "valid_from": "11/17/2011"
+    },
+    {
+        "code": "BT",
+        "name_or_description": "Begrenset tilgang",
+        "valid_from": "3/25/2011"
+    },
+    {
+        "code": "BV",
+        "name_or_description": "Barnevern",
+        "valid_from": "3/14/2017"
+    },
+    {
+        "code": "DP",
+        "name_or_description": "Disiplinærsaker",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen",
+        "valid_from": "9/18/2006"
+    },
+    {
+        "code": "G",
+        "name_or_description": "Gjeldsordning",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven",
+        "valid_from": "9/18/2006"
+    },
+    {
+        "code": "ID",
+        "name_or_description": "Internt dokument",
+        "valid_from": "2/26/2018"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven",
+        "valid_from": "9/18/2006"
+    },
+    {
+        "code": "KI",
+        "name_or_description": "Kommunal innfordring",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "9/18/2006"
+    },
+    {
+        "code": "L",
+        "name_or_description": "Landbruk",
+        "valid_from": "9/18/2012"
+    },
+    {
+        "code": "LK",
+        "name_or_description": "Kommunale lån/boligtilskudd/bostøtte",
+        "valid_from": "3/21/2006"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Offentlig protokoll/offentlig innkalling for møtesekretærer",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "NA",
+        "name_or_description": "Nasjonale forsvars- og tryggingsinteresser",
+        "valid_from": "4/30/2009"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "9/18/2006"
+    },
+    {
+        "code": "RD",
+        "name_or_description": "Unntak for rettsaks dokument",
+        "valid_from": "2/28/2018"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "SB",
+        "name_or_description": "Lov om betaling og innkreving",
+        "valid_from": "2/28/2019"
+    },
+    {
+        "code": "ST",
+        "name_or_description": "Startlån",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "TB",
+        "name_or_description": "Tilbud/anbud",
+        "valid_from": "5/4/2006"
+    },
+    {
+        "code": "TD",
+        "name_or_description": "Tilgjengeliggjøring av dokumenter på nett",
+        "valid_from": "6/21/2019"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "3/9/2006"
+    },
+    {
+        "code": "UM",
+        "name_or_description": "Unntatt offentlighet etter matrikkelloven",
+        "valid_from": "8/13/2013"
+    },
+    {
+        "code": "US",
+        "name_or_description": "Unntatt offentlighet etter statistikkloven",
+        "valid_from": "3/24/2017"
+    },
+    {
+        "code": "VI",
+        "name_or_description": "Unntatt offentlighet ved vielse",
+        "valid_from": "11/16/2017"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "9/18/2006"
+    }
+]

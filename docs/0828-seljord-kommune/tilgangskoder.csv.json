@@ -1,0 +1,92 @@
+[
+    {
+        "code": "A",
+        "name_or_description": "Ansettelsessaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "B",
+        "name_or_description": "Begrenset etter sikkerhetsloven"
+    },
+    {
+        "code": "BA",
+        "name_or_description": "Barnehagesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "D",
+        "name_or_description": "Disiplinærsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "E",
+        "name_or_description": "Elevsaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "EX",
+        "name_or_description": "Elev nivå 4",
+        "valid_from": "04.12.2015"
+    },
+    {
+        "code": "F",
+        "name_or_description": "Fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "H",
+        "name_or_description": "Hemmelig etter sikkerhetsloven"
+    },
+    {
+        "code": "HO",
+        "name_or_description": "Helse og omsorg",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "K",
+        "name_or_description": "Konfidensielt etter sikkerhetsloven"
+    },
+    {
+        "code": "KL",
+        "name_or_description": "Klientsaker",
+        "valid_from": "01.01.2007"
+    },
+    {
+        "code": "MU",
+        "name_or_description": "Møtebehandling",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "O",
+        "name_or_description": "Overformynderi",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "P",
+        "name_or_description": "Personalsaker",
+        "valid_from": "30.10.2007"
+    },
+    {
+        "code": "PX",
+        "name_or_description": "Personal nivå 4",
+        "valid_from": "04.12.2015"
+    },
+    {
+        "code": "S",
+        "name_or_description": "Skattesaker",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "SF",
+        "name_or_description": "Strengt fortrolig etter beskyttelsesinstruksen"
+    },
+    {
+        "code": "U",
+        "name_or_description": "Unntatt offentlighet",
+        "valid_from": "28.06.2007"
+    },
+    {
+        "code": "XX",
+        "name_or_description": "Midlertidig sperret",
+        "valid_from": "28.08.2017"
+    }
+]
