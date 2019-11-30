@@ -10,10 +10,11 @@ Innsynshenvendelsene blir manuelt prosessert. 3 filer blir laget:
 - enheter.csv
 - svar.txt
 
-Status (sist oppdatert 30.11.2016):
-- Totalt antall henvendelser: 1
-- Totalt antall vellykket: 1
-- Totalt antall ferdig behandlet: 1 (5 %) 
+Status (sist oppdatert 30.11.2019):
+- Totalt antall henvendelser: 568
+- Totalt antall vellykket: ??
+- Totalt antall ferdig behandlet: 48 (8 %)
+
 Data:
 - [JSON-data](./json/)
 - [Full status på innsynshenvendelsene og strukturering av dataene](./data/)
