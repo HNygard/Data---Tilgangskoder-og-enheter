@@ -5,3 +5,4 @@ departement og andre myndigheter.
 
 IDene til myndighetene er samme som [Norske-postlister.no](https://norske-postlister.no/) benytter. Dataene er samlet inn for bruk her.
 
+- [Status](/data/)
